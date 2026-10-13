@@ -1,5 +1,21 @@
 # 验证记录
 
+## GitHub 基线与语法入门（App 1.10）
+
+语法开发前已将完整 1.9 代码提交并推送到 https://github.com/IfxRev47/EverydayEnglish，基线提交 `81a88ae1e269449383e61570ef4e637e097155b9`，远端标签 `v1.9`。llama.cpp 是固定提交 `2145525a4081d66ff1a87cf43ef809f95a85ac0c` 的子模块；本机配置、缓存、APK、模型及密钥未提交。
+
+新增独立语法入口及 8 节从需求、状态到否定、提问、第三人称、数量表达的自编课程，按看懂、跟读、换词、拼句、独立表达推进。课程数据为 grammar_beginner.json，进度与个人表达单独保存，不修改词库或背诵历史。
+
+完整测试、Lint 和 assembleDebug：**BUILD SUCCESSFUL**，62 项测试通过，0 失败；Lint 0 错误、21 项警告、3 项提示。最终日志：`build/grammar-final.log`。
+
+- 新增 4 项数据/状态测试：8 课资产与词库一致性、重复课号拒绝、声明的缩写和格式匹配、错误词序及动词形式不匹配、重新学习保留完成与个人表达、拼句与独立表达门槛有效。
+- 新增 Compose 流程：无需模型，进入 G01、看懂和跟读、替换、逐词拼句、输入目标句与自己的句子、确认已说出、保存并回目录显示完成，再返回今日计划。修正最初使用 FlowRow 的运行时兼容问题，改为普通 Row 分组显示。
+- 原有 57 项词库、Room 迁移、掌握标记、词表、听写、历史、AI 与 UI 测试继续通过。Room 仍为版本 2，五个词库 JSON 和 libollama.so 与 1.9 APK 逐字节一致。
+- APK 为 `com.oxford.everyday`、versionCode 12 / versionName 1.10、ARM64；签名 SHA-256 与前版一致：`d2c827eb0d8e37c1f1239fc8c3c0563203d70b5d1df4593df79f415a9db2ba16`。输出 `build/deliverables/everyday-1.10.apk`，可覆盖安装。
+- adb 未发现连接设备，未修改手机数据，未真机验证声音或学习效果。自由表达不自动判语法对错，完成状态不代表口语熟练度。
+
+使用与课程资料说明见[语法从词到句子](docs/语法从词到句子.md)。
+
 ## 按日期查看背诵历史（2026-10-13，App 1.9）
 
 完整单元测试、Lint 和 assembleDebug：**BUILD SUCCESSFUL**，57 项测试通过，0 失败；Lint 0 错误、19 项警告、2 项提示。最终日志：`build/history-validation.log`。

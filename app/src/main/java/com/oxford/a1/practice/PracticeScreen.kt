@@ -34,7 +34,7 @@ fun TodaySummary(progress: DailyProgress, words: List<Word> = emptyList(), onOpe
 
 @Composable
 fun PracticeScreen(model: PracticeViewModel, ai: AiViewModel, words: List<Word>, audio: TtsAudioProvider,
-    onBack: () -> Unit, onModel: () -> Unit, onSpeechSettings: () -> Unit, onLearned: (Long) -> Unit = {}) {
+    onBack: () -> Unit, onModel: () -> Unit, onSpeechSettings: () -> Unit, onLearned: (Long) -> Unit = {}, onGrammar: () -> Unit = {}) {
     val state by model.state.collectAsStateWithLifecycle()
     val daily by model.daily.collectAsStateWithLifecycle()
     val aiState by ai.state.collectAsStateWithLifecycle()
@@ -48,7 +48,10 @@ fun PracticeScreen(model: PracticeViewModel, ai: AiViewModel, words: List<Word>,
     val scroll = rememberScrollState()
     LaunchedEffect(state.mode, state.index) { scroll.scrollTo(0) }
     Column(Modifier.fillMaxSize().verticalScroll(scroll).padding(20.dp), verticalArrangement = Arrangement.spacedBy(12.dp)) {
-        TextButton(onClick = onBack) { Text(if (state.mode == PracticeMode.MENU) "返回词库" else "返回今日练习") }
+        Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween) {
+            TextButton(onClick = onBack) { Text(if (state.mode == PracticeMode.MENU) "返回词库" else "返回今日练习") }
+            if (state.mode == PracticeMode.MENU) TextButton(onClick = onGrammar) { Text("语法入门") }
+        }
         Text(state.mode.title, style = MaterialTheme.typography.headlineMedium)
         if (state.mode == PracticeMode.MENU) {
             Text("${daily.date} · 已掌握 ${words.count { it.learned }} 个词")

@@ -35,6 +35,8 @@ import com.oxford.a1.ai.OfflineLearningScreen
 import com.oxford.a1.ai.ChatScreen
 import com.oxford.a1.ai.AiSettingsScreen
 import com.oxford.a1.practice.*
+import com.oxford.a1.grammar.GrammarViewModel
+import com.oxford.a1.grammar.GrammarScreen
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.repeatOnLifecycle
 import androidx.lifecycle.lifecycleScope
@@ -99,6 +101,9 @@ class MainActivity : ComponentActivity() {
             }
             val ai: AiViewModel = viewModel()
             val practiceModel: PracticeViewModel = viewModel()
+            val grammar: GrammarViewModel = viewModel()
+            var grammarPage by rememberSaveable { mutableStateOf(false) }
+            LaunchedEffect(grammarPage) { if (grammarPage) grammar.open() }
             val daily by practiceModel.daily.collectAsStateWithLifecycle()
             var practice by rememberSaveable { mutableStateOf(true) }
             val practiceState by practiceModel.state.collectAsStateWithLifecycle()
@@ -141,8 +146,9 @@ class MainActivity : ComponentActivity() {
                     lastFilter = signature
                 }
             }
-            BackHandler(enabled = offline || (practice && practiceState.mode != PracticeMode.MENU) || !practice) {
-                if (settingsPage) { audio.stop(); settingsPage = false }
+            BackHandler(enabled = grammarPage || offline || (practice && practiceState.mode != PracticeMode.MENU) || !practice) {
+                if (grammarPage) { audio.stop(); if (grammar.state.value.lessonId == null) grammarPage = false else grammar.back() }
+                else if (settingsPage) { audio.stop(); settingsPage = false }
                 else if (offline) { audio.stop(); ai.stop(); offline = false }
                 else if (practice) {
                     audio.stop(); ai.stop()
@@ -155,6 +161,7 @@ class MainActivity : ComponentActivity() {
                     Box(Modifier.fillMaxSize().padding(padding).imePadding(), contentAlignment = Alignment.TopCenter) {
                         Box(Modifier.widthIn(max = 760.dp).fillMaxSize()) {
                             when {
+                                grammarPage -> GrammarScreen(grammar, audio, onExit = { audio.stop(); grammarPage = false }, onSpeechSettings = ::openSpeechSettings)
                                 offline && settingsPage -> AiSettingsScreen(ai,
                                     onBack = { audio.stop(); settingsPage = false }, onSpeechSettings = ::openSpeechSettings)
                                 offline && chat -> ChatScreen(ai, audio,
@@ -168,7 +175,7 @@ class MainActivity : ComponentActivity() {
                                 practice && !state.loading && state.error == null -> PracticeScreen(practiceModel, ai, state.allWords, audio,
                                     onBack = { audio.stop(); ai.stop(); if (practiceState.mode == PracticeMode.MENU) practice = false else practiceModel.menu() },
                                     onModel = { audio.stop(); ai.stop(); chat = false; offline = true }, onSpeechSettings = ::openSpeechSettings,
-                                    onLearned = model::confirmLearned)
+                                    onLearned = model::confirmLearned, onGrammar = { audio.stop(); grammarPage = true })
                                 state.loading -> Column(Modifier.align(Alignment.Center), horizontalAlignment = Alignment.CenterHorizontally) {
                                     if (loadProgress.total > 0) {
                                         LinearProgressIndicator(progress = { loadProgress.fraction }, modifier = Modifier.width(260.dp))

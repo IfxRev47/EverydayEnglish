@@ -110,6 +110,36 @@ class AppFlowTest {
         compose.onNodeWithText("开始今日背诵").performScrollTo().assertIsNotEnabled()
     }
 
+    @Test fun grammarTeachesWordBuildingAndSavesPersonalExpressionWithoutAModel() {
+        compose.waitUntil(30_000) { compose.onAllNodesWithText("4953 个基础词汇").fetchSemanticsNodes().isNotEmpty() }
+        compose.onNodeWithText("今日目标 · 开始练习").performClick()
+        compose.onNodeWithText("语法入门").performClick()
+        compose.waitUntil(10_000) { compose.onAllNodesWithText("G01 · 我想要什么：组成第一句话").fetchSemanticsNodes().isNotEmpty() }
+        compose.onNodeWithText("G01 · 我想要什么：组成第一句话").performClick()
+        compose.onNodeWithText("第 1/5 步 · 看懂一句").assertExists()
+        compose.onNodeWithText("下一步").performClick()
+        compose.onNodeWithText("第 2/5 步 · 听读跟读").assertExists()
+        compose.onNodeWithText("下一步").performClick()
+        compose.onNodeWithText("我说完了，查看英文").performClick()
+        compose.onNodeWithText("I want water.").assertExists()
+        compose.onNodeWithText("下一步").performClick()
+        compose.onNodeWithText("下一步").assertIsNotEnabled()
+        listOf("I", "want", "tea").forEach { token -> compose.onNode(hasText(token) and hasClickAction()).performClick() }
+        compose.onNodeWithText("核对拼句").performClick()
+        compose.onNodeWithText("下一步").performClick()
+        compose.onNodeWithText("保存表达并完成本课").performScrollTo().assertIsNotEnabled()
+        compose.onNodeWithText("不看提示，写出目标句子").performScrollTo().performTextInput("I want water.")
+        compose.onNodeWithText("核对目标句型").performScrollTo().performClick()
+        compose.onNodeWithText("写一句自己的话").performScrollTo().performTextInput("I want coffee.")
+        compose.onNode(isToggleable()).performScrollTo().performClick()
+        compose.onNodeWithText("保存表达并完成本课").performScrollTo().performClick()
+        compose.onNodeWithText("本课练习已完成，自己的句子已保存。").assertExists()
+        compose.onNodeWithText("回目录选下一课").performScrollTo().performClick()
+        compose.onNodeWithText("已完成 1/8 课 · 完成记录不是熟练度评估").assertExists()
+        compose.onNodeWithText("返回今日计划").performClick()
+        compose.onNodeWithText("今天要背哪些词？").assertExists()
+    }
+
     @Test fun todayPlanAndCustomDictationUseSeparatelySelectedUnlearnedWords() {
         compose.waitUntil(30_000) { compose.onAllNodesWithText("4953 个基础词汇").fetchSemanticsNodes().isNotEmpty() }
         compose.onNodeWithText("今日目标 · 开始练习").performClick()

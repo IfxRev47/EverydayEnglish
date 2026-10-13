@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "sourceNote": "中文讲解、例句和练习为项目自编入门材料。教学参考见 docs/语法从词到句子.md。固定答案仅核对当前目标句型；自由表达不自动判定语法正确。",
+  "lessons": [
+    {
+      "id": "g01", "title": "我想要什么：组成第一句话", "goal": "把认识的词组成一句真实的需求。",
+      "rule": "先表达一个意思：谁，想要，什么。I 表示我，want 表示想要，后面放想要的东西。I want water. 就是我想要水。单词不用逐个翻译后再乱拼，先抓住 I want 这个句子骨架，再替换最后的东西。本课先学完整句子；并不是所有英文句子都需要三个部分，例如 I sleep. 也完整。",
+      "examples": [
+        {"english": "I want water.", "chinese": "我想要水。", "parts": "I（谁）+ want（想要）+ water（什么）"},
+        {"english": "I want tea.", "chinese": "我想要茶。", "parts": "只把 water 换成 tea，前面的顺序保留。"},
+        {"english": "I want coffee.", "chinese": "我想要咖啡。", "parts": "同一个骨架表达另一个需求。"}
+      ],
+      "swaps": [
+        {"english": "I want water.", "chinese": "水", "parts": "我 + 想要 + 水"},
+        {"english": "I want tea.", "chinese": "茶", "parts": "我 + 想要 + 茶"},
+        {"english": "I want coffee.", "chinese": "咖啡", "parts": "我 + 想要 + 咖啡"}
+      ],
+      "guided": {"prompt": "我想要茶。按顺序点击单词，组成一句话。", "tokens": ["I", "want", "tea"], "answers": ["I want tea."], "explanation": "先 I，再 want，最后 tea：谁想要什么。"},
+      "independent": {"prompt": "不看英文提示，写出：我想要水。", "answers": ["I want water."], "explanation": "本课目标句型是 I want + 想要的东西。参考写法：I want water."},
+      "ownTask": "现在你想喝什么？用 I want 写一句真实的需求，再不看原句说出来。"
+    },
+    {
+      "id": "g02", "title": "我在哪里、怎么样：am / is / are", "goal": "介绍自己的状态或位置。",
+      "rule": "I am ready. 表示我准备好了。am、is、are 都是 be 的形式，也是动词，不只对应中文的“是”。I 配 am，he/she/it 配 is，you/we/they 配 are。后面可以放状态、身份或位置。不要写 I ready；这里需要 am。I'm 就是 I am 的缩写。",
+      "examples": [
+        {"english": "I am ready.", "chinese": "我准备好了。", "parts": "I（我）+ am（连接状态）+ ready（准备好了）"},
+        {"english": "I am at home.", "chinese": "我在家。", "parts": "at home 整体表达位置。"},
+        {"english": "She is happy.", "chinese": "她很开心。", "parts": "she 配 is，不用 am。"},
+        {"english": "We are busy.", "chinese": "我们很忙。", "parts": "we 配 are。"}
+      ],
+      "swaps": [
+        {"english": "I am ready.", "chinese": "准备好了", "parts": "I am + 状态"},
+        {"english": "I am happy.", "chinese": "开心", "parts": "I am + 状态"},
+        {"english": "I am busy.", "chinese": "忙", "parts": "I am + 状态"}
+      ],
+      "guided": {"prompt": "我在家。", "tokens": ["I", "am", "at", "home"], "answers": ["I am at home."], "explanation": "I 配 am，at home 是表示位置的一组词。"},
+      "independent": {"prompt": "不看提示，写出：我很开心。", "answers": ["I am happy.", "I'm happy."], "explanation": "I am happy. 或 I'm happy.。这里 happy 描述状态，需要 be。"},
+      "ownTask": "你现在在哪里，或心情怎么样？用 I am 写一句真实的情况。"
+    },
+    {
+      "id": "g03", "title": "我喜欢什么：普通动词句", "goal": "把喜好表达成句子，而不是列出几个单词。",
+      "rule": "I like music. 中，like 就是句子里的主要动词，不需要再放 am。表达日常喜好时，用 I like + 喜欢的东西。I am like music 不是本课这个意思。也可以用 read、work 等普通动词说日常做的事，但不要把所有名词都随意替换到所有动作后面。",
+      "examples": [
+        {"english": "I like music.", "chinese": "我喜欢音乐。", "parts": "I（谁）+ like（喜欢）+ music（什么）"},
+        {"english": "I read books.", "chinese": "我读书。", "parts": "read 表达动作，books 是读的东西。"},
+        {"english": "I work at home.", "chinese": "我在家工作。", "parts": "work 后用 at home 补充工作地点。"}
+      ],
+      "swaps": [
+        {"english": "I like music.", "chinese": "音乐", "parts": "I like + 喜欢的东西"},
+        {"english": "I like tea.", "chinese": "茶", "parts": "I like + 喜欢的东西"},
+        {"english": "I like books.", "chinese": "书", "parts": "books 表示书这一类东西。"}
+      ],
+      "guided": {"prompt": "我喜欢音乐。", "tokens": ["I", "like", "music"], "answers": ["I like music."], "explanation": "like 已经是主要动词，不要再加 am。"},
+      "independent": {"prompt": "不看提示，写出：我喜欢茶。", "answers": ["I like tea."], "explanation": "参考写法 I like tea.，保持 I + like + tea 的顺序。"},
+      "ownTask": "你喜欢什么？用 I like 说一件自己的喜好。"
+    },
+    {
+      "id": "g04", "title": "表达不：am not 与 don't", "goal": "把肯定句变成否定句。",
+      "rule": "先看原句是哪种。I am busy. 已有 be，否定就在后面加 not：I am not busy.。I like coffee. 用普通动词，否定借助 don't，即 do not：I don't like coffee.。这里 do 是帮忙组成否定句的助动词，不必翻译成“做”。本课先练 I / you / we / they。",
+      "examples": [
+        {"english": "I am not busy.", "chinese": "我不忙。", "parts": "I am + not + busy"},
+        {"english": "I don't like coffee.", "chinese": "我不喜欢咖啡。", "parts": "I + don't + like + coffee"},
+        {"english": "We don't work here.", "chinese": "我们不在这里工作。", "parts": "don't 后保留 work。"}
+      ],
+      "swaps": [
+        {"english": "I don't like coffee.", "chinese": "不喜欢咖啡", "parts": "I don't like + 东西"},
+        {"english": "I don't like tea.", "chinese": "不喜欢茶", "parts": "I don't like + 东西"},
+        {"english": "I don't like milk.", "chinese": "不喜欢牛奶", "parts": "I don't like + 东西"}
+      ],
+      "guided": {"prompt": "我不喜欢咖啡。", "tokens": ["I", "don't", "like", "coffee"], "answers": ["I don't like coffee."], "explanation": "普通动词 like 的否定用 don't，不是 am not like。"},
+      "independent": {"prompt": "不看提示，写出：我不忙。", "answers": ["I am not busy.", "I'm not busy."], "explanation": "busy 描述状态：I am not busy. 或 I'm not busy.。"},
+      "ownTask": "选择一个真实情况，用 I am not 或 I don't 写一句否定句。"
+    },
+    {
+      "id": "g05", "title": "问别人：Are you 与 Do you", "goal": "提出一个问题，并知道它从哪种陈述句变来。",
+      "rule": "You are ready. 提问时把 are 放到 you 前：Are you ready?。You like music. 里 like 是普通动词，一般现在时提问要借助 do：Do you like music?。这里 do 也不是“做”。不能写 Do you ready? 或 Are you like music?。这些是当前简单句的对照；以后还会学 Are you working? 等进行时结构。",
+      "examples": [
+        {"english": "Are you ready?", "chinese": "你准备好了吗？", "parts": "Are + you + ready"},
+        {"english": "Do you like music?", "chinese": "你喜欢音乐吗？", "parts": "Do + you + like + music"},
+        {"english": "Do you work here?", "chinese": "你在这里工作吗？", "parts": "用 do 帮助普通动词 work 提问。"}
+      ],
+      "swaps": [
+        {"english": "Do you like music?", "chinese": "喜欢音乐吗", "parts": "Do you like + 东西？"},
+        {"english": "Do you like tea?", "chinese": "喜欢茶吗", "parts": "Do you like + 东西？"},
+        {"english": "Do you like books?", "chinese": "喜欢书吗", "parts": "Do you like + 东西？"}
+      ],
+      "guided": {"prompt": "你准备好了吗？", "tokens": ["Are", "you", "ready"], "answers": ["Are you ready?"], "explanation": "原句 You are ready. 已经有 be，把 are 移到主语前。"},
+      "independent": {"prompt": "不看提示，写出：你喜欢音乐吗？", "answers": ["Do you like music?"], "explanation": "用 Do you like music?；普通动词 like 在 do 后保持原形。"},
+      "ownTask": "你想问别人什么喜好？用 Do you like 提出一个真实问题，并说出来。"
+    },
+    {
+      "id": "g06", "title": "说他或她：likes 与 does", "goal": "从说自己，扩展到说别人。",
+      "rule": "把 I like tea. 换成 She likes tea.，一般现在时中 he/she/it 常让动词加 s 或 es。有些词会有变化，例如 have 变 has。否定用 doesn't，问句用 does；这时后面的动词回到原形：Does she like tea?，不是 Does she likes tea?。",
+      "examples": [
+        {"english": "She likes tea.", "chinese": "她喜欢茶。", "parts": "She + likes + tea"},
+        {"english": "Does she like tea?", "chinese": "她喜欢茶吗？", "parts": "Does + she + like，like 不再加 s。"},
+        {"english": "He doesn't like coffee.", "chinese": "他不喜欢咖啡。", "parts": "doesn't 后的 like 用原形。"}
+      ],
+      "swaps": [
+        {"english": "She likes tea.", "chinese": "她喜欢茶", "parts": "She likes + 东西"},
+        {"english": "She likes music.", "chinese": "她喜欢音乐", "parts": "She likes + 东西"},
+        {"english": "She likes books.", "chinese": "她喜欢书", "parts": "She likes + 东西"}
+      ],
+      "guided": {"prompt": "她喜欢茶吗？", "tokens": ["Does", "she", "like", "tea"], "answers": ["Does she like tea?"], "explanation": "有 does 时，like 使用原形。"},
+      "independent": {"prompt": "不看提示，写出：他喜欢音乐。", "answers": ["He likes music."], "explanation": "He likes music.，这是肯定句，没有 does，likes 要带 s。"},
+      "ownTask": "选一个你认识的人，用 He likes 或 She likes 说一句他或她的喜好。"
+    },
+    {
+      "id": "g07", "title": "我要一个东西：a 与 an", "goal": "把一个物品自然地放进需求句。",
+      "rule": "一个可数物品通常需要限定：I want a bag.，不要直接写 I want bag.。a 和 an 的选择看紧跟其后的发音，不只看字母。an apple 以元音音素开始，a bag 以辅音音素开始。如果放形容词，要看形容词的发音，例如 a red apple。不可数的 water 不这样加 a。",
+      "examples": [
+        {"english": "I want a bag.", "chinese": "我想要一个包。", "parts": "I want + a bag"},
+        {"english": "I want an apple.", "chinese": "我想要一个苹果。", "parts": "an 和 apple 放在一起表示一个苹果。"},
+        {"english": "I want a red apple.", "chinese": "我想要一个红苹果。", "parts": "red 的开头发音需要 a，而不是 an。"}
+      ],
+      "swaps": [
+        {"english": "I want a bag.", "chinese": "一个包", "parts": "I want + a bag"},
+        {"english": "I want an apple.", "chinese": "一个苹果", "parts": "I want + an apple"},
+        {"english": "I want a book.", "chinese": "一本书", "parts": "I want + a book"}
+      ],
+      "guided": {"prompt": "我想要一个苹果。", "tokens": ["I", "want", "an", "apple"], "answers": ["I want an apple."], "explanation": "apple 是可数名词，单数前用 an，表示一个。"},
+      "independent": {"prompt": "不看提示，写出：我想要一个包。", "answers": ["I want a bag."], "explanation": "I want a bag.，a 和 bag 组成名词短语。"},
+      "ownTask": "选一个你想要的可数物品，用 I want a/an 写一句需求。"
+    },
+    {
+      "id": "g08", "title": "从一个到多个：名词短语", "goal": "用完整的小词组表达数量，再放进句子。",
+      "rule": "别只背 book。把 a book、two books 作为小词组练习：一个时用单数，两个或更多通常用复数。很多名词加 s，但不是全部；child 的复数是 children。water 这类不可数名词不直接说 two waters 来数水本身。本课先练规则复数 books 和 bags。",
+      "examples": [
+        {"english": "I need a book.", "chinese": "我需要一本书。", "parts": "I need + a book"},
+        {"english": "I need two books.", "chinese": "我需要两本书。", "parts": "two books 整体表达两个物品。"},
+        {"english": "I need water.", "chinese": "我需要水。", "parts": "water 在这里不加 a 或复数 s。"}
+      ],
+      "swaps": [
+        {"english": "I need a book.", "chinese": "一本书", "parts": "I need + a book"},
+        {"english": "I need two books.", "chinese": "两本书", "parts": "I need + two books"},
+        {"english": "I need two bags.", "chinese": "两个包", "parts": "I need + two bags"}
+      ],
+      "guided": {"prompt": "我需要两本书。", "tokens": ["I", "need", "two", "books"], "answers": ["I need two books."], "explanation": "two 后面用 books，不是单数 book。"},
+      "independent": {"prompt": "不看提示，写出：我需要两个包。", "answers": ["I need two bags."], "explanation": "I need two bags.，two bags 是一个完整的数量表达。"},
+      "ownTask": "你需要一个物品还是多个物品？用 I need 写一句真实需求。"
+    }
+  ]
+}

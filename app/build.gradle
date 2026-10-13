@@ -22,8 +22,8 @@ android {
         applicationId providers.gradleProperty('migrationBuild').isPresent() ? "com.oxford.a1" : "com.oxford.everyday"
         minSdk 26
         targetSdk 36
-        versionCode 11
-        versionName "1.9"
+        versionCode 12
+        versionName "1.10"
         manifestPlaceholders = [applicationLabel: providers.gradleProperty('migrationBuild').isPresent() ? '每日英语（旧版迁移）' : '每日英语']
         externalNativeBuild {
             cmake { arguments "-DCMAKE_BUILD_TYPE=Release" }

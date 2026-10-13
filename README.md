@@ -1,19 +1,23 @@
 # 每日英语 · A1—C1
 
+GitHub：[IfxRev47/EverydayEnglish](https://github.com/IfxRev47/EverydayEnglish)。获取源码请使用 `git clone --recurse-submodules https://github.com/IfxRev47/EverydayEnglish.git`；已有副本运行 `git submodule update --init --recursive`。原生依赖固定为子模块版本，回滚说明见[GitHub 与回滚](docs/GitHub与回滚.md)。
+
 个人英语学习 Android App，Kotlin / Jetpack Compose / Material 3 / Room / MVVM / Coroutines / Flow，最低 Android 8.0（API 26）。
 
-当前版本 **1.9**，安装包名为 `com.oxford.everyday`。已启用 A1、A2、B1、B2、C1 词库。支持 GGUF 离线造句、短上下文 AI 聊天、自定义 Skill、模型参数调节和 AI 回复英语朗读；启动跳过未变化词库的解析，词库导入显示进度。模型加载已恢复原来的后台直接加载方式，显示等待提示，不再轮询权重百分比。
+当前版本 **1.10**，安装包名为 `com.oxford.everyday`。已启用 A1、A2、B1、B2、C1 词库。支持 GGUF 离线造句、短上下文 AI 聊天、自定义 Skill、模型参数调节和 AI 回复英语朗读；启动跳过未变化词库的解析，词库导入显示进度。模型加载已恢复原来的后台直接加载方式，显示等待提示，不再轮询权重百分比。
 
 新增[背诵历史记录](docs/背诵历史记录.md)：在今日计划中按日期查看实际背过的词，关闭应用、跨日和同包名更新后保留。
 
+新增独立[语法入门分区](docs/语法从词到句子.md)：8 课按看懂、跟读、换词、拼句、独立表达练习，从单词逐步组成自己的句子。
+
 ## 安装更新
 
-已经使用新包名 `com.oxford.everyday` 的用户，直接安装 `build/deliverables/everyday-1.9.apk` 覆盖更新即可，无需再次迁移。1.8 以今日背诵词表为默认主页，支持手动选词、按等级 AI 推荐和自选听写；随机回顾移入辅助入口，沿用 1.6.1 的模型加载方式，保留词库加载优化和已存数据。使用及实现说明见[今日目标与练习](docs/今日选词与自定义听写.md)。
+已经使用新包名 `com.oxford.everyday` 的用户，直接安装 `build/deliverables/everyday-1.10.apk` 覆盖更新即可，无需再次迁移。1.8 以今日背诵词表为默认主页，支持手动选词、按等级 AI 推荐和自选听写；随机回顾移入辅助入口，沿用 1.6.1 的模型加载方式，保留词库加载优化和已存数据。使用及实现说明见[今日目标与练习](docs/今日选词与自定义听写.md)。
 
 从旧包名 `com.oxford.a1` 迁移时，两个应用的数据空间独立，必须先转移学习记录：
 
 1. 安装 `build/deliverables/everyday-migration-old-package-1.6.apk` 覆盖旧版，在「关于」中选择「导出学习记录」。该应用显示为「每日英语（旧版迁移）」。
-2. 安装 `build/deliverables/everyday-1.9.apk`，打开新应用「每日英语」，在「关于」中选择「导入学习记录」。只合并已掌握标记，不清除新应用已有标记。
+2. 安装 `build/deliverables/everyday-1.10.apk`，打开新应用「每日英语」，在「关于」中选择「导入学习记录」。只合并已掌握标记，不清除新应用已有标记。
 3. 核对标记；模型需要从原 GGUF 文件重新导入，Skill 和 AI 设置需要手动转移。确认完成前保留旧应用。
 
 **不要先卸载旧版，不要清除数据。** 若旧包名迁移版提示签名冲突，应使用旧版签名重新构建，不要通过卸载解决。此后相同新包名的更新可以直接覆盖安装，词库更新沿用掌握状态。详见[加载优化与包名迁移](docs/加载优化与包名迁移.md)。
