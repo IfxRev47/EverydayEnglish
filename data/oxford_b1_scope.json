@@ -1,0 +1,2517 @@
+{
+  "about": [
+    "adjective"
+  ],
+  "absolutely": [
+    "adverb"
+  ],
+  "academic": [
+    "adjective"
+  ],
+  "access": [
+    "noun",
+    "verb"
+  ],
+  "accommodation": [
+    "noun"
+  ],
+  "account": [
+    "noun"
+  ],
+  "achievement": [
+    "noun"
+  ],
+  "act": [
+    "noun"
+  ],
+  "ad": [
+    "noun"
+  ],
+  "addition": [
+    "noun"
+  ],
+  "admire": [
+    "verb"
+  ],
+  "admit": [
+    "verb"
+  ],
+  "advanced": [
+    "adjective"
+  ],
+  "advise": [
+    "verb"
+  ],
+  "afford": [
+    "verb"
+  ],
+  "age": [
+    "verb"
+  ],
+  "aged": [
+    "adjective"
+  ],
+  "agent": [
+    "noun"
+  ],
+  "agreement": [
+    "noun"
+  ],
+  "ahead": [
+    "adverb"
+  ],
+  "ai": [
+    "noun"
+  ],
+  "aim": [
+    "noun",
+    "verb"
+  ],
+  "alarm": [
+    "noun"
+  ],
+  "album": [
+    "noun"
+  ],
+  "alcohol": [
+    "noun"
+  ],
+  "alcoholic": [
+    "adjective"
+  ],
+  "alternative": [
+    "adjective"
+  ],
+  "amazed": [
+    "adjective"
+  ],
+  "ambition": [
+    "noun"
+  ],
+  "ambitious": [
+    "adjective"
+  ],
+  "analyse": [
+    "verb"
+  ],
+  "analysis": [
+    "noun"
+  ],
+  "announce": [
+    "verb"
+  ],
+  "announcement": [
+    "noun"
+  ],
+  "annoy": [
+    "verb"
+  ],
+  "annoyed": [
+    "adjective"
+  ],
+  "annoying": [
+    "adjective"
+  ],
+  "apart": [
+    "adverb"
+  ],
+  "apologize": [
+    "verb"
+  ],
+  "application": [
+    "noun"
+  ],
+  "appointment": [
+    "noun"
+  ],
+  "appreciate": [
+    "verb"
+  ],
+  "approximately": [
+    "adverb"
+  ],
+  "arrest": [
+    "noun",
+    "verb"
+  ],
+  "arrival": [
+    "noun"
+  ],
+  "assignment": [
+    "noun"
+  ],
+  "assist": [
+    "verb"
+  ],
+  "atmosphere": [
+    "noun"
+  ],
+  "attach": [
+    "verb"
+  ],
+  "attitude": [
+    "noun"
+  ],
+  "attract": [
+    "verb"
+  ],
+  "attraction": [
+    "noun"
+  ],
+  "authority": [
+    "noun"
+  ],
+  "average": [
+    "verb"
+  ],
+  "award": [
+    "verb"
+  ],
+  "aware": [
+    "adjective"
+  ],
+  "backwards": [
+    "adverb"
+  ],
+  "bake": [
+    "verb"
+  ],
+  "balance": [
+    "noun",
+    "verb"
+  ],
+  "ban": [
+    "noun",
+    "verb"
+  ],
+  "base": [
+    "noun",
+    "verb"
+  ],
+  "basic": [
+    "adjective"
+  ],
+  "basis": [
+    "noun"
+  ],
+  "battery": [
+    "noun"
+  ],
+  "battle": [
+    "noun"
+  ],
+  "beat": [
+    "verb"
+  ],
+  "beauty": [
+    "noun"
+  ],
+  "bee": [
+    "noun"
+  ],
+  "belief": [
+    "noun"
+  ],
+  "bell": [
+    "noun"
+  ],
+  "bend": [
+    "noun",
+    "verb"
+  ],
+  "benefit": [
+    "verb"
+  ],
+  "better": [
+    "noun"
+  ],
+  "bite": [
+    "noun",
+    "verb"
+  ],
+  "block": [
+    "noun",
+    "verb"
+  ],
+  "board": [
+    "verb"
+  ],
+  "bomb": [
+    "noun",
+    "verb"
+  ],
+  "border": [
+    "noun"
+  ],
+  "bother": [
+    "verb"
+  ],
+  "branch": [
+    "noun"
+  ],
+  "brand": [
+    "noun",
+    "verb"
+  ],
+  "brave": [
+    "adjective"
+  ],
+  "breathe": [
+    "verb"
+  ],
+  "breathing": [
+    "noun"
+  ],
+  "bride": [
+    "noun"
+  ],
+  "bubble": [
+    "noun"
+  ],
+  "bury": [
+    "verb"
+  ],
+  "by": [
+    "adverb"
+  ],
+  "calm": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "campaign": [
+    "noun",
+    "verb"
+  ],
+  "campus": [
+    "noun"
+  ],
+  "candidate": [
+    "noun"
+  ],
+  "cap": [
+    "noun"
+  ],
+  "captain": [
+    "noun"
+  ],
+  "careless": [
+    "adjective"
+  ],
+  "category": [
+    "noun"
+  ],
+  "ceiling": [
+    "noun"
+  ],
+  "celebration": [
+    "noun"
+  ],
+  "central": [
+    "adjective"
+  ],
+  "centre": [
+    "verb"
+  ],
+  "ceremony": [
+    "noun"
+  ],
+  "chain": [
+    "noun"
+  ],
+  "challenge": [
+    "noun"
+  ],
+  "champion": [
+    "noun"
+  ],
+  "channel": [
+    "noun"
+  ],
+  "chapter": [
+    "noun"
+  ],
+  "charge": [
+    "noun",
+    "verb"
+  ],
+  "cheap": [
+    "adverb"
+  ],
+  "cheat": [
+    "noun",
+    "verb"
+  ],
+  "cheerful": [
+    "adjective"
+  ],
+  "chemical": [
+    "adjective",
+    "noun"
+  ],
+  "chest": [
+    "noun"
+  ],
+  "childhood": [
+    "noun"
+  ],
+  "claim": [
+    "noun",
+    "verb"
+  ],
+  "clause": [
+    "noun"
+  ],
+  "clear": [
+    "verb"
+  ],
+  "click": [
+    "noun",
+    "verb"
+  ],
+  "client": [
+    "noun"
+  ],
+  "climb": [
+    "noun"
+  ],
+  "close": [
+    "adverb"
+  ],
+  "cloth": [
+    "noun"
+  ],
+  "clue": [
+    "noun"
+  ],
+  "coach": [
+    "verb"
+  ],
+  "coal": [
+    "noun"
+  ],
+  "coin": [
+    "noun"
+  ],
+  "collection": [
+    "noun"
+  ],
+  "coloured": [
+    "adjective"
+  ],
+  "combine": [
+    "verb"
+  ],
+  "comment": [
+    "verb"
+  ],
+  "commercial": [
+    "adjective",
+    "noun"
+  ],
+  "commit": [
+    "verb"
+  ],
+  "communication": [
+    "noun"
+  ],
+  "comparison": [
+    "noun"
+  ],
+  "competitive": [
+    "adjective"
+  ],
+  "competitor": [
+    "noun"
+  ],
+  "complaint": [
+    "noun"
+  ],
+  "complex": [
+    "adjective"
+  ],
+  "concentrate": [
+    "verb"
+  ],
+  "conclude": [
+    "verb"
+  ],
+  "conclusion": [
+    "noun"
+  ],
+  "confident": [
+    "adjective"
+  ],
+  "confirm": [
+    "verb"
+  ],
+  "confuse": [
+    "verb"
+  ],
+  "confused": [
+    "adjective"
+  ],
+  "connection": [
+    "noun"
+  ],
+  "consequence": [
+    "noun"
+  ],
+  "consist": [
+    "verb"
+  ],
+  "consume": [
+    "verb"
+  ],
+  "consumer": [
+    "noun"
+  ],
+  "contact": [
+    "noun",
+    "verb"
+  ],
+  "container": [
+    "noun"
+  ],
+  "content": [
+    "noun"
+  ],
+  "continuous": [
+    "adjective"
+  ],
+  "contrast": [
+    "noun",
+    "verb"
+  ],
+  "convenient": [
+    "adjective"
+  ],
+  "convince": [
+    "verb"
+  ],
+  "cool": [
+    "verb"
+  ],
+  "costume": [
+    "noun"
+  ],
+  "cottage": [
+    "noun"
+  ],
+  "cotton": [
+    "noun"
+  ],
+  "count": [
+    "noun"
+  ],
+  "countryside": [
+    "noun"
+  ],
+  "court": [
+    "noun"
+  ],
+  "cover": [
+    "noun"
+  ],
+  "covered": [
+    "adjective"
+  ],
+  "cream": [
+    "adjective"
+  ],
+  "criminal": [
+    "adjective"
+  ],
+  "cruel": [
+    "adjective"
+  ],
+  "cultural": [
+    "adjective"
+  ],
+  "currency": [
+    "noun"
+  ],
+  "current": [
+    "adjective"
+  ],
+  "currently": [
+    "adverb"
+  ],
+  "curtain": [
+    "noun"
+  ],
+  "custom": [
+    "noun"
+  ],
+  "cut": [
+    "noun"
+  ],
+  "daily": [
+    "adverb"
+  ],
+  "damage": [
+    "noun",
+    "verb"
+  ],
+  "deal": [
+    "noun"
+  ],
+  "decade": [
+    "noun"
+  ],
+  "decorate": [
+    "verb"
+  ],
+  "deep": [
+    "adverb"
+  ],
+  "define": [
+    "verb"
+  ],
+  "definite": [
+    "adjective"
+  ],
+  "definition": [
+    "noun"
+  ],
+  "deliver": [
+    "verb"
+  ],
+  "departure": [
+    "noun"
+  ],
+  "despite": [
+    "preposition"
+  ],
+  "destination": [
+    "noun"
+  ],
+  "determine": [
+    "verb"
+  ],
+  "determined": [
+    "adjective"
+  ],
+  "development": [
+    "noun"
+  ],
+  "diagram": [
+    "noun"
+  ],
+  "diamond": [
+    "noun"
+  ],
+  "difficulty": [
+    "noun"
+  ],
+  "direct": [
+    "adverb",
+    "verb"
+  ],
+  "directly": [
+    "adverb"
+  ],
+  "dirt": [
+    "noun"
+  ],
+  "disadvantage": [
+    "noun"
+  ],
+  "disappointed": [
+    "adjective"
+  ],
+  "disappointing": [
+    "adjective"
+  ],
+  "discount": [
+    "noun"
+  ],
+  "dislike": [
+    "noun",
+    "verb"
+  ],
+  "divide": [
+    "verb"
+  ],
+  "documentary": [
+    "noun"
+  ],
+  "donate": [
+    "verb"
+  ],
+  "double": [
+    "adverb"
+  ],
+  "doubt": [
+    "noun",
+    "verb"
+  ],
+  "dressed": [
+    "adjective"
+  ],
+  "drop": [
+    "noun"
+  ],
+  "drum": [
+    "noun"
+  ],
+  "drunk": [
+    "adjective"
+  ],
+  "due": [
+    "adjective"
+  ],
+  "dust": [
+    "noun"
+  ],
+  "duty": [
+    "noun"
+  ],
+  "earthquake": [
+    "noun"
+  ],
+  "eastern": [
+    "adjective"
+  ],
+  "economic": [
+    "adjective"
+  ],
+  "economy": [
+    "noun"
+  ],
+  "edge": [
+    "noun"
+  ],
+  "editor": [
+    "noun"
+  ],
+  "educate": [
+    "verb"
+  ],
+  "educated": [
+    "adjective"
+  ],
+  "educational": [
+    "adjective"
+  ],
+  "effective": [
+    "adjective"
+  ],
+  "effectively": [
+    "adverb"
+  ],
+  "effort": [
+    "noun"
+  ],
+  "election": [
+    "noun"
+  ],
+  "element": [
+    "noun"
+  ],
+  "embarrassed": [
+    "adjective"
+  ],
+  "embarrassing": [
+    "adjective"
+  ],
+  "emergency": [
+    "noun"
+  ],
+  "emotion": [
+    "noun"
+  ],
+  "employment": [
+    "noun"
+  ],
+  "empty": [
+    "verb"
+  ],
+  "encourage": [
+    "verb"
+  ],
+  "enemy": [
+    "noun"
+  ],
+  "engaged": [
+    "adjective"
+  ],
+  "engineering": [
+    "noun"
+  ],
+  "entertain": [
+    "verb"
+  ],
+  "entertainment": [
+    "noun"
+  ],
+  "entrance": [
+    "noun"
+  ],
+  "entry": [
+    "noun"
+  ],
+  "environmental": [
+    "adjective"
+  ],
+  "episode": [
+    "noun"
+  ],
+  "equal": [
+    "adjective",
+    "verb"
+  ],
+  "equally": [
+    "adverb"
+  ],
+  "escape": [
+    "noun",
+    "verb"
+  ],
+  "essential": [
+    "adjective"
+  ],
+  "eventually": [
+    "adverb"
+  ],
+  "examine": [
+    "verb"
+  ],
+  "except": [
+    "conjunction"
+  ],
+  "exchange": [
+    "noun",
+    "verb"
+  ],
+  "excitement": [
+    "noun"
+  ],
+  "exhibition": [
+    "noun"
+  ],
+  "expand": [
+    "verb"
+  ],
+  "expected": [
+    "adjective"
+  ],
+  "expedition": [
+    "noun"
+  ],
+  "experience": [
+    "verb"
+  ],
+  "experienced": [
+    "adjective"
+  ],
+  "experiment": [
+    "verb"
+  ],
+  "explode": [
+    "verb"
+  ],
+  "explore": [
+    "verb"
+  ],
+  "explosion": [
+    "noun"
+  ],
+  "export": [
+    "noun",
+    "verb"
+  ],
+  "extra": [
+    "adverb",
+    "noun"
+  ],
+  "face": [
+    "verb"
+  ],
+  "fairly": [
+    "adverb"
+  ],
+  "familiar": [
+    "adjective"
+  ],
+  "fancy": [
+    "adjective",
+    "verb"
+  ],
+  "far": [
+    "adjective"
+  ],
+  "fascinating": [
+    "adjective"
+  ],
+  "fashionable": [
+    "adjective"
+  ],
+  "fasten": [
+    "verb"
+  ],
+  "favour": [
+    "noun"
+  ],
+  "fear": [
+    "verb"
+  ],
+  "feature": [
+    "verb"
+  ],
+  "fence": [
+    "noun"
+  ],
+  "fighting": [
+    "noun"
+  ],
+  "file": [
+    "noun"
+  ],
+  "financial": [
+    "adjective"
+  ],
+  "fire": [
+    "verb"
+  ],
+  "fitness": [
+    "noun"
+  ],
+  "fixed": [
+    "adjective"
+  ],
+  "flag": [
+    "noun"
+  ],
+  "flood": [
+    "noun",
+    "verb"
+  ],
+  "flour": [
+    "noun"
+  ],
+  "flow": [
+    "noun",
+    "verb"
+  ],
+  "fold": [
+    "verb"
+  ],
+  "folk": [
+    "adjective",
+    "noun"
+  ],
+  "following": [
+    "noun"
+  ],
+  "force": [
+    "noun",
+    "verb"
+  ],
+  "forever": [
+    "adverb"
+  ],
+  "frame": [
+    "noun",
+    "verb"
+  ],
+  "freeze": [
+    "verb"
+  ],
+  "frequently": [
+    "adverb"
+  ],
+  "friendship": [
+    "noun"
+  ],
+  "frighten": [
+    "verb"
+  ],
+  "frightened": [
+    "adjective"
+  ],
+  "frightening": [
+    "adjective"
+  ],
+  "frozen": [
+    "adjective"
+  ],
+  "fry": [
+    "verb"
+  ],
+  "fuel": [
+    "noun"
+  ],
+  "function": [
+    "noun"
+  ],
+  "fur": [
+    "noun"
+  ],
+  "further": [
+    "adverb"
+  ],
+  "garage": [
+    "noun"
+  ],
+  "gather": [
+    "verb"
+  ],
+  "generally": [
+    "adverb"
+  ],
+  "generation": [
+    "noun"
+  ],
+  "generous": [
+    "adjective"
+  ],
+  "gentle": [
+    "adjective"
+  ],
+  "ghost": [
+    "noun"
+  ],
+  "giant": [
+    "adjective",
+    "noun"
+  ],
+  "glad": [
+    "adjective"
+  ],
+  "global": [
+    "adjective"
+  ],
+  "glove": [
+    "noun"
+  ],
+  "go": [
+    "noun"
+  ],
+  "goods": [
+    "noun"
+  ],
+  "grade": [
+    "noun"
+  ],
+  "graduate": [
+    "noun",
+    "verb"
+  ],
+  "grain": [
+    "noun"
+  ],
+  "grateful": [
+    "adjective"
+  ],
+  "growth": [
+    "noun"
+  ],
+  "guard": [
+    "noun",
+    "verb"
+  ],
+  "guilty": [
+    "adjective"
+  ],
+  "hand": [
+    "verb"
+  ],
+  "hang": [
+    "verb"
+  ],
+  "happiness": [
+    "noun"
+  ],
+  "hardly": [
+    "adverb"
+  ],
+  "hate": [
+    "noun"
+  ],
+  "head": [
+    "verb"
+  ],
+  "headline": [
+    "noun"
+  ],
+  "heating": [
+    "noun"
+  ],
+  "heavily": [
+    "adverb"
+  ],
+  "helicopter": [
+    "noun"
+  ],
+  "highlight": [
+    "noun",
+    "verb"
+  ],
+  "highly": [
+    "adverb"
+  ],
+  "hire": [
+    "verb"
+  ],
+  "historic": [
+    "adjective"
+  ],
+  "historical": [
+    "adjective"
+  ],
+  "honest": [
+    "adjective"
+  ],
+  "horrible": [
+    "adjective"
+  ],
+  "horror": [
+    "noun"
+  ],
+  "host": [
+    "noun"
+  ],
+  "hunt": [
+    "verb"
+  ],
+  "hurricane": [
+    "noun"
+  ],
+  "hurry": [
+    "noun",
+    "verb"
+  ],
+  "identity": [
+    "noun"
+  ],
+  "ignore": [
+    "verb"
+  ],
+  "illegal": [
+    "adjective"
+  ],
+  "imaginary": [
+    "adjective"
+  ],
+  "immediate": [
+    "adjective"
+  ],
+  "immigrant": [
+    "noun"
+  ],
+  "impact": [
+    "noun",
+    "verb"
+  ],
+  "import": [
+    "noun",
+    "verb"
+  ],
+  "importance": [
+    "noun"
+  ],
+  "impression": [
+    "noun"
+  ],
+  "impressive": [
+    "adjective"
+  ],
+  "improvement": [
+    "noun"
+  ],
+  "incredibly": [
+    "adverb"
+  ],
+  "indeed": [
+    "adverb"
+  ],
+  "indicate": [
+    "verb"
+  ],
+  "indirect": [
+    "adjective"
+  ],
+  "indoor": [
+    "adjective"
+  ],
+  "indoors": [
+    "adverb"
+  ],
+  "influence": [
+    "noun",
+    "verb"
+  ],
+  "ingredient": [
+    "noun"
+  ],
+  "injure": [
+    "verb"
+  ],
+  "injured": [
+    "adjective"
+  ],
+  "innocent": [
+    "adjective"
+  ],
+  "intelligence": [
+    "noun"
+  ],
+  "intend": [
+    "verb"
+  ],
+  "intention": [
+    "noun"
+  ],
+  "invest": [
+    "verb"
+  ],
+  "investigate": [
+    "verb"
+  ],
+  "involved": [
+    "adjective"
+  ],
+  "iron": [
+    "noun",
+    "verb"
+  ],
+  "issue": [
+    "noun"
+  ],
+  "it": [
+    "noun"
+  ],
+  "journal": [
+    "noun"
+  ],
+  "judge": [
+    "noun",
+    "verb"
+  ],
+  "keen": [
+    "adjective"
+  ],
+  "key": [
+    "verb"
+  ],
+  "keyboard": [
+    "noun"
+  ],
+  "kick": [
+    "noun",
+    "verb"
+  ],
+  "killing": [
+    "noun"
+  ],
+  "kind": [
+    "adjective"
+  ],
+  "kiss": [
+    "noun",
+    "verb"
+  ],
+  "knock": [
+    "noun"
+  ],
+  "label": [
+    "noun",
+    "verb"
+  ],
+  "laboratory": [
+    "noun"
+  ],
+  "lack": [
+    "noun",
+    "verb"
+  ],
+  "latest": [
+    "adjective"
+  ],
+  "lay": [
+    "verb"
+  ],
+  "layer": [
+    "noun"
+  ],
+  "lead": [
+    "noun"
+  ],
+  "leading": [
+    "adjective"
+  ],
+  "leaf": [
+    "noun"
+  ],
+  "leather": [
+    "noun"
+  ],
+  "legal": [
+    "adjective"
+  ],
+  "leisure": [
+    "noun"
+  ],
+  "length": [
+    "noun"
+  ],
+  "level": [
+    "adjective"
+  ],
+  "lie": [
+    "noun",
+    "verb"
+  ],
+  "like": [
+    "noun"
+  ],
+  "limit": [
+    "noun",
+    "verb"
+  ],
+  "lip": [
+    "noun"
+  ],
+  "liquid": [
+    "adjective",
+    "noun"
+  ],
+  "literature": [
+    "noun"
+  ],
+  "live": [
+    "adjective",
+    "adverb"
+  ],
+  "living": [
+    "adjective",
+    "noun"
+  ],
+  "local": [
+    "noun"
+  ],
+  "locate": [
+    "verb"
+  ],
+  "located": [
+    "adjective"
+  ],
+  "location": [
+    "noun"
+  ],
+  "lonely": [
+    "adjective"
+  ],
+  "loss": [
+    "noun"
+  ],
+  "luxury": [
+    "adjective",
+    "noun"
+  ],
+  "mad": [
+    "adjective"
+  ],
+  "magic": [
+    "adjective",
+    "noun"
+  ],
+  "mainly": [
+    "adverb"
+  ],
+  "mall": [
+    "noun"
+  ],
+  "management": [
+    "noun"
+  ],
+  "market": [
+    "verb"
+  ],
+  "marketing": [
+    "noun"
+  ],
+  "marriage": [
+    "noun"
+  ],
+  "meanwhile": [
+    "adverb"
+  ],
+  "measure": [
+    "noun",
+    "verb"
+  ],
+  "medium": [
+    "adjective"
+  ],
+  "mental": [
+    "adjective"
+  ],
+  "mention": [
+    "noun"
+  ],
+  "mess": [
+    "noun"
+  ],
+  "mild": [
+    "adjective"
+  ],
+  "mine": [
+    "noun"
+  ],
+  "mix": [
+    "noun",
+    "verb"
+  ],
+  "mixture": [
+    "noun"
+  ],
+  "mood": [
+    "noun"
+  ],
+  "move": [
+    "noun"
+  ],
+  "mud": [
+    "noun"
+  ],
+  "murder": [
+    "noun",
+    "verb"
+  ],
+  "muscle": [
+    "noun"
+  ],
+  "musical": [
+    "noun"
+  ],
+  "mystery": [
+    "noun"
+  ],
+  "nail": [
+    "noun"
+  ],
+  "narrative": [
+    "adjective",
+    "noun"
+  ],
+  "nation": [
+    "noun"
+  ],
+  "native": [
+    "adjective",
+    "noun"
+  ],
+  "naturally": [
+    "adverb"
+  ],
+  "necessarily": [
+    "adverb"
+  ],
+  "need": [
+    "modal verb"
+  ],
+  "needle": [
+    "noun"
+  ],
+  "neighbourhood": [
+    "noun"
+  ],
+  "neither": [
+    "adverb"
+  ],
+  "net": [
+    "noun"
+  ],
+  "next": [
+    "noun"
+  ],
+  "nor": [
+    "adverb",
+    "conjunction"
+  ],
+  "normal": [
+    "noun"
+  ],
+  "northern": [
+    "adjective"
+  ],
+  "note": [
+    "verb"
+  ],
+  "now": [
+    "conjunction"
+  ],
+  "nuclear": [
+    "adjective"
+  ],
+  "obvious": [
+    "adjective"
+  ],
+  "obviously": [
+    "adverb"
+  ],
+  "occasion": [
+    "noun"
+  ],
+  "occur": [
+    "verb"
+  ],
+  "odd": [
+    "adjective"
+  ],
+  "official": [
+    "adjective"
+  ],
+  "old-fashioned": [
+    "adjective"
+  ],
+  "once": [
+    "conjunction"
+  ],
+  "operation": [
+    "noun"
+  ],
+  "organized": [
+    "adjective"
+  ],
+  "organizer": [
+    "noun"
+  ],
+  "original": [
+    "noun"
+  ],
+  "originally": [
+    "adverb"
+  ],
+  "ought": [
+    "modal verb"
+  ],
+  "ours": [
+    "pronoun"
+  ],
+  "outdoor": [
+    "adjective"
+  ],
+  "outdoors": [
+    "adverb"
+  ],
+  "pack": [
+    "noun"
+  ],
+  "package": [
+    "noun"
+  ],
+  "painful": [
+    "adjective"
+  ],
+  "pale": [
+    "adjective"
+  ],
+  "pan": [
+    "noun"
+  ],
+  "participate": [
+    "verb"
+  ],
+  "particularly": [
+    "adverb"
+  ],
+  "pass": [
+    "noun"
+  ],
+  "passion": [
+    "noun"
+  ],
+  "path": [
+    "noun"
+  ],
+  "payment": [
+    "noun"
+  ],
+  "peaceful": [
+    "adjective"
+  ],
+  "percentage": [
+    "noun"
+  ],
+  "perfectly": [
+    "adverb"
+  ],
+  "performance": [
+    "noun"
+  ],
+  "personally": [
+    "adverb"
+  ],
+  "persuade": [
+    "verb"
+  ],
+  "photographer": [
+    "noun"
+  ],
+  "photography": [
+    "noun"
+  ],
+  "pin": [
+    "noun",
+    "verb"
+  ],
+  "pipe": [
+    "noun"
+  ],
+  "place": [
+    "verb"
+  ],
+  "planning": [
+    "noun"
+  ],
+  "pleasant": [
+    "adjective"
+  ],
+  "pleasure": [
+    "noun"
+  ],
+  "plenty": [
+    "pronoun"
+  ],
+  "plot": [
+    "noun"
+  ],
+  "plus": [
+    "preposition"
+  ],
+  "podcast": [
+    "noun"
+  ],
+  "poem": [
+    "noun"
+  ],
+  "poet": [
+    "noun"
+  ],
+  "poetry": [
+    "noun"
+  ],
+  "point": [
+    "verb"
+  ],
+  "poison": [
+    "noun",
+    "verb"
+  ],
+  "poisonous": [
+    "adjective"
+  ],
+  "policy": [
+    "noun"
+  ],
+  "political": [
+    "adjective"
+  ],
+  "politician": [
+    "noun"
+  ],
+  "politics": [
+    "noun"
+  ],
+  "port": [
+    "noun"
+  ],
+  "portrait": [
+    "noun"
+  ],
+  "possibly": [
+    "adverb"
+  ],
+  "pot": [
+    "noun"
+  ],
+  "pour": [
+    "verb"
+  ],
+  "poverty": [
+    "noun"
+  ],
+  "powder": [
+    "noun"
+  ],
+  "powerful": [
+    "adjective"
+  ],
+  "practical": [
+    "adjective"
+  ],
+  "pray": [
+    "verb"
+  ],
+  "prayer": [
+    "noun"
+  ],
+  "prediction": [
+    "noun"
+  ],
+  "prepared": [
+    "adjective"
+  ],
+  "presentation": [
+    "noun"
+  ],
+  "press": [
+    "noun",
+    "verb"
+  ],
+  "pressure": [
+    "noun"
+  ],
+  "pretend": [
+    "verb"
+  ],
+  "previous": [
+    "adjective"
+  ],
+  "previously": [
+    "adverb"
+  ],
+  "priest": [
+    "noun"
+  ],
+  "primary": [
+    "adjective"
+  ],
+  "prince": [
+    "noun"
+  ],
+  "princess": [
+    "noun"
+  ],
+  "printing": [
+    "noun"
+  ],
+  "prisoner": [
+    "noun"
+  ],
+  "private": [
+    "adjective"
+  ],
+  "producer": [
+    "noun"
+  ],
+  "production": [
+    "noun"
+  ],
+  "profession": [
+    "noun"
+  ],
+  "profit": [
+    "noun"
+  ],
+  "program": [
+    "verb"
+  ],
+  "promote": [
+    "verb"
+  ],
+  "proper": [
+    "adjective"
+  ],
+  "properly": [
+    "adverb"
+  ],
+  "property": [
+    "noun"
+  ],
+  "protest": [
+    "noun",
+    "verb"
+  ],
+  "proud": [
+    "adjective"
+  ],
+  "prove": [
+    "verb"
+  ],
+  "pull": [
+    "noun"
+  ],
+  "punish": [
+    "verb"
+  ],
+  "punishment": [
+    "noun"
+  ],
+  "push": [
+    "noun"
+  ],
+  "qualification": [
+    "noun"
+  ],
+  "qualified": [
+    "adjective"
+  ],
+  "qualify": [
+    "verb"
+  ],
+  "queue": [
+    "noun",
+    "verb"
+  ],
+  "quit": [
+    "verb"
+  ],
+  "quotation": [
+    "noun"
+  ],
+  "quote": [
+    "noun",
+    "verb"
+  ],
+  "racing": [
+    "noun"
+  ],
+  "range": [
+    "noun"
+  ],
+  "rare": [
+    "adjective"
+  ],
+  "rarely": [
+    "adverb"
+  ],
+  "reaction": [
+    "noun"
+  ],
+  "reality": [
+    "noun"
+  ],
+  "receipt": [
+    "noun"
+  ],
+  "recommendation": [
+    "noun"
+  ],
+  "reference": [
+    "noun"
+  ],
+  "reflect": [
+    "verb"
+  ],
+  "regularly": [
+    "adverb"
+  ],
+  "reject": [
+    "verb"
+  ],
+  "relate": [
+    "verb"
+  ],
+  "related": [
+    "adjective"
+  ],
+  "relation": [
+    "noun"
+  ],
+  "relative": [
+    "adjective",
+    "noun"
+  ],
+  "relaxed": [
+    "adjective"
+  ],
+  "relaxing": [
+    "adjective"
+  ],
+  "release": [
+    "noun",
+    "verb"
+  ],
+  "reliable": [
+    "adjective"
+  ],
+  "religion": [
+    "noun"
+  ],
+  "religious": [
+    "adjective"
+  ],
+  "remain": [
+    "verb"
+  ],
+  "remind": [
+    "verb"
+  ],
+  "remote": [
+    "adjective"
+  ],
+  "renewable": [
+    "adjective"
+  ],
+  "rent": [
+    "noun",
+    "verb"
+  ],
+  "repair": [
+    "noun"
+  ],
+  "repeat": [
+    "noun"
+  ],
+  "repeated": [
+    "adjective"
+  ],
+  "represent": [
+    "verb"
+  ],
+  "request": [
+    "verb"
+  ],
+  "require": [
+    "verb"
+  ],
+  "reservation": [
+    "noun"
+  ],
+  "resource": [
+    "noun"
+  ],
+  "respect": [
+    "noun",
+    "verb"
+  ],
+  "responsibility": [
+    "noun"
+  ],
+  "responsible": [
+    "adjective"
+  ],
+  "result": [
+    "verb"
+  ],
+  "retire": [
+    "verb"
+  ],
+  "retired": [
+    "adjective"
+  ],
+  "revise": [
+    "verb"
+  ],
+  "ring": [
+    "noun"
+  ],
+  "rise": [
+    "noun"
+  ],
+  "risk": [
+    "noun",
+    "verb"
+  ],
+  "robot": [
+    "noun"
+  ],
+  "roll": [
+    "noun",
+    "verb"
+  ],
+  "romantic": [
+    "adjective"
+  ],
+  "rope": [
+    "noun"
+  ],
+  "rough": [
+    "adjective"
+  ],
+  "row": [
+    "noun"
+  ],
+  "royal": [
+    "adjective"
+  ],
+  "rugby": [
+    "noun"
+  ],
+  "rule": [
+    "verb"
+  ],
+  "safety": [
+    "noun"
+  ],
+  "sail": [
+    "noun"
+  ],
+  "sailor": [
+    "noun"
+  ],
+  "sample": [
+    "noun"
+  ],
+  "sand": [
+    "noun"
+  ],
+  "scan": [
+    "verb"
+  ],
+  "scientific": [
+    "adjective"
+  ],
+  "script": [
+    "noun"
+  ],
+  "secondary": [
+    "adjective"
+  ],
+  "security": [
+    "noun"
+  ],
+  "seed": [
+    "noun"
+  ],
+  "sensible": [
+    "adjective"
+  ],
+  "separate": [
+    "verb"
+  ],
+  "seriously": [
+    "adverb"
+  ],
+  "servant": [
+    "noun"
+  ],
+  "set": [
+    "noun",
+    "verb"
+  ],
+  "setting": [
+    "noun"
+  ],
+  "sex": [
+    "noun"
+  ],
+  "sexual": [
+    "adjective"
+  ],
+  "shake": [
+    "noun"
+  ],
+  "share": [
+    "noun"
+  ],
+  "sharp": [
+    "adjective"
+  ],
+  "shelf": [
+    "noun"
+  ],
+  "shell": [
+    "noun"
+  ],
+  "shift": [
+    "noun"
+  ],
+  "shine": [
+    "verb"
+  ],
+  "shiny": [
+    "adjective"
+  ],
+  "shoot": [
+    "verb"
+  ],
+  "shy": [
+    "adjective"
+  ],
+  "sight": [
+    "noun"
+  ],
+  "signal": [
+    "noun",
+    "verb"
+  ],
+  "silent": [
+    "adjective"
+  ],
+  "silly": [
+    "adjective"
+  ],
+  "similarity": [
+    "noun"
+  ],
+  "similarly": [
+    "adverb"
+  ],
+  "simply": [
+    "adverb"
+  ],
+  "since": [
+    "adverb"
+  ],
+  "sink": [
+    "verb"
+  ],
+  "slice": [
+    "noun",
+    "verb"
+  ],
+  "slightly": [
+    "adverb"
+  ],
+  "slow": [
+    "verb"
+  ],
+  "smart": [
+    "adjective"
+  ],
+  "smooth": [
+    "adjective"
+  ],
+  "software": [
+    "noun"
+  ],
+  "soil": [
+    "noun"
+  ],
+  "solid": [
+    "adjective",
+    "noun"
+  ],
+  "sort": [
+    "verb"
+  ],
+  "southern": [
+    "adjective"
+  ],
+  "specifically": [
+    "adverb"
+  ],
+  "spending": [
+    "noun"
+  ],
+  "spicy": [
+    "adjective"
+  ],
+  "spirit": [
+    "noun"
+  ],
+  "spoken": [
+    "adjective"
+  ],
+  "spot": [
+    "noun"
+  ],
+  "spread": [
+    "verb"
+  ],
+  "stadium": [
+    "noun"
+  ],
+  "staff": [
+    "noun"
+  ],
+  "standard": [
+    "adjective",
+    "noun"
+  ],
+  "state": [
+    "adjective",
+    "verb"
+  ],
+  "statistic": [
+    "noun"
+  ],
+  "statue": [
+    "noun"
+  ],
+  "stick": [
+    "noun",
+    "verb"
+  ],
+  "still": [
+    "adjective"
+  ],
+  "store": [
+    "verb"
+  ],
+  "stranger": [
+    "noun"
+  ],
+  "strength": [
+    "noun"
+  ],
+  "string": [
+    "noun"
+  ],
+  "strongly": [
+    "adverb"
+  ],
+  "studio": [
+    "noun"
+  ],
+  "stuff": [
+    "noun"
+  ],
+  "substance": [
+    "noun"
+  ],
+  "successfully": [
+    "adverb"
+  ],
+  "sudden": [
+    "adjective"
+  ],
+  "suffer": [
+    "verb"
+  ],
+  "suit": [
+    "verb"
+  ],
+  "suitable": [
+    "adjective"
+  ],
+  "summarize": [
+    "verb"
+  ],
+  "summary": [
+    "noun"
+  ],
+  "supply": [
+    "noun",
+    "verb"
+  ],
+  "supporter": [
+    "noun"
+  ],
+  "surely": [
+    "adverb"
+  ],
+  "surface": [
+    "noun"
+  ],
+  "survive": [
+    "verb"
+  ],
+  "swim": [
+    "noun"
+  ],
+  "switch": [
+    "verb"
+  ],
+  "symptom": [
+    "noun"
+  ],
+  "tail": [
+    "noun"
+  ],
+  "talent": [
+    "noun"
+  ],
+  "talented": [
+    "adjective"
+  ],
+  "tax": [
+    "noun",
+    "verb"
+  ],
+  "technical": [
+    "adjective"
+  ],
+  "technique": [
+    "noun"
+  ],
+  "tend": [
+    "verb"
+  ],
+  "tent": [
+    "noun"
+  ],
+  "that": [
+    "adverb"
+  ],
+  "theirs": [
+    "pronoun"
+  ],
+  "theme": [
+    "noun"
+  ],
+  "theory": [
+    "noun"
+  ],
+  "therefore": [
+    "adverb"
+  ],
+  "this": [
+    "adverb"
+  ],
+  "though": [
+    "adverb",
+    "conjunction"
+  ],
+  "throat": [
+    "noun"
+  ],
+  "throughout": [
+    "adverb",
+    "preposition"
+  ],
+  "tight": [
+    "adjective"
+  ],
+  "till": [
+    "conjunction",
+    "preposition"
+  ],
+  "tin": [
+    "noun"
+  ],
+  "tiny": [
+    "adjective"
+  ],
+  "tip": [
+    "verb"
+  ],
+  "toe": [
+    "noun"
+  ],
+  "tongue": [
+    "noun"
+  ],
+  "total": [
+    "adjective",
+    "noun"
+  ],
+  "totally": [
+    "adverb"
+  ],
+  "touch": [
+    "noun"
+  ],
+  "tour": [
+    "verb"
+  ],
+  "trade": [
+    "noun",
+    "verb"
+  ],
+  "translate": [
+    "verb"
+  ],
+  "translation": [
+    "noun"
+  ],
+  "transport": [
+    "verb"
+  ],
+  "treat": [
+    "verb"
+  ],
+  "treatment": [
+    "noun"
+  ],
+  "trend": [
+    "noun"
+  ],
+  "trick": [
+    "noun",
+    "verb"
+  ],
+  "truth": [
+    "noun"
+  ],
+  "tube": [
+    "noun"
+  ],
+  "type": [
+    "verb"
+  ],
+  "typically": [
+    "adverb"
+  ],
+  "tyre": [
+    "noun"
+  ],
+  "ugly": [
+    "adjective"
+  ],
+  "unable": [
+    "adjective"
+  ],
+  "uncomfortable": [
+    "adjective"
+  ],
+  "underwear": [
+    "noun"
+  ],
+  "unemployed": [
+    "adjective"
+  ],
+  "unemployment": [
+    "noun"
+  ],
+  "unfair": [
+    "adjective"
+  ],
+  "union": [
+    "noun"
+  ],
+  "unless": [
+    "conjunction"
+  ],
+  "unlike": [
+    "preposition"
+  ],
+  "unlikely": [
+    "adjective"
+  ],
+  "unnecessary": [
+    "adjective"
+  ],
+  "unpleasant": [
+    "adjective"
+  ],
+  "update": [
+    "noun",
+    "verb"
+  ],
+  "upset": [
+    "adjective",
+    "verb"
+  ],
+  "used": [
+    "adjective"
+  ],
+  "used to": [
+    "adjective"
+  ],
+  "valuable": [
+    "adjective"
+  ],
+  "value": [
+    "noun"
+  ],
+  "various": [
+    "adjective"
+  ],
+  "version": [
+    "noun"
+  ],
+  "victim": [
+    "noun"
+  ],
+  "view": [
+    "verb"
+  ],
+  "viewer": [
+    "noun"
+  ],
+  "violent": [
+    "adjective"
+  ],
+  "volunteer": [
+    "noun",
+    "verb"
+  ],
+  "vote": [
+    "noun",
+    "verb"
+  ],
+  "warm": [
+    "verb"
+  ],
+  "warn": [
+    "verb"
+  ],
+  "warning": [
+    "noun"
+  ],
+  "waste": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "water": [
+    "verb"
+  ],
+  "wave": [
+    "verb"
+  ],
+  "weapon": [
+    "noun"
+  ],
+  "weigh": [
+    "verb"
+  ],
+  "western": [
+    "adjective"
+  ],
+  "whatever": [
+    "determiner",
+    "pronoun"
+  ],
+  "whenever": [
+    "conjunction"
+  ],
+  "whether": [
+    "conjunction"
+  ],
+  "while": [
+    "noun"
+  ],
+  "whole": [
+    "noun"
+  ],
+  "wi-fi™": [
+    "noun"
+  ],
+  "will": [
+    "noun"
+  ],
+  "win": [
+    "noun"
+  ],
+  "wing": [
+    "noun"
+  ],
+  "within": [
+    "preposition"
+  ],
+  "wonder": [
+    "noun",
+    "verb"
+  ],
+  "wool": [
+    "noun"
+  ],
+  "worldwide": [
+    "adjective",
+    "adverb"
+  ],
+  "worry": [
+    "noun"
+  ],
+  "worse": [
+    "adverb"
+  ],
+  "worst": [
+    "adverb"
+  ],
+  "worth": [
+    "adjective"
+  ],
+  "written": [
+    "adjective"
+  ],
+  "wrong": [
+    "adverb"
+  ],
+  "yard": [
+    "noun"
+  ],
+  "young": [
+    "noun"
+  ],
+  "youth": [
+    "noun"
+  ]
+}

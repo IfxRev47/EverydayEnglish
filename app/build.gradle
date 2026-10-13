@@ -1,0 +1,109 @@
+plugins {
+    alias(libs.plugins.android.application)
+    alias(libs.plugins.kotlin.compose)
+    id 'com.google.devtools.ksp' version '2.3.12'
+}
+
+android {
+    namespace 'com.oxford.a1'
+    compileSdk {
+        version = release(36) {
+            minorApiLevel = 1
+        }
+    }
+
+    externalNativeBuild {
+        cmake {
+            path "src/main/cpp/CMakeLists.txt"
+            version "3.22.1"
+        }
+    }
+    defaultConfig {
+        applicationId providers.gradleProperty('migrationBuild').isPresent() ? "com.oxford.a1" : "com.oxford.everyday"
+        minSdk 26
+        targetSdk 36
+        versionCode 11
+        versionName "1.9"
+        manifestPlaceholders = [applicationLabel: providers.gradleProperty('migrationBuild').isPresent() ? '每日英语（旧版迁移）' : '每日英语']
+        externalNativeBuild {
+            cmake { arguments "-DCMAKE_BUILD_TYPE=Release" }
+        }
+        ndk {
+            abiFilters "arm64-v8a"
+        }
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+    buildFeatures {
+        compose true
+    }
+    testOptions {
+        unitTests.includeAndroidResources = true
+        unitTests.all {
+            systemProperty 'robolectric.dependency.repo.url', 'https://repo.maven.apache.org/maven2'
+        }
+    }
+
+    ndkVersion '28.2.13676358'
+}
+
+def packIndexDir = layout.buildDirectory.dir('generated/vocabularyAssets')
+android.sourceSets.main.assets.srcDir(packIndexDir.get().asFile)
+def generatePackIndex = tasks.register('generatePackIndex') {
+    def packs = fileTree('src/main/assets') { include 'words_*.json' }
+    inputs.files(packs)
+    outputs.dir(packIndexDir)
+    doLast {
+        def entries = packs.files.sort { it.name }.collect { source ->
+            def pack = new groovy.json.JsonSlurper().parse(source, 'UTF-8')
+            [file: source.name, id: pack.datasetId, version: pack.version, count: pack.words.size()]
+        }
+        def output = new File(packIndexDir.get().asFile, 'pack_index.json')
+        output.parentFile.mkdirs()
+        output.setText(groovy.json.JsonOutput.toJson(entries), 'UTF-8')
+    }
+}
+tasks.named('preBuild').configure { dependsOn(generatePackIndex) }
+
+dependencies {
+    implementation 'androidx.room:room-runtime:2.8.4'
+    implementation 'androidx.room:room-ktx:2.8.4'
+    ksp 'androidx.room:room-compiler:2.8.4'
+    implementation 'androidx.lifecycle:lifecycle-viewmodel-compose:2.8.7'
+    implementation 'androidx.lifecycle:lifecycle-runtime-compose:2.8.7'
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.2'
+    androidTestImplementation 'androidx.room:room-testing:2.8.4'
+    testImplementation 'org.json:json:20240303'
+    testImplementation 'org.robolectric:robolectric:4.16.1'
+    testImplementation platform(libs.androidx.compose.bom)
+    testImplementation libs.androidx.compose.ui.test.junit4
+    implementation libs.androidx.core.ktx
+    implementation libs.androidx.lifecycle.runtime.ktx
+    implementation libs.androidx.activity.compose
+    implementation platform(libs.androidx.compose.bom)
+    implementation libs.androidx.compose.ui
+    implementation libs.androidx.compose.ui.graphics
+    implementation libs.androidx.compose.ui.tooling.preview
+    implementation libs.androidx.compose.material3
+    testImplementation libs.junit
+    androidTestImplementation libs.androidx.junit
+    androidTestImplementation libs.androidx.espresso.core
+    androidTestImplementation platform(libs.androidx.compose.bom)
+    androidTestImplementation libs.androidx.compose.ui.test.junit4
+    debugImplementation libs.androidx.compose.ui.tooling
+    debugImplementation libs.androidx.compose.ui.test.manifest
+}
+
+ksp {
+    arg('room.schemaLocation', "$projectDir/schemas")
+}

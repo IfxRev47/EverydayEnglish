@@ -1,0 +1,9707 @@
+{
+  "schemaVersion": 1,
+  "datasetId": "oxford-a1",
+  "version": 1,
+  "cefrLevel": "A1",
+  "provenance": {
+    "scopeUrl": "https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000",
+    "scopeCheckedOn": "2026-09-19",
+    "scopeSha256": "44cc5addb1784f1d7a38923d720b3d6c23befe02ffa91b4081a6c75f655e252f",
+    "chineseAndIpa": "Project-authored learning content; not copied from Oxford. Not professionally reviewed.",
+    "audio": "Android offline TextToSpeech; no audio files bundled"
+  },
+  "words": [
+    {
+      "word": "a",
+      "phonetic": "ə; eɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "indefinite article",
+          "chineseMeaning": "一（个）；某个（用于单数可数名词前）"
+        }
+      ]
+    },
+    {
+      "word": "about",
+      "phonetic": "əˈbaʊt",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "大约；左右"
+        },
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "关于；在……周围"
+        }
+      ]
+    },
+    {
+      "word": "above",
+      "phonetic": "əˈbʌv",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "在上面；向上"
+        },
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "在……上方；超过"
+        }
+      ]
+    },
+    {
+      "word": "across",
+      "phonetic": "əˈkrɒs",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "从一边到另一边"
+        },
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "横过；在……对面"
+        }
+      ]
+    },
+    {
+      "word": "action",
+      "phonetic": "ˈækʃən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "行动；行为"
+        }
+      ]
+    },
+    {
+      "word": "activity",
+      "phonetic": "ækˈtɪvəti",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "活动"
+        }
+      ]
+    },
+    {
+      "word": "actor",
+      "phonetic": "ˈæktə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "演员"
+        }
+      ]
+    },
+    {
+      "word": "actress",
+      "phonetic": "ˈæktrəs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "女演员"
+        }
+      ]
+    },
+    {
+      "word": "add",
+      "phonetic": "æd",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "添加；相加"
+        }
+      ]
+    },
+    {
+      "word": "address",
+      "phonetic": "əˈdres",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "地址"
+        }
+      ]
+    },
+    {
+      "word": "adult",
+      "phonetic": "ˈædʌlt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "成年人"
+        }
+      ]
+    },
+    {
+      "word": "advice",
+      "phonetic": "ədˈvaɪs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "建议（不可数）"
+        }
+      ]
+    },
+    {
+      "word": "afraid",
+      "phonetic": "əˈfreɪd",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "害怕的；担心的"
+        }
+      ]
+    },
+    {
+      "word": "after",
+      "phonetic": "ˈɑːftə",
+      "meanings": [
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "在……之后"
+        }
+      ]
+    },
+    {
+      "word": "afternoon",
+      "phonetic": "ˌɑːftəˈnuːn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "下午"
+        }
+      ]
+    },
+    {
+      "word": "again",
+      "phonetic": "əˈɡen",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "再一次；又"
+        }
+      ]
+    },
+    {
+      "word": "age",
+      "phonetic": "eɪdʒ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "年龄"
+        }
+      ]
+    },
+    {
+      "word": "ago",
+      "phonetic": "əˈɡəʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "……以前（从现在往前算）"
+        }
+      ]
+    },
+    {
+      "word": "agree",
+      "phonetic": "əˈɡriː",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "同意；赞成"
+        }
+      ]
+    },
+    {
+      "word": "air",
+      "phonetic": "eə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "空气"
+        }
+      ]
+    },
+    {
+      "word": "airport",
+      "phonetic": "ˈeəpɔːt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "机场"
+        }
+      ]
+    },
+    {
+      "word": "all",
+      "phonetic": "ɔːl",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "所有的；全部的"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "所有人；所有事物"
+        }
+      ]
+    },
+    {
+      "word": "also",
+      "phonetic": "ˈɔːlsəʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "也；还"
+        }
+      ]
+    },
+    {
+      "word": "always",
+      "phonetic": "ˈɔːlweɪz",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "总是；一直"
+        }
+      ]
+    },
+    {
+      "word": "amazing",
+      "phonetic": "əˈmeɪzɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "令人惊叹的"
+        }
+      ]
+    },
+    {
+      "word": "and",
+      "phonetic": "ænd; ənd",
+      "meanings": [
+        {
+          "partOfSpeech": "conjunction",
+          "chineseMeaning": "和；而且（连接并列内容）"
+        }
+      ]
+    },
+    {
+      "word": "angry",
+      "phonetic": "ˈæŋɡri",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "生气的"
+        }
+      ]
+    },
+    {
+      "word": "animal",
+      "phonetic": "ˈænɪməl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "动物"
+        }
+      ]
+    },
+    {
+      "word": "another",
+      "phonetic": "əˈnʌðə",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "另一个的；再一个的"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "另一个；再一个"
+        }
+      ]
+    },
+    {
+      "word": "answer",
+      "phonetic": "ˈɑːnsə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "答案；回答"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "回答；接听"
+        }
+      ]
+    },
+    {
+      "word": "any",
+      "phonetic": "ˈeni",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "任何的；一些（常用于疑问或否定句）"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "任何一个；一些"
+        }
+      ]
+    },
+    {
+      "word": "anyone",
+      "phonetic": "ˈeniwʌn",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "任何人；有人"
+        }
+      ]
+    },
+    {
+      "word": "anything",
+      "phonetic": "ˈeniθɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "任何事物；什么东西"
+        }
+      ]
+    },
+    {
+      "word": "apartment",
+      "phonetic": "əˈpɑːtmənt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "公寓；一套住房"
+        }
+      ]
+    },
+    {
+      "word": "apple",
+      "phonetic": "ˈæpəl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "苹果"
+        }
+      ]
+    },
+    {
+      "word": "April",
+      "phonetic": "ˈeɪprəl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "四月"
+        }
+      ]
+    },
+    {
+      "word": "area",
+      "phonetic": "ˈeəriə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "地区；区域；面积"
+        }
+      ]
+    },
+    {
+      "word": "arm",
+      "phonetic": "ɑːm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "手臂"
+        }
+      ]
+    },
+    {
+      "word": "around",
+      "phonetic": "əˈraʊnd",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "周围；大约"
+        },
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "在……周围；围绕"
+        }
+      ]
+    },
+    {
+      "word": "arrive",
+      "phonetic": "əˈraɪv",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "到达"
+        }
+      ]
+    },
+    {
+      "word": "art",
+      "phonetic": "ɑːt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "艺术；美术"
+        }
+      ]
+    },
+    {
+      "word": "article",
+      "phonetic": "ˈɑːtɪkəl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "文章"
+        }
+      ]
+    },
+    {
+      "word": "artist",
+      "phonetic": "ˈɑːtɪst",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "艺术家；画家"
+        }
+      ]
+    },
+    {
+      "word": "as",
+      "phonetic": "æz; əz",
+      "meanings": [
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "作为；以……身份"
+        }
+      ]
+    },
+    {
+      "word": "ask",
+      "phonetic": "ɑːsk",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "问；请求"
+        }
+      ]
+    },
+    {
+      "word": "at",
+      "phonetic": "æt; ət",
+      "meanings": [
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "在（地点、时刻）；向"
+        }
+      ]
+    },
+    {
+      "word": "August",
+      "phonetic": "ˈɔːɡəst",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "八月"
+        }
+      ]
+    },
+    {
+      "word": "aunt",
+      "phonetic": "ɑːnt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "姑妈；姨妈；伯母；婶婶；舅妈"
+        }
+      ]
+    },
+    {
+      "word": "autumn",
+      "phonetic": "ˈɔːtəm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "秋天"
+        }
+      ]
+    },
+    {
+      "word": "away",
+      "phonetic": "əˈweɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "离开；在远处"
+        }
+      ]
+    },
+    {
+      "word": "baby",
+      "phonetic": "ˈbeɪbi",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "婴儿"
+        }
+      ]
+    },
+    {
+      "word": "back",
+      "phonetic": "bæk",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "回来；往回"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "背部；后面"
+        }
+      ]
+    },
+    {
+      "word": "bad",
+      "phonetic": "bæd",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "坏的；不好的"
+        }
+      ]
+    },
+    {
+      "word": "bag",
+      "phonetic": "bæɡ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "包；袋子"
+        }
+      ]
+    },
+    {
+      "word": "ball",
+      "phonetic": "bɔːl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "球"
+        }
+      ]
+    },
+    {
+      "word": "banana",
+      "phonetic": "bəˈnɑːnə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "香蕉"
+        }
+      ]
+    },
+    {
+      "word": "band",
+      "phonetic": "bænd",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "乐队"
+        }
+      ]
+    },
+    {
+      "word": "bank",
+      "phonetic": "bæŋk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "银行"
+        }
+      ]
+    },
+    {
+      "word": "bath",
+      "phonetic": "bɑːθ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "洗澡；浴缸"
+        }
+      ]
+    },
+    {
+      "word": "bathroom",
+      "phonetic": "ˈbɑːθruːm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "浴室；卫生间"
+        }
+      ]
+    },
+    {
+      "word": "be",
+      "phonetic": "biː; bi",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "是；在；处于某种状态"
+        },
+        {
+          "partOfSpeech": "auxiliary verb",
+          "chineseMeaning": "与动词搭配构成进行时或被动语态"
+        }
+      ]
+    },
+    {
+      "word": "beach",
+      "phonetic": "biːtʃ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "海滩"
+        }
+      ]
+    },
+    {
+      "word": "beautiful",
+      "phonetic": "ˈbjuːtɪfəl",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "美丽的"
+        }
+      ]
+    },
+    {
+      "word": "because",
+      "phonetic": "bɪˈkɒz",
+      "meanings": [
+        {
+          "partOfSpeech": "conjunction",
+          "chineseMeaning": "因为（引出原因）"
+        }
+      ]
+    },
+    {
+      "word": "become",
+      "phonetic": "bɪˈkʌm",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "变成；成为"
+        }
+      ]
+    },
+    {
+      "word": "bed",
+      "phonetic": "bed",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "床"
+        }
+      ]
+    },
+    {
+      "word": "bedroom",
+      "phonetic": "ˈbedruːm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "卧室"
+        }
+      ]
+    },
+    {
+      "word": "beer",
+      "phonetic": "bɪə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "啤酒"
+        }
+      ]
+    },
+    {
+      "word": "before",
+      "phonetic": "bɪˈfɔː",
+      "meanings": [
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "在……之前"
+        }
+      ]
+    },
+    {
+      "word": "begin",
+      "phonetic": "bɪˈɡɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "开始"
+        }
+      ]
+    },
+    {
+      "word": "beginning",
+      "phonetic": "bɪˈɡɪnɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "开头；开始"
+        }
+      ]
+    },
+    {
+      "word": "behind",
+      "phonetic": "bɪˈhaɪnd",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "在后面"
+        },
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "在……后面"
+        }
+      ]
+    },
+    {
+      "word": "believe",
+      "phonetic": "bɪˈliːv",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "相信；认为"
+        }
+      ]
+    },
+    {
+      "word": "below",
+      "phonetic": "bɪˈləʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "在下面"
+        },
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "在……下方；低于"
+        }
+      ]
+    },
+    {
+      "word": "best",
+      "phonetic": "best",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "最好的（good 的最高级）"
+        }
+      ]
+    },
+    {
+      "word": "better",
+      "phonetic": "ˈbetə",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "更好的（good 的比较级）"
+        }
+      ]
+    },
+    {
+      "word": "between",
+      "phonetic": "bɪˈtwiːn",
+      "meanings": [
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "在……之间"
+        }
+      ]
+    },
+    {
+      "word": "bicycle",
+      "phonetic": "ˈbaɪsɪkəl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "自行车"
+        }
+      ]
+    },
+    {
+      "word": "big",
+      "phonetic": "bɪɡ",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "大的"
+        }
+      ]
+    },
+    {
+      "word": "bike",
+      "phonetic": "baɪk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "自行车；摩托车"
+        }
+      ]
+    },
+    {
+      "word": "bill",
+      "phonetic": "bɪl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "账单"
+        }
+      ]
+    },
+    {
+      "word": "bird",
+      "phonetic": "bɜːd",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "鸟"
+        }
+      ]
+    },
+    {
+      "word": "birthday",
+      "phonetic": "ˈbɜːθdeɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "生日"
+        }
+      ]
+    },
+    {
+      "word": "black",
+      "phonetic": "blæk",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "黑色的"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "黑色"
+        }
+      ]
+    },
+    {
+      "word": "blog",
+      "phonetic": "blɒɡ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "博客"
+        }
+      ]
+    },
+    {
+      "word": "blonde",
+      "phonetic": "blɒnd",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "金色头发的"
+        }
+      ]
+    },
+    {
+      "word": "blue",
+      "phonetic": "bluː",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "蓝色的"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "蓝色"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "phonetic": "bəʊt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "小船"
+        }
+      ]
+    },
+    {
+      "word": "body",
+      "phonetic": "ˈbɒdi",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "身体"
+        }
+      ]
+    },
+    {
+      "word": "book",
+      "phonetic": "bʊk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "书"
+        }
+      ]
+    },
+    {
+      "word": "boot",
+      "phonetic": "buːt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "靴子"
+        }
+      ]
+    },
+    {
+      "word": "bored",
+      "phonetic": "bɔːd",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "感到无聊的"
+        }
+      ]
+    },
+    {
+      "word": "boring",
+      "phonetic": "ˈbɔːrɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "令人无聊的"
+        }
+      ]
+    },
+    {
+      "word": "born",
+      "phonetic": "bɔːn",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "出生（通常用 be born）"
+        }
+      ]
+    },
+    {
+      "word": "both",
+      "phonetic": "bəʊθ",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "两个都；两者的"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "两者；双方"
+        }
+      ]
+    },
+    {
+      "word": "bottle",
+      "phonetic": "ˈbɒtəl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "瓶子"
+        }
+      ]
+    },
+    {
+      "word": "box",
+      "phonetic": "bɒks",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "盒子；箱子"
+        }
+      ]
+    },
+    {
+      "word": "boy",
+      "phonetic": "bɔɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "男孩"
+        }
+      ]
+    },
+    {
+      "word": "boyfriend",
+      "phonetic": "ˈbɔɪfrend",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "男朋友"
+        }
+      ]
+    },
+    {
+      "word": "bread",
+      "phonetic": "bred",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "面包（不可数）"
+        }
+      ]
+    },
+    {
+      "word": "break",
+      "phonetic": "breɪk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "短暂休息；间歇"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "打破；弄坏"
+        }
+      ]
+    },
+    {
+      "word": "breakfast",
+      "phonetic": "ˈbrekfəst",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "早餐"
+        }
+      ]
+    },
+    {
+      "word": "bring",
+      "phonetic": "brɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "带来"
+        }
+      ]
+    },
+    {
+      "word": "brother",
+      "phonetic": "ˈbrʌðə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "兄弟"
+        }
+      ]
+    },
+    {
+      "word": "brown",
+      "phonetic": "braʊn",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "棕色的"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "棕色"
+        }
+      ]
+    },
+    {
+      "word": "build",
+      "phonetic": "bɪld",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "建造"
+        }
+      ]
+    },
+    {
+      "word": "building",
+      "phonetic": "ˈbɪldɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "建筑物"
+        }
+      ]
+    },
+    {
+      "word": "bus",
+      "phonetic": "bʌs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "公共汽车"
+        }
+      ]
+    },
+    {
+      "word": "business",
+      "phonetic": "ˈbɪznəs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "生意；商业；公司"
+        }
+      ]
+    },
+    {
+      "word": "busy",
+      "phonetic": "ˈbɪzi",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "忙碌的"
+        }
+      ]
+    },
+    {
+      "word": "but",
+      "phonetic": "bʌt; bət",
+      "meanings": [
+        {
+          "partOfSpeech": "conjunction",
+          "chineseMeaning": "但是（表示转折）"
+        }
+      ]
+    },
+    {
+      "word": "butter",
+      "phonetic": "ˈbʌtə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "黄油"
+        }
+      ]
+    },
+    {
+      "word": "buy",
+      "phonetic": "baɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "买"
+        }
+      ]
+    },
+    {
+      "word": "by",
+      "phonetic": "baɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "在……旁边；通过；乘坐；由"
+        }
+      ]
+    },
+    {
+      "word": "bye",
+      "phonetic": "baɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "exclamation",
+          "chineseMeaning": "再见"
+        }
+      ]
+    },
+    {
+      "word": "cafe",
+      "phonetic": "ˈkæfeɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "咖啡馆；小餐馆"
+        }
+      ]
+    },
+    {
+      "word": "cake",
+      "phonetic": "keɪk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "蛋糕"
+        }
+      ]
+    },
+    {
+      "word": "call",
+      "phonetic": "kɔːl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "电话；呼叫"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "打电话；称呼；呼叫"
+        }
+      ]
+    },
+    {
+      "word": "camera",
+      "phonetic": "ˈkæmərə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "照相机；摄像机"
+        }
+      ]
+    },
+    {
+      "word": "can",
+      "phonetic": "kæn; kən",
+      "meanings": [
+        {
+          "partOfSpeech": "modal verb",
+          "chineseMeaning": "能；会；可以"
+        }
+      ]
+    },
+    {
+      "word": "cannot",
+      "phonetic": "ˈkænɒt",
+      "meanings": [
+        {
+          "partOfSpeech": "modal verb",
+          "chineseMeaning": "不能；不会（can 的否定形式）"
+        }
+      ]
+    },
+    {
+      "word": "capital",
+      "phonetic": "ˈkæpɪtəl",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "大写的（字母）"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "首都；大写字母"
+        }
+      ]
+    },
+    {
+      "word": "car",
+      "phonetic": "kɑː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "小汽车"
+        }
+      ]
+    },
+    {
+      "word": "card",
+      "phonetic": "kɑːd",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "卡片；卡"
+        }
+      ]
+    },
+    {
+      "word": "career",
+      "phonetic": "kəˈrɪə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "职业；职业生涯"
+        }
+      ]
+    },
+    {
+      "word": "carrot",
+      "phonetic": "ˈkærət",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "胡萝卜"
+        }
+      ]
+    },
+    {
+      "word": "carry",
+      "phonetic": "ˈkæri",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "拿；提；搬运；携带"
+        }
+      ]
+    },
+    {
+      "word": "cat",
+      "phonetic": "kæt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "猫"
+        }
+      ]
+    },
+    {
+      "word": "CD",
+      "phonetic": "ˌsiː ˈdiː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "光盘"
+        }
+      ]
+    },
+    {
+      "word": "cent",
+      "phonetic": "sent",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "分（美元、欧元等的百分之一）"
+        }
+      ]
+    },
+    {
+      "word": "centre",
+      "phonetic": "ˈsentə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "中心；中央"
+        }
+      ]
+    },
+    {
+      "word": "century",
+      "phonetic": "ˈsentʃəri",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "世纪；一百年"
+        }
+      ]
+    },
+    {
+      "word": "chair",
+      "phonetic": "tʃeə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "椅子"
+        }
+      ]
+    },
+    {
+      "word": "change",
+      "phonetic": "tʃeɪndʒ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "变化；零钱"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "改变；更换"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "phonetic": "tʃɑːt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "图表"
+        }
+      ]
+    },
+    {
+      "word": "cheap",
+      "phonetic": "tʃiːp",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "便宜的"
+        }
+      ]
+    },
+    {
+      "word": "check",
+      "phonetic": "tʃek",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "检查；核对"
+        }
+      ]
+    },
+    {
+      "word": "cheese",
+      "phonetic": "tʃiːz",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "奶酪"
+        }
+      ]
+    },
+    {
+      "word": "chicken",
+      "phonetic": "ˈtʃɪkɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "鸡；鸡肉"
+        }
+      ]
+    },
+    {
+      "word": "child",
+      "phonetic": "tʃaɪld",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "孩子"
+        }
+      ]
+    },
+    {
+      "word": "chocolate",
+      "phonetic": "ˈtʃɒklət",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "巧克力"
+        }
+      ]
+    },
+    {
+      "word": "choose",
+      "phonetic": "tʃuːz",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "选择"
+        }
+      ]
+    },
+    {
+      "word": "cinema",
+      "phonetic": "ˈsɪnəmə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "电影院；电影"
+        }
+      ]
+    },
+    {
+      "word": "city",
+      "phonetic": "ˈsɪti",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "城市"
+        }
+      ]
+    },
+    {
+      "word": "class",
+      "phonetic": "klɑːs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "班级；课"
+        }
+      ]
+    },
+    {
+      "word": "classroom",
+      "phonetic": "ˈklɑːsruːm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "教室"
+        }
+      ]
+    },
+    {
+      "word": "clean",
+      "phonetic": "kliːn",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "干净的"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "清洁；打扫"
+        }
+      ]
+    },
+    {
+      "word": "climb",
+      "phonetic": "klaɪm",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "爬；攀登"
+        }
+      ]
+    },
+    {
+      "word": "clock",
+      "phonetic": "klɒk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "钟"
+        }
+      ]
+    },
+    {
+      "word": "close",
+      "phonetic": "kləʊz",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "关上；关闭"
+        }
+      ]
+    },
+    {
+      "word": "clothes",
+      "phonetic": "kləʊðz",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "衣服（复数）"
+        }
+      ]
+    },
+    {
+      "word": "club",
+      "phonetic": "klʌb",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "俱乐部；社团"
+        }
+      ]
+    },
+    {
+      "word": "coat",
+      "phonetic": "kəʊt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "外套；大衣"
+        }
+      ]
+    },
+    {
+      "word": "coffee",
+      "phonetic": "ˈkɒfi",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "咖啡"
+        }
+      ]
+    },
+    {
+      "word": "cold",
+      "phonetic": "kəʊld",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "冷的"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "感冒；寒冷"
+        }
+      ]
+    },
+    {
+      "word": "college",
+      "phonetic": "ˈkɒlɪdʒ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "学院；大学"
+        }
+      ]
+    },
+    {
+      "word": "colour",
+      "phonetic": "ˈkʌlə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "颜色"
+        }
+      ]
+    },
+    {
+      "word": "come",
+      "phonetic": "kʌm",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "来"
+        }
+      ]
+    },
+    {
+      "word": "common",
+      "phonetic": "ˈkɒmən",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "常见的；共同的"
+        }
+      ]
+    },
+    {
+      "word": "company",
+      "phonetic": "ˈkʌmpəni",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "公司"
+        }
+      ]
+    },
+    {
+      "word": "compare",
+      "phonetic": "kəmˈpeə",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "比较"
+        }
+      ]
+    },
+    {
+      "word": "complete",
+      "phonetic": "kəmˈpliːt",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "完整的；全部的"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "完成"
+        }
+      ]
+    },
+    {
+      "word": "computer",
+      "phonetic": "kəmˈpjuːtə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "计算机"
+        }
+      ]
+    },
+    {
+      "word": "concert",
+      "phonetic": "ˈkɒnsət",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "音乐会"
+        }
+      ]
+    },
+    {
+      "word": "conversation",
+      "phonetic": "ˌkɒnvəˈseɪʃən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "交谈；对话"
+        }
+      ]
+    },
+    {
+      "word": "cook",
+      "phonetic": "kʊk",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "做饭；烹饪"
+        }
+      ]
+    },
+    {
+      "word": "cooking",
+      "phonetic": "ˈkʊkɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "烹饪；做饭"
+        }
+      ]
+    },
+    {
+      "word": "cool",
+      "phonetic": "kuːl",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "凉爽的；酷的"
+        }
+      ]
+    },
+    {
+      "word": "correct",
+      "phonetic": "kəˈrekt",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "正确的"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "改正；纠正"
+        }
+      ]
+    },
+    {
+      "word": "cost",
+      "phonetic": "kɒst",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "费用；价格"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "花费；价钱为"
+        }
+      ]
+    },
+    {
+      "word": "could",
+      "phonetic": "kʊd; kəd",
+      "meanings": [
+        {
+          "partOfSpeech": "modal verb",
+          "chineseMeaning": "能（can 的过去式）；可以（礼貌请求）"
+        }
+      ]
+    },
+    {
+      "word": "country",
+      "phonetic": "ˈkʌntri",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "国家；乡村"
+        }
+      ]
+    },
+    {
+      "word": "course",
+      "phonetic": "kɔːs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "课程"
+        }
+      ]
+    },
+    {
+      "word": "cousin",
+      "phonetic": "ˈkʌzən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "堂兄弟姐妹；表兄弟姐妹"
+        }
+      ]
+    },
+    {
+      "word": "cow",
+      "phonetic": "kaʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "奶牛；母牛"
+        }
+      ]
+    },
+    {
+      "word": "cream",
+      "phonetic": "kriːm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "奶油；乳霜"
+        }
+      ]
+    },
+    {
+      "word": "create",
+      "phonetic": "kriˈeɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "创造；创建"
+        }
+      ]
+    },
+    {
+      "word": "culture",
+      "phonetic": "ˈkʌltʃə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "文化"
+        }
+      ]
+    },
+    {
+      "word": "cup",
+      "phonetic": "kʌp",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "杯子；一杯的量"
+        }
+      ]
+    },
+    {
+      "word": "customer",
+      "phonetic": "ˈkʌstəmə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "顾客"
+        }
+      ]
+    },
+    {
+      "word": "cut",
+      "phonetic": "kʌt",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "切；剪"
+        }
+      ]
+    },
+    {
+      "word": "dad",
+      "phonetic": "dæd",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "爸爸"
+        }
+      ]
+    },
+    {
+      "word": "dance",
+      "phonetic": "dɑːns",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "舞蹈；舞会"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "跳舞"
+        }
+      ]
+    },
+    {
+      "word": "dancer",
+      "phonetic": "ˈdɑːnsə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "舞者"
+        }
+      ]
+    },
+    {
+      "word": "dancing",
+      "phonetic": "ˈdɑːnsɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "跳舞；舞蹈活动"
+        }
+      ]
+    },
+    {
+      "word": "dangerous",
+      "phonetic": "ˈdeɪndʒərəs",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "危险的"
+        }
+      ]
+    },
+    {
+      "word": "dark",
+      "phonetic": "dɑːk",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "黑暗的；深色的"
+        }
+      ]
+    },
+    {
+      "word": "date",
+      "phonetic": "deɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "日期；约会"
+        }
+      ]
+    },
+    {
+      "word": "daughter",
+      "phonetic": "ˈdɔːtə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "女儿"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "phonetic": "deɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "一天；白天"
+        }
+      ]
+    },
+    {
+      "word": "dear",
+      "phonetic": "dɪə",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "亲爱的（常用于称呼）"
+        }
+      ]
+    },
+    {
+      "word": "December",
+      "phonetic": "dɪˈsembə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "十二月"
+        }
+      ]
+    },
+    {
+      "word": "decide",
+      "phonetic": "dɪˈsaɪd",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "决定"
+        }
+      ]
+    },
+    {
+      "word": "delicious",
+      "phonetic": "dɪˈlɪʃəs",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "美味的"
+        }
+      ]
+    },
+    {
+      "word": "describe",
+      "phonetic": "dɪˈskraɪb",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "描述"
+        }
+      ]
+    },
+    {
+      "word": "description",
+      "phonetic": "dɪˈskrɪpʃən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "描述；说明"
+        }
+      ]
+    },
+    {
+      "word": "design",
+      "phonetic": "dɪˈzaɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "设计；设计方案"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "设计"
+        }
+      ]
+    },
+    {
+      "word": "desk",
+      "phonetic": "desk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "书桌；办公桌"
+        }
+      ]
+    },
+    {
+      "word": "detail",
+      "phonetic": "ˈdiːteɪl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "细节"
+        }
+      ]
+    },
+    {
+      "word": "dialogue",
+      "phonetic": "ˈdaɪəlɒɡ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "对话"
+        }
+      ]
+    },
+    {
+      "word": "dictionary",
+      "phonetic": "ˈdɪkʃənəri",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "词典"
+        }
+      ]
+    },
+    {
+      "word": "die",
+      "phonetic": "daɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "死；死亡"
+        }
+      ]
+    },
+    {
+      "word": "diet",
+      "phonetic": "ˈdaɪət",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "日常饮食；规定饮食"
+        }
+      ]
+    },
+    {
+      "word": "difference",
+      "phonetic": "ˈdɪfrəns",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "差别；不同之处"
+        }
+      ]
+    },
+    {
+      "word": "different",
+      "phonetic": "ˈdɪfrənt",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "不同的"
+        }
+      ]
+    },
+    {
+      "word": "difficult",
+      "phonetic": "ˈdɪfɪkəlt",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "困难的"
+        }
+      ]
+    },
+    {
+      "word": "dinner",
+      "phonetic": "ˈdɪnə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "正餐；晚餐"
+        }
+      ]
+    },
+    {
+      "word": "dirty",
+      "phonetic": "ˈdɜːti",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "脏的"
+        }
+      ]
+    },
+    {
+      "word": "discuss",
+      "phonetic": "dɪˈskʌs",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "讨论"
+        }
+      ]
+    },
+    {
+      "word": "dish",
+      "phonetic": "dɪʃ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "盘子；一道菜"
+        }
+      ]
+    },
+    {
+      "word": "do",
+      "phonetic": "duː; də",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "做；进行"
+        },
+        {
+          "partOfSpeech": "auxiliary verb",
+          "chineseMeaning": "构成疑问、否定或强调（如 Do you…?）"
+        }
+      ]
+    },
+    {
+      "word": "doctor",
+      "phonetic": "ˈdɒktə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "医生"
+        }
+      ]
+    },
+    {
+      "word": "dog",
+      "phonetic": "dɒɡ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "狗"
+        }
+      ]
+    },
+    {
+      "word": "dollar",
+      "phonetic": "ˈdɒlə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "元（美元等货币单位）"
+        }
+      ]
+    },
+    {
+      "word": "door",
+      "phonetic": "dɔː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "门"
+        }
+      ]
+    },
+    {
+      "word": "down",
+      "phonetic": "daʊn",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "向下；在下面"
+        },
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "沿着……向下；沿着"
+        }
+      ]
+    },
+    {
+      "word": "downstairs",
+      "phonetic": "ˌdaʊnˈsteəz",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "在楼下；到楼下"
+        }
+      ]
+    },
+    {
+      "word": "draw",
+      "phonetic": "drɔː",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "画；画出"
+        }
+      ]
+    },
+    {
+      "word": "dress",
+      "phonetic": "dres",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "连衣裙"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "穿衣服；给……穿衣服"
+        }
+      ]
+    },
+    {
+      "word": "drink",
+      "phonetic": "drɪŋk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "饮料；一杯饮品"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "喝"
+        }
+      ]
+    },
+    {
+      "word": "drive",
+      "phonetic": "draɪv",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "驾驶；开车"
+        }
+      ]
+    },
+    {
+      "word": "driver",
+      "phonetic": "ˈdraɪvə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "司机"
+        }
+      ]
+    },
+    {
+      "word": "during",
+      "phonetic": "ˈdjʊərɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "在……期间"
+        }
+      ]
+    },
+    {
+      "word": "DVD",
+      "phonetic": "ˌdiː viː ˈdiː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "数字影碟"
+        }
+      ]
+    },
+    {
+      "word": "each",
+      "phonetic": "iːtʃ",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "每人；每个（如 two each）"
+        },
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "每个的"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "每一个"
+        }
+      ]
+    },
+    {
+      "word": "ear",
+      "phonetic": "ɪə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "耳朵"
+        }
+      ]
+    },
+    {
+      "word": "early",
+      "phonetic": "ˈɜːli",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "早的；提前的"
+        },
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "早；提前"
+        }
+      ]
+    },
+    {
+      "word": "east",
+      "phonetic": "iːst",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "东方的"
+        },
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "向东；在东方"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "东方；东部"
+        }
+      ]
+    },
+    {
+      "word": "easy",
+      "phonetic": "ˈiːzi",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "容易的"
+        }
+      ]
+    },
+    {
+      "word": "eat",
+      "phonetic": "iːt",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "吃"
+        }
+      ]
+    },
+    {
+      "word": "egg",
+      "phonetic": "eɡ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "鸡蛋；蛋"
+        }
+      ]
+    },
+    {
+      "word": "eight",
+      "phonetic": "eɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "八"
+        }
+      ]
+    },
+    {
+      "word": "eighteen",
+      "phonetic": "ˌeɪˈtiːn",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "十八"
+        }
+      ]
+    },
+    {
+      "word": "eighty",
+      "phonetic": "ˈeɪti",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "八十"
+        }
+      ]
+    },
+    {
+      "word": "elephant",
+      "phonetic": "ˈelɪfənt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "大象"
+        }
+      ]
+    },
+    {
+      "word": "eleven",
+      "phonetic": "ɪˈlevən",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "十一"
+        }
+      ]
+    },
+    {
+      "word": "else",
+      "phonetic": "els",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "其他；另外"
+        }
+      ]
+    },
+    {
+      "word": "email",
+      "phonetic": "ˈiːmeɪl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "电子邮件"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "给……发电子邮件"
+        }
+      ]
+    },
+    {
+      "word": "end",
+      "phonetic": "end",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "末尾；结束"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "结束"
+        }
+      ]
+    },
+    {
+      "word": "enjoy",
+      "phonetic": "ɪnˈdʒɔɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "喜欢；享受"
+        }
+      ]
+    },
+    {
+      "word": "enough",
+      "phonetic": "ɪˈnʌf",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "足够地（放在形容词或副词后）"
+        },
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "足够的"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "足够的数量"
+        }
+      ]
+    },
+    {
+      "word": "euro",
+      "phonetic": "ˈjʊərəʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "欧元"
+        }
+      ]
+    },
+    {
+      "word": "even",
+      "phonetic": "ˈiːvən",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "甚至；连……都"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "phonetic": "ˈiːvnɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "傍晚；晚上"
+        }
+      ]
+    },
+    {
+      "word": "event",
+      "phonetic": "ɪˈvent",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "事件；活动"
+        }
+      ]
+    },
+    {
+      "word": "ever",
+      "phonetic": "ˈevə",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "曾经；在任何时候"
+        }
+      ]
+    },
+    {
+      "word": "every",
+      "phonetic": "ˈevri",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "每一；每个（后接单数名词）"
+        }
+      ]
+    },
+    {
+      "word": "everybody",
+      "phonetic": "ˈevribɒdi",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "每个人；大家"
+        }
+      ]
+    },
+    {
+      "word": "everyone",
+      "phonetic": "ˈevriwʌn",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "每个人；大家"
+        }
+      ]
+    },
+    {
+      "word": "everything",
+      "phonetic": "ˈevriθɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "一切；所有事物"
+        }
+      ]
+    },
+    {
+      "word": "exam",
+      "phonetic": "ɪɡˈzæm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "考试"
+        }
+      ]
+    },
+    {
+      "word": "example",
+      "phonetic": "ɪɡˈzɑːmpəl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "例子"
+        }
+      ]
+    },
+    {
+      "word": "excited",
+      "phonetic": "ɪkˈsaɪtɪd",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "感到兴奋的"
+        }
+      ]
+    },
+    {
+      "word": "exciting",
+      "phonetic": "ɪkˈsaɪtɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "令人兴奋的"
+        }
+      ]
+    },
+    {
+      "word": "exercise",
+      "phonetic": "ˈeksəsaɪz",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "锻炼；练习题"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "锻炼"
+        }
+      ]
+    },
+    {
+      "word": "expensive",
+      "phonetic": "ɪkˈspensɪv",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "昂贵的"
+        }
+      ]
+    },
+    {
+      "word": "explain",
+      "phonetic": "ɪkˈspleɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "解释；说明"
+        }
+      ]
+    },
+    {
+      "word": "extra",
+      "phonetic": "ˈekstrə",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "额外的"
+        }
+      ]
+    },
+    {
+      "word": "eye",
+      "phonetic": "aɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "眼睛"
+        }
+      ]
+    },
+    {
+      "word": "face",
+      "phonetic": "feɪs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "脸"
+        }
+      ]
+    },
+    {
+      "word": "fact",
+      "phonetic": "fækt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "事实"
+        }
+      ]
+    },
+    {
+      "word": "fall",
+      "phonetic": "fɔːl",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "落下；跌倒"
+        }
+      ]
+    },
+    {
+      "word": "false",
+      "phonetic": "fɔːls",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "错误的；不真实的"
+        }
+      ]
+    },
+    {
+      "word": "family",
+      "phonetic": "ˈfæməli",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "家庭的；供全家用的"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "家庭；家人"
+        }
+      ]
+    },
+    {
+      "word": "famous",
+      "phonetic": "ˈfeɪməs",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "著名的"
+        }
+      ]
+    },
+    {
+      "word": "fantastic",
+      "phonetic": "fænˈtæstɪk",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "极好的"
+        }
+      ]
+    },
+    {
+      "word": "far",
+      "phonetic": "fɑː",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "远；很远"
+        }
+      ]
+    },
+    {
+      "word": "farm",
+      "phonetic": "fɑːm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "农场"
+        }
+      ]
+    },
+    {
+      "word": "farmer",
+      "phonetic": "ˈfɑːmə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "农民；农场主"
+        }
+      ]
+    },
+    {
+      "word": "fast",
+      "phonetic": "fɑːst",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "快的"
+        },
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "快地"
+        }
+      ]
+    },
+    {
+      "word": "fat",
+      "phonetic": "fæt",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "胖的"
+        }
+      ]
+    },
+    {
+      "word": "father",
+      "phonetic": "ˈfɑːðə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "父亲"
+        }
+      ]
+    },
+    {
+      "word": "favourite",
+      "phonetic": "ˈfeɪvərɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "最喜欢的"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "最喜欢的人或事物"
+        }
+      ]
+    },
+    {
+      "word": "February",
+      "phonetic": "ˈfebruəri",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "二月"
+        }
+      ]
+    },
+    {
+      "word": "feel",
+      "phonetic": "fiːl",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "感觉；觉得"
+        }
+      ]
+    },
+    {
+      "word": "feeling",
+      "phonetic": "ˈfiːlɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "感觉；感情"
+        }
+      ]
+    },
+    {
+      "word": "festival",
+      "phonetic": "ˈfestɪvəl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "节日；庆祝活动"
+        }
+      ]
+    },
+    {
+      "word": "few",
+      "phonetic": "fjuː",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "少数的"
+        },
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "很少的（接可数名词复数）；a few 表示几个"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "很少的人或事物；a few 表示几个"
+        }
+      ]
+    },
+    {
+      "word": "fifteen",
+      "phonetic": "ˌfɪfˈtiːn",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "十五"
+        }
+      ]
+    },
+    {
+      "word": "fifth",
+      "phonetic": "fɪfθ",
+      "meanings": [
+        {
+          "partOfSpeech": "ordinal number",
+          "chineseMeaning": "第五"
+        }
+      ]
+    },
+    {
+      "word": "fifty",
+      "phonetic": "ˈfɪfti",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "五十"
+        }
+      ]
+    },
+    {
+      "word": "fill",
+      "phonetic": "fɪl",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "装满；填入"
+        }
+      ]
+    },
+    {
+      "word": "film",
+      "phonetic": "fɪlm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "电影"
+        }
+      ]
+    },
+    {
+      "word": "final",
+      "phonetic": "ˈfaɪnəl",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "最后的；最终的"
+        }
+      ]
+    },
+    {
+      "word": "find",
+      "phonetic": "faɪnd",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "找到；发现"
+        }
+      ]
+    },
+    {
+      "word": "fine",
+      "phonetic": "faɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "好的；身体好的；晴朗的"
+        }
+      ]
+    },
+    {
+      "word": "finish",
+      "phonetic": "ˈfɪnɪʃ",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "完成；结束"
+        }
+      ]
+    },
+    {
+      "word": "fire",
+      "phonetic": "ˈfaɪə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "火；火灾"
+        }
+      ]
+    },
+    {
+      "word": "first",
+      "phonetic": "fɜːst",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "首先；第一次"
+        },
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "第一个的；最初的"
+        },
+        {
+          "partOfSpeech": "ordinal number",
+          "chineseMeaning": "第一"
+        }
+      ]
+    },
+    {
+      "word": "fish",
+      "phonetic": "fɪʃ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "鱼；鱼肉"
+        }
+      ]
+    },
+    {
+      "word": "five",
+      "phonetic": "faɪv",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "五"
+        }
+      ]
+    },
+    {
+      "word": "flat",
+      "phonetic": "flæt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "公寓；一套住房（英式用语）"
+        }
+      ]
+    },
+    {
+      "word": "flight",
+      "phonetic": "flaɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "航班；飞行"
+        }
+      ]
+    },
+    {
+      "word": "floor",
+      "phonetic": "flɔː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "地板；楼层"
+        }
+      ]
+    },
+    {
+      "word": "flower",
+      "phonetic": "ˈflaʊə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "花"
+        }
+      ]
+    },
+    {
+      "word": "fly",
+      "phonetic": "flaɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "飞；乘飞机"
+        }
+      ]
+    },
+    {
+      "word": "follow",
+      "phonetic": "ˈfɒləʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "跟随；按照"
+        }
+      ]
+    },
+    {
+      "word": "food",
+      "phonetic": "fuːd",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "食物"
+        }
+      ]
+    },
+    {
+      "word": "foot",
+      "phonetic": "fʊt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "脚；英尺"
+        }
+      ]
+    },
+    {
+      "word": "football",
+      "phonetic": "ˈfʊtbɔːl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "足球"
+        }
+      ]
+    },
+    {
+      "word": "for",
+      "phonetic": "fɔː; fə",
+      "meanings": [
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "为了；给；持续（一段时间）"
+        }
+      ]
+    },
+    {
+      "word": "forget",
+      "phonetic": "fəˈɡet",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "忘记"
+        }
+      ]
+    },
+    {
+      "word": "form",
+      "phonetic": "fɔːm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "表格；形式"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "形成；组成"
+        }
+      ]
+    },
+    {
+      "word": "forty",
+      "phonetic": "ˈfɔːti",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "四十"
+        }
+      ]
+    },
+    {
+      "word": "four",
+      "phonetic": "fɔː",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "四"
+        }
+      ]
+    },
+    {
+      "word": "fourteen",
+      "phonetic": "ˌfɔːˈtiːn",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "十四"
+        }
+      ]
+    },
+    {
+      "word": "fourth",
+      "phonetic": "fɔːθ",
+      "meanings": [
+        {
+          "partOfSpeech": "ordinal number",
+          "chineseMeaning": "第四"
+        }
+      ]
+    },
+    {
+      "word": "free",
+      "phonetic": "friː",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "免费的；有空的；自由的"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "phonetic": "ˈfraɪdeɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "星期五"
+        }
+      ]
+    },
+    {
+      "word": "friend",
+      "phonetic": "frend",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "朋友"
+        }
+      ]
+    },
+    {
+      "word": "friendly",
+      "phonetic": "ˈfrendli",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "友好的"
+        }
+      ]
+    },
+    {
+      "word": "from",
+      "phonetic": "frɒm; frəm",
+      "meanings": [
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "从；来自"
+        }
+      ]
+    },
+    {
+      "word": "front",
+      "phonetic": "frʌnt",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "前面的"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "前面；正面"
+        }
+      ]
+    },
+    {
+      "word": "fruit",
+      "phonetic": "fruːt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "水果"
+        }
+      ]
+    },
+    {
+      "word": "full",
+      "phonetic": "fʊl",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "满的；吃饱的"
+        }
+      ]
+    },
+    {
+      "word": "fun",
+      "phonetic": "fʌn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "乐趣；有趣的事"
+        }
+      ]
+    },
+    {
+      "word": "funny",
+      "phonetic": "ˈfʌni",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "好笑的；奇怪的"
+        }
+      ]
+    },
+    {
+      "word": "future",
+      "phonetic": "ˈfjuːtʃə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "未来"
+        }
+      ]
+    },
+    {
+      "word": "game",
+      "phonetic": "ɡeɪm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "游戏；比赛"
+        }
+      ]
+    },
+    {
+      "word": "garden",
+      "phonetic": "ˈɡɑːdən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "花园"
+        }
+      ]
+    },
+    {
+      "word": "geography",
+      "phonetic": "dʒiˈɒɡrəfi",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "地理；地理学"
+        }
+      ]
+    },
+    {
+      "word": "get",
+      "phonetic": "ɡet",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "得到；到达；变得"
+        }
+      ]
+    },
+    {
+      "word": "girl",
+      "phonetic": "ɡɜːl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "女孩"
+        }
+      ]
+    },
+    {
+      "word": "girlfriend",
+      "phonetic": "ˈɡɜːlfrend",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "女朋友"
+        }
+      ]
+    },
+    {
+      "word": "give",
+      "phonetic": "ɡɪv",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "给；给予"
+        }
+      ]
+    },
+    {
+      "word": "glass",
+      "phonetic": "ɡlɑːs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "玻璃；玻璃杯；glasses 指眼镜"
+        }
+      ]
+    },
+    {
+      "word": "go",
+      "phonetic": "ɡəʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "去；走"
+        }
+      ]
+    },
+    {
+      "word": "good",
+      "phonetic": "ɡʊd",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "好的"
+        }
+      ]
+    },
+    {
+      "word": "goodbye",
+      "phonetic": "ˌɡʊdˈbaɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "exclamation",
+          "chineseMeaning": "再见"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "告别"
+        }
+      ]
+    },
+    {
+      "word": "grandfather",
+      "phonetic": "ˈɡrænfɑːðə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "祖父；外祖父"
+        }
+      ]
+    },
+    {
+      "word": "grandmother",
+      "phonetic": "ˈɡrænmʌðə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "祖母；外祖母"
+        }
+      ]
+    },
+    {
+      "word": "grandparent",
+      "phonetic": "ˈɡrænpeərənt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "祖父母或外祖父母中的一位"
+        }
+      ]
+    },
+    {
+      "word": "great",
+      "phonetic": "ɡreɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "很棒的；伟大的"
+        }
+      ]
+    },
+    {
+      "word": "green",
+      "phonetic": "ɡriːn",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "绿色的"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "绿色"
+        }
+      ]
+    },
+    {
+      "word": "grey",
+      "phonetic": "ɡreɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "灰色的"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "灰色"
+        }
+      ]
+    },
+    {
+      "word": "group",
+      "phonetic": "ɡruːp",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "组；群"
+        }
+      ]
+    },
+    {
+      "word": "grow",
+      "phonetic": "ɡrəʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "生长；长大；种植"
+        }
+      ]
+    },
+    {
+      "word": "guess",
+      "phonetic": "ɡes",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "猜测"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "猜；猜想"
+        }
+      ]
+    },
+    {
+      "word": "guitar",
+      "phonetic": "ɡɪˈtɑː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "吉他"
+        }
+      ]
+    },
+    {
+      "word": "gym",
+      "phonetic": "dʒɪm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "健身房；体育馆"
+        }
+      ]
+    },
+    {
+      "word": "hair",
+      "phonetic": "heə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "头发；毛发"
+        }
+      ]
+    },
+    {
+      "word": "half",
+      "phonetic": "hɑːf",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "一半的"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "一半"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "半数；一半"
+        }
+      ]
+    },
+    {
+      "word": "hand",
+      "phonetic": "hænd",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "手"
+        }
+      ]
+    },
+    {
+      "word": "happen",
+      "phonetic": "ˈhæpən",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "发生"
+        }
+      ]
+    },
+    {
+      "word": "happy",
+      "phonetic": "ˈhæpi",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "快乐的；满意的"
+        }
+      ]
+    },
+    {
+      "word": "hard",
+      "phonetic": "hɑːd",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "困难的；硬的"
+        },
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "努力地；猛烈地"
+        }
+      ]
+    },
+    {
+      "word": "hat",
+      "phonetic": "hæt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "帽子"
+        }
+      ]
+    },
+    {
+      "word": "hate",
+      "phonetic": "heɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "讨厌；憎恨"
+        }
+      ]
+    },
+    {
+      "word": "have",
+      "phonetic": "hæv; həv",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "有；吃；喝；经历"
+        }
+      ]
+    },
+    {
+      "word": "have to",
+      "phonetic": "ˈhæf tə",
+      "meanings": [
+        {
+          "partOfSpeech": "modal verb",
+          "chineseMeaning": "必须；不得不"
+        }
+      ]
+    },
+    {
+      "word": "he",
+      "phonetic": "hiː",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "他（主语）"
+        }
+      ]
+    },
+    {
+      "word": "head",
+      "phonetic": "hed",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "头；头部"
+        }
+      ]
+    },
+    {
+      "word": "health",
+      "phonetic": "helθ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "健康"
+        }
+      ]
+    },
+    {
+      "word": "healthy",
+      "phonetic": "ˈhelθi",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "健康的；有益健康的"
+        }
+      ]
+    },
+    {
+      "word": "hear",
+      "phonetic": "hɪə",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "听见；听说"
+        }
+      ]
+    },
+    {
+      "word": "hello",
+      "phonetic": "həˈləʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "exclamation",
+          "chineseMeaning": "你好；喂"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "问候；招呼"
+        }
+      ]
+    },
+    {
+      "word": "help",
+      "phonetic": "help",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "帮助"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "帮助"
+        }
+      ]
+    },
+    {
+      "word": "her",
+      "phonetic": "hɜː; hə",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "她的（后接名词）"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "她（宾语）"
+        }
+      ]
+    },
+    {
+      "word": "here",
+      "phonetic": "hɪə",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "这里；在这里"
+        }
+      ]
+    },
+    {
+      "word": "hey",
+      "phonetic": "heɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "exclamation",
+          "chineseMeaning": "嘿（打招呼或引起注意）"
+        }
+      ]
+    },
+    {
+      "word": "hi",
+      "phonetic": "haɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "exclamation",
+          "chineseMeaning": "嗨；你好"
+        }
+      ]
+    },
+    {
+      "word": "high",
+      "phonetic": "haɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "高的"
+        }
+      ]
+    },
+    {
+      "word": "him",
+      "phonetic": "hɪm",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "他（宾语）"
+        }
+      ]
+    },
+    {
+      "word": "his",
+      "phonetic": "hɪz",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "他的（后接名词）"
+        }
+      ]
+    },
+    {
+      "word": "history",
+      "phonetic": "ˈhɪstəri",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "历史"
+        }
+      ]
+    },
+    {
+      "word": "hobby",
+      "phonetic": "ˈhɒbi",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "业余爱好"
+        }
+      ]
+    },
+    {
+      "word": "holiday",
+      "phonetic": "ˈhɒlədeɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "假期；节日"
+        }
+      ]
+    },
+    {
+      "word": "home",
+      "phonetic": "həʊm",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "在家；回家"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "家；住所"
+        }
+      ]
+    },
+    {
+      "word": "homework",
+      "phonetic": "ˈhəʊmwɜːk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "家庭作业（不可数）"
+        }
+      ]
+    },
+    {
+      "word": "hope",
+      "phonetic": "həʊp",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "希望"
+        }
+      ]
+    },
+    {
+      "word": "horse",
+      "phonetic": "hɔːs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "马"
+        }
+      ]
+    },
+    {
+      "word": "hospital",
+      "phonetic": "ˈhɒspɪtəl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "医院"
+        }
+      ]
+    },
+    {
+      "word": "hot",
+      "phonetic": "hɒt",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "热的；辣的"
+        }
+      ]
+    },
+    {
+      "word": "hotel",
+      "phonetic": "həʊˈtel",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "旅馆；酒店"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "phonetic": "ˈaʊə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "小时"
+        }
+      ]
+    },
+    {
+      "word": "house",
+      "phonetic": "haʊs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "房屋；住宅"
+        }
+      ]
+    },
+    {
+      "word": "how",
+      "phonetic": "haʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "怎样；多么（询问方式或程度）"
+        }
+      ]
+    },
+    {
+      "word": "however",
+      "phonetic": "haʊˈevə",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "然而；不过"
+        }
+      ]
+    },
+    {
+      "word": "hundred",
+      "phonetic": "ˈhʌndrəd",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "一百"
+        }
+      ]
+    },
+    {
+      "word": "hungry",
+      "phonetic": "ˈhʌŋɡri",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "饥饿的"
+        }
+      ]
+    },
+    {
+      "word": "husband",
+      "phonetic": "ˈhʌzbənd",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "丈夫"
+        }
+      ]
+    },
+    {
+      "word": "I",
+      "phonetic": "aɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "我（主语；书写时始终大写）"
+        }
+      ]
+    },
+    {
+      "word": "ice",
+      "phonetic": "aɪs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "冰"
+        }
+      ]
+    },
+    {
+      "word": "ice cream",
+      "phonetic": "ˌaɪs ˈkriːm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "冰淇淋"
+        }
+      ]
+    },
+    {
+      "word": "idea",
+      "phonetic": "aɪˈdɪə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "想法；主意"
+        }
+      ]
+    },
+    {
+      "word": "if",
+      "phonetic": "ɪf",
+      "meanings": [
+        {
+          "partOfSpeech": "conjunction",
+          "chineseMeaning": "如果"
+        }
+      ]
+    },
+    {
+      "word": "imagine",
+      "phonetic": "ɪˈmædʒɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "想象"
+        }
+      ]
+    },
+    {
+      "word": "important",
+      "phonetic": "ɪmˈpɔːtənt",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "重要的"
+        }
+      ]
+    },
+    {
+      "word": "improve",
+      "phonetic": "ɪmˈpruːv",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "改善；提高"
+        }
+      ]
+    },
+    {
+      "word": "in",
+      "phonetic": "ɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "在里面；进入"
+        },
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "在……里；在（月份、年份等）"
+        }
+      ]
+    },
+    {
+      "word": "include",
+      "phonetic": "ɪnˈkluːd",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "包括"
+        }
+      ]
+    },
+    {
+      "word": "information",
+      "phonetic": "ˌɪnfəˈmeɪʃən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "信息；资料（不可数）"
+        }
+      ]
+    },
+    {
+      "word": "interest",
+      "phonetic": "ˈɪntrəst",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "兴趣；感兴趣的事"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "使感兴趣"
+        }
+      ]
+    },
+    {
+      "word": "interested",
+      "phonetic": "ˈɪntrəstɪd",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "感兴趣的"
+        }
+      ]
+    },
+    {
+      "word": "interesting",
+      "phonetic": "ˈɪntrəstɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "有趣的；令人感兴趣的"
+        }
+      ]
+    },
+    {
+      "word": "internet",
+      "phonetic": "ˈɪntənet",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "互联网"
+        }
+      ]
+    },
+    {
+      "word": "interview",
+      "phonetic": "ˈɪntəvjuː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "面试；采访"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "面试；采访"
+        }
+      ]
+    },
+    {
+      "word": "into",
+      "phonetic": "ˈɪntuː; ˈɪntə",
+      "meanings": [
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "到……里面；进入"
+        }
+      ]
+    },
+    {
+      "word": "introduce",
+      "phonetic": "ˌɪntrəˈdjuːs",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "介绍"
+        }
+      ]
+    },
+    {
+      "word": "island",
+      "phonetic": "ˈaɪlənd",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "岛屿"
+        }
+      ]
+    },
+    {
+      "word": "it",
+      "phonetic": "ɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "它；用于谈论天气、时间等"
+        }
+      ]
+    },
+    {
+      "word": "its",
+      "phonetic": "ɪts",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "它的（后接名词）"
+        }
+      ]
+    },
+    {
+      "word": "jacket",
+      "phonetic": "ˈdʒækɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "夹克；短外套"
+        }
+      ]
+    },
+    {
+      "word": "January",
+      "phonetic": "ˈdʒænjuəri",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "一月"
+        }
+      ]
+    },
+    {
+      "word": "jeans",
+      "phonetic": "dʒiːnz",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "牛仔裤"
+        }
+      ]
+    },
+    {
+      "word": "job",
+      "phonetic": "dʒɒb",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "工作；职位"
+        }
+      ]
+    },
+    {
+      "word": "join",
+      "phonetic": "dʒɔɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "加入；参加；连接"
+        }
+      ]
+    },
+    {
+      "word": "journey",
+      "phonetic": "ˈdʒɜːni",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "旅程"
+        }
+      ]
+    },
+    {
+      "word": "juice",
+      "phonetic": "dʒuːs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "果汁"
+        }
+      ]
+    },
+    {
+      "word": "July",
+      "phonetic": "dʒʊˈlaɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "七月"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "phonetic": "dʒuːn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "六月"
+        }
+      ]
+    },
+    {
+      "word": "just",
+      "phonetic": "dʒʌst",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "只是；刚刚；正好"
+        }
+      ]
+    },
+    {
+      "word": "keep",
+      "phonetic": "kiːp",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "保留；保持"
+        }
+      ]
+    },
+    {
+      "word": "key",
+      "phonetic": "kiː",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "关键的；重要的"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "钥匙；键"
+        }
+      ]
+    },
+    {
+      "word": "kilometre",
+      "phonetic": "ˈkɪləmiːtə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "千米；公里"
+        }
+      ]
+    },
+    {
+      "word": "kind",
+      "phonetic": "kaɪnd",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "种类"
+        }
+      ]
+    },
+    {
+      "word": "kitchen",
+      "phonetic": "ˈkɪtʃɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "厨房"
+        }
+      ]
+    },
+    {
+      "word": "know",
+      "phonetic": "nəʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "知道；认识"
+        }
+      ]
+    },
+    {
+      "word": "land",
+      "phonetic": "lænd",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "陆地；土地"
+        }
+      ]
+    },
+    {
+      "word": "language",
+      "phonetic": "ˈlæŋɡwɪdʒ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "语言"
+        }
+      ]
+    },
+    {
+      "word": "large",
+      "phonetic": "lɑːdʒ",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "大的"
+        }
+      ]
+    },
+    {
+      "word": "last",
+      "phonetic": "lɑːst",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "最后的；上一个的"
+        }
+      ]
+    },
+    {
+      "word": "late",
+      "phonetic": "leɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "迟到的；晚的"
+        },
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "迟；晚"
+        }
+      ]
+    },
+    {
+      "word": "later",
+      "phonetic": "ˈleɪtə",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "后来；稍后"
+        }
+      ]
+    },
+    {
+      "word": "laugh",
+      "phonetic": "lɑːf",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "笑；笑声"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "笑"
+        }
+      ]
+    },
+    {
+      "word": "learn",
+      "phonetic": "lɜːn",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "学习；学会"
+        }
+      ]
+    },
+    {
+      "word": "leave",
+      "phonetic": "liːv",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "离开；留下"
+        }
+      ]
+    },
+    {
+      "word": "left",
+      "phonetic": "left",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "左边的"
+        },
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "向左；在左边"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "左边"
+        }
+      ]
+    },
+    {
+      "word": "leg",
+      "phonetic": "leɡ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "腿"
+        }
+      ]
+    },
+    {
+      "word": "lesson",
+      "phonetic": "ˈlesən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "一节课；课程"
+        }
+      ]
+    },
+    {
+      "word": "let",
+      "phonetic": "let",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "让；允许"
+        }
+      ]
+    },
+    {
+      "word": "letter",
+      "phonetic": "ˈletə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "信；字母"
+        }
+      ]
+    },
+    {
+      "word": "library",
+      "phonetic": "ˈlaɪbrəri",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "图书馆"
+        }
+      ]
+    },
+    {
+      "word": "lie",
+      "phonetic": "laɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "躺；平放"
+        }
+      ]
+    },
+    {
+      "word": "life",
+      "phonetic": "laɪf",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "生命；生活"
+        }
+      ]
+    },
+    {
+      "word": "light",
+      "phonetic": "laɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "轻的；浅色的"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "光；灯"
+        }
+      ]
+    },
+    {
+      "word": "like",
+      "phonetic": "laɪk",
+      "meanings": [
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "像；与……相似"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "喜欢"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "phonetic": "laɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "线；一行；队伍"
+        }
+      ]
+    },
+    {
+      "word": "lion",
+      "phonetic": "ˈlaɪən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "狮子"
+        }
+      ]
+    },
+    {
+      "word": "list",
+      "phonetic": "lɪst",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "清单；列表"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "列出"
+        }
+      ]
+    },
+    {
+      "word": "listen",
+      "phonetic": "ˈlɪsən",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "听；倾听（常用 listen to）"
+        }
+      ]
+    },
+    {
+      "word": "little",
+      "phonetic": "ˈlɪtəl",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "小的"
+        },
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "很少的（接不可数名词）；a little 表示一点"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "很少的量；a little 表示一点"
+        }
+      ]
+    },
+    {
+      "word": "live",
+      "phonetic": "lɪv",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "居住；生活"
+        }
+      ]
+    },
+    {
+      "word": "local",
+      "phonetic": "ˈləʊkəl",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "当地的"
+        }
+      ]
+    },
+    {
+      "word": "long",
+      "phonetic": "lɒŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "长的；时间长的"
+        },
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "长时间地"
+        }
+      ]
+    },
+    {
+      "word": "look",
+      "phonetic": "lʊk",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "看；看起来"
+        }
+      ]
+    },
+    {
+      "word": "lose",
+      "phonetic": "luːz",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "丢失；输掉"
+        }
+      ]
+    },
+    {
+      "word": "lot",
+      "phonetic": "lɒt",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "很；非常（a lot）"
+        },
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "许多的（a lot of / lots of）"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "许多（a lot / lots）"
+        }
+      ]
+    },
+    {
+      "word": "love",
+      "phonetic": "lʌv",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "爱；喜爱"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "爱；非常喜欢"
+        }
+      ]
+    },
+    {
+      "word": "lunch",
+      "phonetic": "lʌntʃ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "午餐"
+        }
+      ]
+    },
+    {
+      "word": "machine",
+      "phonetic": "məˈʃiːn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "机器"
+        }
+      ]
+    },
+    {
+      "word": "magazine",
+      "phonetic": "ˌmæɡəˈziːn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "杂志"
+        }
+      ]
+    },
+    {
+      "word": "main",
+      "phonetic": "meɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "主要的"
+        }
+      ]
+    },
+    {
+      "word": "make",
+      "phonetic": "meɪk",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "制作；使；做出"
+        }
+      ]
+    },
+    {
+      "word": "man",
+      "phonetic": "mæn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "成年男子；男人"
+        }
+      ]
+    },
+    {
+      "word": "many",
+      "phonetic": "ˈmeni",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "许多的（接可数名词复数）"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "许多人或事物"
+        }
+      ]
+    },
+    {
+      "word": "map",
+      "phonetic": "mæp",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "地图"
+        }
+      ]
+    },
+    {
+      "word": "March",
+      "phonetic": "mɑːtʃ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "三月"
+        }
+      ]
+    },
+    {
+      "word": "market",
+      "phonetic": "ˈmɑːkɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "市场；集市"
+        }
+      ]
+    },
+    {
+      "word": "married",
+      "phonetic": "ˈmærid",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "已婚的"
+        }
+      ]
+    },
+    {
+      "word": "match",
+      "phonetic": "mætʃ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "比赛"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "相配；配对"
+        }
+      ]
+    },
+    {
+      "word": "May",
+      "phonetic": "meɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "五月"
+        }
+      ]
+    },
+    {
+      "word": "maybe",
+      "phonetic": "ˈmeɪbi",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "也许；可能"
+        }
+      ]
+    },
+    {
+      "word": "me",
+      "phonetic": "miː",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "我（宾语）"
+        }
+      ]
+    },
+    {
+      "word": "meal",
+      "phonetic": "miːl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "一餐；一顿饭"
+        }
+      ]
+    },
+    {
+      "word": "mean",
+      "phonetic": "miːn",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "意思是；意指"
+        }
+      ]
+    },
+    {
+      "word": "meaning",
+      "phonetic": "ˈmiːnɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "意思；含义"
+        }
+      ]
+    },
+    {
+      "word": "meat",
+      "phonetic": "miːt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "肉"
+        }
+      ]
+    },
+    {
+      "word": "meet",
+      "phonetic": "miːt",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "遇见；见面；认识"
+        }
+      ]
+    },
+    {
+      "word": "meeting",
+      "phonetic": "ˈmiːtɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "会议；会面"
+        }
+      ]
+    },
+    {
+      "word": "member",
+      "phonetic": "ˈmembə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "成员；会员"
+        }
+      ]
+    },
+    {
+      "word": "menu",
+      "phonetic": "ˈmenjuː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "菜单"
+        }
+      ]
+    },
+    {
+      "word": "message",
+      "phonetic": "ˈmesɪdʒ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "消息；口信"
+        }
+      ]
+    },
+    {
+      "word": "metre",
+      "phonetic": "ˈmiːtə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "米（长度单位）"
+        }
+      ]
+    },
+    {
+      "word": "midnight",
+      "phonetic": "ˈmɪdnaɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "午夜；半夜十二点"
+        }
+      ]
+    },
+    {
+      "word": "mile",
+      "phonetic": "maɪl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "英里"
+        }
+      ]
+    },
+    {
+      "word": "milk",
+      "phonetic": "mɪlk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "牛奶"
+        }
+      ]
+    },
+    {
+      "word": "million",
+      "phonetic": "ˈmɪljən",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "一百万"
+        }
+      ]
+    },
+    {
+      "word": "minute",
+      "phonetic": "ˈmɪnɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "分钟；片刻"
+        }
+      ]
+    },
+    {
+      "word": "miss",
+      "phonetic": "mɪs",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "错过；想念"
+        }
+      ]
+    },
+    {
+      "word": "mistake",
+      "phonetic": "mɪˈsteɪk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "错误"
+        }
+      ]
+    },
+    {
+      "word": "model",
+      "phonetic": "ˈmɒdəl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "模型；模特"
+        }
+      ]
+    },
+    {
+      "word": "modern",
+      "phonetic": "ˈmɒdən",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "现代的"
+        }
+      ]
+    },
+    {
+      "word": "moment",
+      "phonetic": "ˈməʊmənt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "片刻；时刻"
+        }
+      ]
+    },
+    {
+      "word": "Monday",
+      "phonetic": "ˈmʌndeɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "星期一"
+        }
+      ]
+    },
+    {
+      "word": "money",
+      "phonetic": "ˈmʌni",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "钱（不可数）"
+        }
+      ]
+    },
+    {
+      "word": "month",
+      "phonetic": "mʌnθ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "月份；一个月"
+        }
+      ]
+    },
+    {
+      "word": "more",
+      "phonetic": "mɔː",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "更；更多地"
+        },
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "更多的"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "更多的人或事物"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "phonetic": "ˈmɔːnɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "早晨；上午"
+        }
+      ]
+    },
+    {
+      "word": "most",
+      "phonetic": "məʊst",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "最；最多地"
+        },
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "大多数的；最多的"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "大多数；最多"
+        }
+      ]
+    },
+    {
+      "word": "mother",
+      "phonetic": "ˈmʌðə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "母亲"
+        }
+      ]
+    },
+    {
+      "word": "mountain",
+      "phonetic": "ˈmaʊntɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "山；高山"
+        }
+      ]
+    },
+    {
+      "word": "mouse",
+      "phonetic": "maʊs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "老鼠；鼠标"
+        }
+      ]
+    },
+    {
+      "word": "mouth",
+      "phonetic": "maʊθ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "嘴"
+        }
+      ]
+    },
+    {
+      "word": "move",
+      "phonetic": "muːv",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "移动；搬家"
+        }
+      ]
+    },
+    {
+      "word": "movie",
+      "phonetic": "ˈmuːvi",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "电影"
+        }
+      ]
+    },
+    {
+      "word": "much",
+      "phonetic": "mʌtʃ",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "很；非常；多"
+        },
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "许多的（接不可数名词）"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "大量；许多"
+        }
+      ]
+    },
+    {
+      "word": "mum",
+      "phonetic": "mʌm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "妈妈（英式口语）"
+        }
+      ]
+    },
+    {
+      "word": "museum",
+      "phonetic": "mjuˈziːəm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "博物馆"
+        }
+      ]
+    },
+    {
+      "word": "music",
+      "phonetic": "ˈmjuːzɪk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "音乐"
+        }
+      ]
+    },
+    {
+      "word": "must",
+      "phonetic": "mʌst; məst",
+      "meanings": [
+        {
+          "partOfSpeech": "modal verb",
+          "chineseMeaning": "必须；一定"
+        }
+      ]
+    },
+    {
+      "word": "my",
+      "phonetic": "maɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "我的（后接名词）"
+        }
+      ]
+    },
+    {
+      "word": "name",
+      "phonetic": "neɪm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "名字；名称"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "给……取名；说出名称"
+        }
+      ]
+    },
+    {
+      "word": "natural",
+      "phonetic": "ˈnætʃərəl",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "自然的；天然的"
+        }
+      ]
+    },
+    {
+      "word": "near",
+      "phonetic": "nɪə",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "近的"
+        },
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "在附近；靠近"
+        },
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "在……附近"
+        }
+      ]
+    },
+    {
+      "word": "need",
+      "phonetic": "niːd",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "需要"
+        }
+      ]
+    },
+    {
+      "word": "negative",
+      "phonetic": "ˈneɡətɪv",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "否定的；负面的"
+        }
+      ]
+    },
+    {
+      "word": "neighbour",
+      "phonetic": "ˈneɪbə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "邻居"
+        }
+      ]
+    },
+    {
+      "word": "never",
+      "phonetic": "ˈnevə",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "从不；从未"
+        }
+      ]
+    },
+    {
+      "word": "new",
+      "phonetic": "njuː",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "新的"
+        }
+      ]
+    },
+    {
+      "word": "news",
+      "phonetic": "njuːz",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "新闻；消息（不可数）"
+        }
+      ]
+    },
+    {
+      "word": "newspaper",
+      "phonetic": "ˈnjuːzpeɪpə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "报纸"
+        }
+      ]
+    },
+    {
+      "word": "next",
+      "phonetic": "nekst",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "下一个的；接下来的"
+        },
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "接下来；随后"
+        }
+      ]
+    },
+    {
+      "word": "next to",
+      "phonetic": "ˈnekst tə",
+      "meanings": [
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "紧挨着；在……旁边"
+        }
+      ]
+    },
+    {
+      "word": "nice",
+      "phonetic": "naɪs",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "好的；友善的；令人愉快的"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "phonetic": "naɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "夜晚"
+        }
+      ]
+    },
+    {
+      "word": "nine",
+      "phonetic": "naɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "九"
+        }
+      ]
+    },
+    {
+      "word": "nineteen",
+      "phonetic": "ˌnaɪnˈtiːn",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "十九"
+        }
+      ]
+    },
+    {
+      "word": "ninety",
+      "phonetic": "ˈnaɪnti",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "九十"
+        }
+      ]
+    },
+    {
+      "word": "no",
+      "phonetic": "nəʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "没有任何的（后接名词）"
+        },
+        {
+          "partOfSpeech": "exclamation",
+          "chineseMeaning": "不；不是（否定回答）"
+        }
+      ]
+    },
+    {
+      "word": "no one",
+      "phonetic": "ˈnəʊ wʌn",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "没有人"
+        }
+      ]
+    },
+    {
+      "word": "nobody",
+      "phonetic": "ˈnəʊbədi",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "没有人"
+        }
+      ]
+    },
+    {
+      "word": "north",
+      "phonetic": "nɔːθ",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "北方的"
+        },
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "向北；在北方"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "北方；北部"
+        }
+      ]
+    },
+    {
+      "word": "nose",
+      "phonetic": "nəʊz",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "鼻子"
+        }
+      ]
+    },
+    {
+      "word": "not",
+      "phonetic": "nɒt",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "不；没有（构成否定）"
+        }
+      ]
+    },
+    {
+      "word": "note",
+      "phonetic": "nəʊt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "笔记；便条"
+        }
+      ]
+    },
+    {
+      "word": "nothing",
+      "phonetic": "ˈnʌθɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "没有什么；没有东西"
+        }
+      ]
+    },
+    {
+      "word": "November",
+      "phonetic": "nəʊˈvembə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "十一月"
+        }
+      ]
+    },
+    {
+      "word": "now",
+      "phonetic": "naʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "现在"
+        }
+      ]
+    },
+    {
+      "word": "number",
+      "phonetic": "ˈnʌmbə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "数字；号码；数量"
+        }
+      ]
+    },
+    {
+      "word": "nurse",
+      "phonetic": "nɜːs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "护士"
+        }
+      ]
+    },
+    {
+      "word": "o'clock",
+      "phonetic": "əˈklɒk",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "……点钟（用于整点）"
+        }
+      ]
+    },
+    {
+      "word": "object",
+      "phonetic": "ˈɒbdʒɪkt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "物体；东西"
+        }
+      ]
+    },
+    {
+      "word": "October",
+      "phonetic": "ɒkˈtəʊbə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "十月"
+        }
+      ]
+    },
+    {
+      "word": "of",
+      "phonetic": "ɒv; əv",
+      "meanings": [
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "……的；属于；……中的"
+        }
+      ]
+    },
+    {
+      "word": "off",
+      "phonetic": "ɒf",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "离开；关掉"
+        },
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "离开……；从……移开"
+        }
+      ]
+    },
+    {
+      "word": "office",
+      "phonetic": "ˈɒfɪs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "办公室"
+        }
+      ]
+    },
+    {
+      "word": "often",
+      "phonetic": "ˈɒfən; ˈɒftən",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "经常"
+        }
+      ]
+    },
+    {
+      "word": "oh",
+      "phonetic": "əʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "exclamation",
+          "chineseMeaning": "哦；啊"
+        }
+      ]
+    },
+    {
+      "word": "OK",
+      "phonetic": "ˌəʊˈkeɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "可以的；还好的"
+        },
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "可以；顺利地"
+        },
+        {
+          "partOfSpeech": "exclamation",
+          "chineseMeaning": "好的；行"
+        }
+      ]
+    },
+    {
+      "word": "old",
+      "phonetic": "əʊld",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "老的；旧的；……岁的"
+        }
+      ]
+    },
+    {
+      "word": "on",
+      "phonetic": "ɒn",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "开着；继续"
+        },
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "在……上；在（某天）"
+        }
+      ]
+    },
+    {
+      "word": "once",
+      "phonetic": "wʌns",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "一次；曾经"
+        }
+      ]
+    },
+    {
+      "word": "one",
+      "phonetic": "wʌn",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "一个的；某一个的"
+        },
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "一"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "一个人或事物（代替已提到的名词）"
+        }
+      ]
+    },
+    {
+      "word": "onion",
+      "phonetic": "ˈʌnjən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "洋葱"
+        }
+      ]
+    },
+    {
+      "word": "online",
+      "phonetic": "ˌɒnˈlaɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "在线的；网上的"
+        },
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "在线；在网上"
+        }
+      ]
+    },
+    {
+      "word": "only",
+      "phonetic": "ˈəʊnli",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "唯一的"
+        },
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "仅仅；只"
+        }
+      ]
+    },
+    {
+      "word": "open",
+      "phonetic": "ˈəʊpən",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "开着的；营业的"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "打开；开门营业"
+        }
+      ]
+    },
+    {
+      "word": "opinion",
+      "phonetic": "əˈpɪnjən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "意见；看法"
+        }
+      ]
+    },
+    {
+      "word": "opposite",
+      "phonetic": "ˈɒpəzɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "相反的；对面的"
+        },
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "在对面"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "相反的人或事物"
+        },
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "在……对面"
+        }
+      ]
+    },
+    {
+      "word": "or",
+      "phonetic": "ɔː; ə",
+      "meanings": [
+        {
+          "partOfSpeech": "conjunction",
+          "chineseMeaning": "或者；还是"
+        }
+      ]
+    },
+    {
+      "word": "orange",
+      "phonetic": "ˈɒrɪndʒ",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "橙色的"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "橙子；橙色"
+        }
+      ]
+    },
+    {
+      "word": "order",
+      "phonetic": "ˈɔːdə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "顺序；点的餐；订单"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "点餐；订购"
+        }
+      ]
+    },
+    {
+      "word": "other",
+      "phonetic": "ˈʌðə",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "别的；其他的"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "另一个；其他人或事物（复数 others）"
+        }
+      ]
+    },
+    {
+      "word": "our",
+      "phonetic": "aʊə; ɑː",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "我们的（后接名词）"
+        }
+      ]
+    },
+    {
+      "word": "out",
+      "phonetic": "aʊt",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "在外；出去"
+        },
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "从……里面出来（常用 out of）"
+        }
+      ]
+    },
+    {
+      "word": "outside",
+      "phonetic": "ˌaʊtˈsaɪd",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "在外面；向外"
+        }
+      ]
+    },
+    {
+      "word": "over",
+      "phonetic": "ˈəʊvə",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "越过；结束"
+        },
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "在……上方；超过"
+        }
+      ]
+    },
+    {
+      "word": "own",
+      "phonetic": "əʊn",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "自己的"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "自己的东西"
+        }
+      ]
+    },
+    {
+      "word": "page",
+      "phonetic": "peɪdʒ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "页；页面"
+        }
+      ]
+    },
+    {
+      "word": "paint",
+      "phonetic": "peɪnt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "油漆；颜料"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "用颜料画；涂漆"
+        }
+      ]
+    },
+    {
+      "word": "painting",
+      "phonetic": "ˈpeɪntɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "绘画；画作"
+        }
+      ]
+    },
+    {
+      "word": "pair",
+      "phonetic": "peə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "一双；一对"
+        }
+      ]
+    },
+    {
+      "word": "paper",
+      "phonetic": "ˈpeɪpə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "纸；报纸"
+        }
+      ]
+    },
+    {
+      "word": "paragraph",
+      "phonetic": "ˈpærəɡrɑːf",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "段落"
+        }
+      ]
+    },
+    {
+      "word": "parent",
+      "phonetic": "ˈpeərənt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "父亲或母亲"
+        }
+      ]
+    },
+    {
+      "word": "park",
+      "phonetic": "pɑːk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "公园"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "停车"
+        }
+      ]
+    },
+    {
+      "word": "part",
+      "phonetic": "pɑːt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "部分"
+        }
+      ]
+    },
+    {
+      "word": "partner",
+      "phonetic": "ˈpɑːtnə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "搭档；伴侣"
+        }
+      ]
+    },
+    {
+      "word": "party",
+      "phonetic": "ˈpɑːti",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "聚会；派对"
+        }
+      ]
+    },
+    {
+      "word": "passport",
+      "phonetic": "ˈpɑːspɔːt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "护照"
+        }
+      ]
+    },
+    {
+      "word": "past",
+      "phonetic": "pɑːst",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "过去的"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "过去"
+        },
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "经过；晚于（某个时间）"
+        }
+      ]
+    },
+    {
+      "word": "pay",
+      "phonetic": "peɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "支付；付款"
+        }
+      ]
+    },
+    {
+      "word": "pen",
+      "phonetic": "pen",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "钢笔；笔"
+        }
+      ]
+    },
+    {
+      "word": "pencil",
+      "phonetic": "ˈpensəl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "铅笔"
+        }
+      ]
+    },
+    {
+      "word": "people",
+      "phonetic": "ˈpiːpəl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "人；人们"
+        }
+      ]
+    },
+    {
+      "word": "pepper",
+      "phonetic": "ˈpepə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "胡椒；甜椒"
+        }
+      ]
+    },
+    {
+      "word": "perfect",
+      "phonetic": "ˈpɜːfɪkt",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "完美的"
+        }
+      ]
+    },
+    {
+      "word": "period",
+      "phonetic": "ˈpɪəriəd",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "一段时间；时期"
+        }
+      ]
+    },
+    {
+      "word": "person",
+      "phonetic": "ˈpɜːsən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "人；一个人"
+        }
+      ]
+    },
+    {
+      "word": "personal",
+      "phonetic": "ˈpɜːsənəl",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "个人的；私人的"
+        }
+      ]
+    },
+    {
+      "word": "phone",
+      "phonetic": "fəʊn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "电话；手机"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "给……打电话"
+        }
+      ]
+    },
+    {
+      "word": "photo",
+      "phonetic": "ˈfəʊtəʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "照片"
+        }
+      ]
+    },
+    {
+      "word": "photograph",
+      "phonetic": "ˈfəʊtəɡrɑːf",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "照片"
+        }
+      ]
+    },
+    {
+      "word": "phrase",
+      "phonetic": "freɪz",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "短语；词组"
+        }
+      ]
+    },
+    {
+      "word": "piano",
+      "phonetic": "piˈænəʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "钢琴"
+        }
+      ]
+    },
+    {
+      "word": "picture",
+      "phonetic": "ˈpɪktʃə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "图片；画；照片"
+        }
+      ]
+    },
+    {
+      "word": "piece",
+      "phonetic": "piːs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "一片；一块；一件"
+        }
+      ]
+    },
+    {
+      "word": "pig",
+      "phonetic": "pɪɡ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "猪"
+        }
+      ]
+    },
+    {
+      "word": "pink",
+      "phonetic": "pɪŋk",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "粉红色的"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "粉红色"
+        }
+      ]
+    },
+    {
+      "word": "place",
+      "phonetic": "pleɪs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "地方；地点"
+        }
+      ]
+    },
+    {
+      "word": "plan",
+      "phonetic": "plæn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "计划"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "计划；打算"
+        }
+      ]
+    },
+    {
+      "word": "plane",
+      "phonetic": "pleɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "飞机"
+        }
+      ]
+    },
+    {
+      "word": "plant",
+      "phonetic": "plɑːnt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "植物"
+        }
+      ]
+    },
+    {
+      "word": "play",
+      "phonetic": "pleɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "戏剧；剧本"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "玩；参加（运动）；演奏"
+        }
+      ]
+    },
+    {
+      "word": "player",
+      "phonetic": "ˈpleɪə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "运动员；玩家；演奏者"
+        }
+      ]
+    },
+    {
+      "word": "please",
+      "phonetic": "pliːz",
+      "meanings": [
+        {
+          "partOfSpeech": "exclamation",
+          "chineseMeaning": "请（用于礼貌请求）"
+        }
+      ]
+    },
+    {
+      "word": "point",
+      "phonetic": "pɔɪnt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "点；要点；分数"
+        }
+      ]
+    },
+    {
+      "word": "police",
+      "phonetic": "pəˈliːs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "警察（集体称呼）"
+        }
+      ]
+    },
+    {
+      "word": "policeman",
+      "phonetic": "pəˈliːsmən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "男警察"
+        }
+      ]
+    },
+    {
+      "word": "pool",
+      "phonetic": "puːl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "游泳池；水池"
+        }
+      ]
+    },
+    {
+      "word": "poor",
+      "phonetic": "pɔː",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "贫穷的；可怜的；差的"
+        }
+      ]
+    },
+    {
+      "word": "popular",
+      "phonetic": "ˈpɒpjələ",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "受欢迎的；流行的"
+        }
+      ]
+    },
+    {
+      "word": "positive",
+      "phonetic": "ˈpɒzətɪv",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "积极的；肯定的"
+        }
+      ]
+    },
+    {
+      "word": "possible",
+      "phonetic": "ˈpɒsəbəl",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "可能的"
+        }
+      ]
+    },
+    {
+      "word": "post",
+      "phonetic": "pəʊst",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "邮件；邮政；帖子"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "邮寄；发布"
+        }
+      ]
+    },
+    {
+      "word": "potato",
+      "phonetic": "pəˈteɪtəʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "土豆"
+        }
+      ]
+    },
+    {
+      "word": "pound",
+      "phonetic": "paʊnd",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "英镑；磅（重量单位）"
+        }
+      ]
+    },
+    {
+      "word": "practice",
+      "phonetic": "ˈpræktɪs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "练习；训练"
+        }
+      ]
+    },
+    {
+      "word": "practise",
+      "phonetic": "ˈpræktɪs",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "练习（英式动词拼写）"
+        }
+      ]
+    },
+    {
+      "word": "prefer",
+      "phonetic": "prɪˈfɜː",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "更喜欢"
+        }
+      ]
+    },
+    {
+      "word": "prepare",
+      "phonetic": "prɪˈpeə",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "准备"
+        }
+      ]
+    },
+    {
+      "word": "present",
+      "phonetic": "ˈprezənt",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "在场的；现在的"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "礼物；现在"
+        }
+      ]
+    },
+    {
+      "word": "pretty",
+      "phonetic": "ˈprɪti",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "漂亮的"
+        },
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "相当；颇"
+        }
+      ]
+    },
+    {
+      "word": "price",
+      "phonetic": "praɪs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "价格"
+        }
+      ]
+    },
+    {
+      "word": "probably",
+      "phonetic": "ˈprɒbəbli",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "很可能；大概"
+        }
+      ]
+    },
+    {
+      "word": "problem",
+      "phonetic": "ˈprɒbləm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "问题；困难"
+        }
+      ]
+    },
+    {
+      "word": "product",
+      "phonetic": "ˈprɒdʌkt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "产品"
+        }
+      ]
+    },
+    {
+      "word": "programme",
+      "phonetic": "ˈprəʊɡræm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "节目；计划"
+        }
+      ]
+    },
+    {
+      "word": "project",
+      "phonetic": "ˈprɒdʒekt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "项目；课题"
+        }
+      ]
+    },
+    {
+      "word": "purple",
+      "phonetic": "ˈpɜːpəl",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "紫色的"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "紫色"
+        }
+      ]
+    },
+    {
+      "word": "put",
+      "phonetic": "pʊt",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "放；放置"
+        }
+      ]
+    },
+    {
+      "word": "quarter",
+      "phonetic": "ˈkwɔːtə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "四分之一；一刻钟"
+        }
+      ]
+    },
+    {
+      "word": "question",
+      "phonetic": "ˈkwestʃən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "问题；疑问"
+        }
+      ]
+    },
+    {
+      "word": "quick",
+      "phonetic": "kwɪk",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "快的；迅速的"
+        }
+      ]
+    },
+    {
+      "word": "quickly",
+      "phonetic": "ˈkwɪkli",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "迅速地"
+        }
+      ]
+    },
+    {
+      "word": "quiet",
+      "phonetic": "ˈkwaɪət",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "安静的"
+        }
+      ]
+    },
+    {
+      "word": "quite",
+      "phonetic": "kwaɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "相当；很"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "phonetic": "ˈreɪdiəʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "收音机；广播"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "phonetic": "reɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "雨"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "下雨"
+        }
+      ]
+    },
+    {
+      "word": "read",
+      "phonetic": "riːd",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "读；阅读（原形读 /riːd/）"
+        }
+      ]
+    },
+    {
+      "word": "reader",
+      "phonetic": "ˈriːdə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "读者"
+        }
+      ]
+    },
+    {
+      "word": "reading",
+      "phonetic": "ˈriːdɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "阅读"
+        }
+      ]
+    },
+    {
+      "word": "ready",
+      "phonetic": "ˈredi",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "准备好的"
+        }
+      ]
+    },
+    {
+      "word": "real",
+      "phonetic": "rɪəl",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "真的；真实的"
+        }
+      ]
+    },
+    {
+      "word": "really",
+      "phonetic": "ˈrɪəli",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "真正地；很；真的吗"
+        }
+      ]
+    },
+    {
+      "word": "reason",
+      "phonetic": "ˈriːzən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "原因；理由"
+        }
+      ]
+    },
+    {
+      "word": "red",
+      "phonetic": "red",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "红色的"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "红色"
+        }
+      ]
+    },
+    {
+      "word": "relax",
+      "phonetic": "rɪˈlæks",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "放松；休息"
+        }
+      ]
+    },
+    {
+      "word": "remember",
+      "phonetic": "rɪˈmembə",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "记得；想起"
+        }
+      ]
+    },
+    {
+      "word": "repeat",
+      "phonetic": "rɪˈpiːt",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "重复；再说一遍"
+        }
+      ]
+    },
+    {
+      "word": "report",
+      "phonetic": "rɪˈpɔːt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "报告；报道"
+        }
+      ]
+    },
+    {
+      "word": "restaurant",
+      "phonetic": "ˈrestrɒnt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "餐馆"
+        }
+      ]
+    },
+    {
+      "word": "result",
+      "phonetic": "rɪˈzʌlt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "结果；成绩"
+        }
+      ]
+    },
+    {
+      "word": "return",
+      "phonetic": "rɪˈtɜːn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "返回；往返票"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "回来；归还"
+        }
+      ]
+    },
+    {
+      "word": "rice",
+      "phonetic": "raɪs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "米；米饭"
+        }
+      ]
+    },
+    {
+      "word": "rich",
+      "phonetic": "rɪtʃ",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "富有的"
+        }
+      ]
+    },
+    {
+      "word": "ride",
+      "phonetic": "raɪd",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "骑；乘坐"
+        }
+      ]
+    },
+    {
+      "word": "right",
+      "phonetic": "raɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "正确的；右边的"
+        },
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "向右；正确地"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "右边"
+        }
+      ]
+    },
+    {
+      "word": "river",
+      "phonetic": "ˈrɪvə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "河流"
+        }
+      ]
+    },
+    {
+      "word": "road",
+      "phonetic": "rəʊd",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "道路；公路"
+        }
+      ]
+    },
+    {
+      "word": "room",
+      "phonetic": "ruːm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "房间；空间"
+        }
+      ]
+    },
+    {
+      "word": "routine",
+      "phonetic": "ruːˈtiːn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "日常安排；常规"
+        }
+      ]
+    },
+    {
+      "word": "rule",
+      "phonetic": "ruːl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "规则"
+        }
+      ]
+    },
+    {
+      "word": "run",
+      "phonetic": "rʌn",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "跑；奔跑"
+        }
+      ]
+    },
+    {
+      "word": "sad",
+      "phonetic": "sæd",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "伤心的；难过的"
+        }
+      ]
+    },
+    {
+      "word": "salad",
+      "phonetic": "ˈsæləd",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "沙拉"
+        }
+      ]
+    },
+    {
+      "word": "salt",
+      "phonetic": "sɔːlt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "盐"
+        }
+      ]
+    },
+    {
+      "word": "same",
+      "phonetic": "seɪm",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "相同的；同一个的"
+        },
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "同样地（常用 the same）"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "同样的人或事物（常用 the same）"
+        }
+      ]
+    },
+    {
+      "word": "sandwich",
+      "phonetic": "ˈsænwɪtʃ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "三明治"
+        }
+      ]
+    },
+    {
+      "word": "Saturday",
+      "phonetic": "ˈsætədeɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "星期六"
+        }
+      ]
+    },
+    {
+      "word": "say",
+      "phonetic": "seɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "说；说出"
+        }
+      ]
+    },
+    {
+      "word": "school",
+      "phonetic": "skuːl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "学校"
+        }
+      ]
+    },
+    {
+      "word": "science",
+      "phonetic": "ˈsaɪəns",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "科学"
+        }
+      ]
+    },
+    {
+      "word": "scientist",
+      "phonetic": "ˈsaɪəntɪst",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "科学家"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "phonetic": "siː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "海；海洋"
+        }
+      ]
+    },
+    {
+      "word": "second",
+      "phonetic": "ˈsekənd",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "第二个的"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "秒"
+        },
+        {
+          "partOfSpeech": "ordinal number",
+          "chineseMeaning": "第二"
+        }
+      ]
+    },
+    {
+      "word": "section",
+      "phonetic": "ˈsekʃən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "部分；章节"
+        }
+      ]
+    },
+    {
+      "word": "see",
+      "phonetic": "siː",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "看见；明白；见面"
+        }
+      ]
+    },
+    {
+      "word": "sell",
+      "phonetic": "sel",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "卖；出售"
+        }
+      ]
+    },
+    {
+      "word": "send",
+      "phonetic": "send",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "发送；寄"
+        }
+      ]
+    },
+    {
+      "word": "sentence",
+      "phonetic": "ˈsentəns",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "句子"
+        }
+      ]
+    },
+    {
+      "word": "September",
+      "phonetic": "sepˈtembə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "九月"
+        }
+      ]
+    },
+    {
+      "word": "seven",
+      "phonetic": "ˈsevən",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "七"
+        }
+      ]
+    },
+    {
+      "word": "seventeen",
+      "phonetic": "ˌsevənˈtiːn",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "十七"
+        }
+      ]
+    },
+    {
+      "word": "seventy",
+      "phonetic": "ˈsevənti",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "七十"
+        }
+      ]
+    },
+    {
+      "word": "share",
+      "phonetic": "ʃeə",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "分享；共用"
+        }
+      ]
+    },
+    {
+      "word": "she",
+      "phonetic": "ʃiː",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "她（主语）"
+        }
+      ]
+    },
+    {
+      "word": "sheep",
+      "phonetic": "ʃiːp",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "绵羊（单复数同形）"
+        }
+      ]
+    },
+    {
+      "word": "shirt",
+      "phonetic": "ʃɜːt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "衬衫"
+        }
+      ]
+    },
+    {
+      "word": "shoe",
+      "phonetic": "ʃuː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "鞋"
+        }
+      ]
+    },
+    {
+      "word": "shop",
+      "phonetic": "ʃɒp",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "商店"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "购物"
+        }
+      ]
+    },
+    {
+      "word": "shopping",
+      "phonetic": "ˈʃɒpɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "购物"
+        }
+      ]
+    },
+    {
+      "word": "short",
+      "phonetic": "ʃɔːt",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "短的；矮的"
+        }
+      ]
+    },
+    {
+      "word": "should",
+      "phonetic": "ʃʊd; ʃəd",
+      "meanings": [
+        {
+          "partOfSpeech": "modal verb",
+          "chineseMeaning": "应该（建议或责任）"
+        }
+      ]
+    },
+    {
+      "word": "show",
+      "phonetic": "ʃəʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "演出；节目"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "展示；给……看"
+        }
+      ]
+    },
+    {
+      "word": "shower",
+      "phonetic": "ˈʃaʊə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "淋浴；淋浴器"
+        }
+      ]
+    },
+    {
+      "word": "sick",
+      "phonetic": "sɪk",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "生病的；恶心的"
+        }
+      ]
+    },
+    {
+      "word": "similar",
+      "phonetic": "ˈsɪmɪlə",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "相似的"
+        }
+      ]
+    },
+    {
+      "word": "sing",
+      "phonetic": "sɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "唱歌"
+        }
+      ]
+    },
+    {
+      "word": "singer",
+      "phonetic": "ˈsɪŋə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "歌手"
+        }
+      ]
+    },
+    {
+      "word": "sister",
+      "phonetic": "ˈsɪstə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "姐妹"
+        }
+      ]
+    },
+    {
+      "word": "sit",
+      "phonetic": "sɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "坐"
+        }
+      ]
+    },
+    {
+      "word": "situation",
+      "phonetic": "ˌsɪtʃuˈeɪʃən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "情况；处境"
+        }
+      ]
+    },
+    {
+      "word": "six",
+      "phonetic": "sɪks",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "六"
+        }
+      ]
+    },
+    {
+      "word": "sixteen",
+      "phonetic": "ˌsɪksˈtiːn",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "十六"
+        }
+      ]
+    },
+    {
+      "word": "sixty",
+      "phonetic": "ˈsɪksti",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "六十"
+        }
+      ]
+    },
+    {
+      "word": "skill",
+      "phonetic": "skɪl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "技能；技巧"
+        }
+      ]
+    },
+    {
+      "word": "skirt",
+      "phonetic": "skɜːt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "裙子"
+        }
+      ]
+    },
+    {
+      "word": "sleep",
+      "phonetic": "sliːp",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "睡觉"
+        }
+      ]
+    },
+    {
+      "word": "slow",
+      "phonetic": "sləʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "慢的"
+        }
+      ]
+    },
+    {
+      "word": "small",
+      "phonetic": "smɔːl",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "小的"
+        }
+      ]
+    },
+    {
+      "word": "snake",
+      "phonetic": "sneɪk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "蛇"
+        }
+      ]
+    },
+    {
+      "word": "snow",
+      "phonetic": "snəʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "雪"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "下雪"
+        }
+      ]
+    },
+    {
+      "word": "so",
+      "phonetic": "səʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "如此；这么"
+        },
+        {
+          "partOfSpeech": "conjunction",
+          "chineseMeaning": "所以；因此"
+        }
+      ]
+    },
+    {
+      "word": "some",
+      "phonetic": "sʌm; səm",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "一些的；某个的"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "一些人或事物"
+        }
+      ]
+    },
+    {
+      "word": "somebody",
+      "phonetic": "ˈsʌmbədi",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "某人；有人"
+        }
+      ]
+    },
+    {
+      "word": "someone",
+      "phonetic": "ˈsʌmwʌn",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "某人；有人"
+        }
+      ]
+    },
+    {
+      "word": "something",
+      "phonetic": "ˈsʌmθɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "某事；某物"
+        }
+      ]
+    },
+    {
+      "word": "sometimes",
+      "phonetic": "ˈsʌmtaɪmz",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "有时"
+        }
+      ]
+    },
+    {
+      "word": "son",
+      "phonetic": "sʌn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "儿子"
+        }
+      ]
+    },
+    {
+      "word": "song",
+      "phonetic": "sɒŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "歌曲"
+        }
+      ]
+    },
+    {
+      "word": "soon",
+      "phonetic": "suːn",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "很快；不久"
+        }
+      ]
+    },
+    {
+      "word": "sorry",
+      "phonetic": "ˈsɒri",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "感到抱歉的；难过的"
+        },
+        {
+          "partOfSpeech": "exclamation",
+          "chineseMeaning": "对不起；不好意思"
+        }
+      ]
+    },
+    {
+      "word": "sound",
+      "phonetic": "saʊnd",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "声音"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "听起来"
+        }
+      ]
+    },
+    {
+      "word": "soup",
+      "phonetic": "suːp",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "汤"
+        }
+      ]
+    },
+    {
+      "word": "south",
+      "phonetic": "saʊθ",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "南方的"
+        },
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "向南；在南方"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "南方；南部"
+        }
+      ]
+    },
+    {
+      "word": "space",
+      "phonetic": "speɪs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "空间；空位；太空"
+        }
+      ]
+    },
+    {
+      "word": "speak",
+      "phonetic": "spiːk",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "说话；讲（某种语言）"
+        }
+      ]
+    },
+    {
+      "word": "special",
+      "phonetic": "ˈspeʃəl",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "特别的"
+        }
+      ]
+    },
+    {
+      "word": "spell",
+      "phonetic": "spel",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "拼写；拼读"
+        }
+      ]
+    },
+    {
+      "word": "spelling",
+      "phonetic": "ˈspelɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "拼写"
+        }
+      ]
+    },
+    {
+      "word": "spend",
+      "phonetic": "spend",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "花费（时间或钱）；度过"
+        }
+      ]
+    },
+    {
+      "word": "sport",
+      "phonetic": "spɔːt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "体育运动"
+        }
+      ]
+    },
+    {
+      "word": "spring",
+      "phonetic": "sprɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "春天"
+        }
+      ]
+    },
+    {
+      "word": "stand",
+      "phonetic": "stænd",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "站；站立"
+        }
+      ]
+    },
+    {
+      "word": "star",
+      "phonetic": "stɑː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "星星；明星"
+        }
+      ]
+    },
+    {
+      "word": "start",
+      "phonetic": "stɑːt",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "开始"
+        }
+      ]
+    },
+    {
+      "word": "statement",
+      "phonetic": "ˈsteɪtmənt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "陈述；说法"
+        }
+      ]
+    },
+    {
+      "word": "station",
+      "phonetic": "ˈsteɪʃən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "车站；站"
+        }
+      ]
+    },
+    {
+      "word": "stay",
+      "phonetic": "steɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "停留；待；住宿"
+        }
+      ]
+    },
+    {
+      "word": "still",
+      "phonetic": "stɪl",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "仍然；还"
+        }
+      ]
+    },
+    {
+      "word": "stop",
+      "phonetic": "stɒp",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "车站；停止"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "停止；停下"
+        }
+      ]
+    },
+    {
+      "word": "story",
+      "phonetic": "ˈstɔːri",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "故事"
+        }
+      ]
+    },
+    {
+      "word": "street",
+      "phonetic": "striːt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "街道"
+        }
+      ]
+    },
+    {
+      "word": "strong",
+      "phonetic": "strɒŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "强壮的；强烈的"
+        }
+      ]
+    },
+    {
+      "word": "student",
+      "phonetic": "ˈstjuːdənt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "学生"
+        }
+      ]
+    },
+    {
+      "word": "study",
+      "phonetic": "ˈstʌdi",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "学习；研究"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "学习；研究"
+        }
+      ]
+    },
+    {
+      "word": "style",
+      "phonetic": "staɪl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "风格；样式"
+        }
+      ]
+    },
+    {
+      "word": "subject",
+      "phonetic": "ˈsʌbdʒɪkt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "学科；主题"
+        }
+      ]
+    },
+    {
+      "word": "success",
+      "phonetic": "səkˈses",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "成功"
+        }
+      ]
+    },
+    {
+      "word": "sugar",
+      "phonetic": "ˈʃʊɡə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "糖"
+        }
+      ]
+    },
+    {
+      "word": "summer",
+      "phonetic": "ˈsʌmə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "夏天"
+        }
+      ]
+    },
+    {
+      "word": "sun",
+      "phonetic": "sʌn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "太阳；阳光"
+        }
+      ]
+    },
+    {
+      "word": "Sunday",
+      "phonetic": "ˈsʌndeɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "星期日"
+        }
+      ]
+    },
+    {
+      "word": "supermarket",
+      "phonetic": "ˈsuːpəmɑːkɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "超市"
+        }
+      ]
+    },
+    {
+      "word": "sure",
+      "phonetic": "ʃʊə; ʃɔː",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "确定的；有把握的"
+        }
+      ]
+    },
+    {
+      "word": "sweater",
+      "phonetic": "ˈswetə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "毛衣"
+        }
+      ]
+    },
+    {
+      "word": "swim",
+      "phonetic": "swɪm",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "游泳"
+        }
+      ]
+    },
+    {
+      "word": "swimming",
+      "phonetic": "ˈswɪmɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "游泳"
+        }
+      ]
+    },
+    {
+      "word": "T-shirt",
+      "phonetic": "ˈtiː ʃɜːt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "T恤衫"
+        }
+      ]
+    },
+    {
+      "word": "table",
+      "phonetic": "ˈteɪbəl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "桌子；表格"
+        }
+      ]
+    },
+    {
+      "word": "take",
+      "phonetic": "teɪk",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "拿；带走；乘坐；花费（时间）"
+        }
+      ]
+    },
+    {
+      "word": "talk",
+      "phonetic": "tɔːk",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "说话；交谈"
+        }
+      ]
+    },
+    {
+      "word": "tall",
+      "phonetic": "tɔːl",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "高的（人、树、建筑等）"
+        }
+      ]
+    },
+    {
+      "word": "taxi",
+      "phonetic": "ˈtæksi",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "出租车"
+        }
+      ]
+    },
+    {
+      "word": "tea",
+      "phonetic": "tiː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "茶"
+        }
+      ]
+    },
+    {
+      "word": "teach",
+      "phonetic": "tiːtʃ",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "教；教授"
+        }
+      ]
+    },
+    {
+      "word": "teacher",
+      "phonetic": "ˈtiːtʃə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "教师"
+        }
+      ]
+    },
+    {
+      "word": "team",
+      "phonetic": "tiːm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "队；团队"
+        }
+      ]
+    },
+    {
+      "word": "teenager",
+      "phonetic": "ˈtiːneɪdʒə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "青少年（13至19岁）"
+        }
+      ]
+    },
+    {
+      "word": "telephone",
+      "phonetic": "ˈtelɪfəʊn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "电话"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "给……打电话"
+        }
+      ]
+    },
+    {
+      "word": "television",
+      "phonetic": "ˈtelɪvɪʒən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "电视；电视机"
+        }
+      ]
+    },
+    {
+      "word": "tell",
+      "phonetic": "tel",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "告诉；讲述"
+        }
+      ]
+    },
+    {
+      "word": "ten",
+      "phonetic": "ten",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "十"
+        }
+      ]
+    },
+    {
+      "word": "tennis",
+      "phonetic": "ˈtenɪs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "网球"
+        }
+      ]
+    },
+    {
+      "word": "terrible",
+      "phonetic": "ˈterəbəl",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "糟糕的；可怕的"
+        }
+      ]
+    },
+    {
+      "word": "test",
+      "phonetic": "test",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "测验；测试"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "测验；测试"
+        }
+      ]
+    },
+    {
+      "word": "text",
+      "phonetic": "tekst",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "文字；课文；短信"
+        }
+      ]
+    },
+    {
+      "word": "than",
+      "phonetic": "ðæn; ðən",
+      "meanings": [
+        {
+          "partOfSpeech": "conjunction",
+          "chineseMeaning": "比（引出比较的句子）"
+        },
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "比（引出比较对象）"
+        }
+      ]
+    },
+    {
+      "word": "thank",
+      "phonetic": "θæŋk",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "感谢"
+        }
+      ]
+    },
+    {
+      "word": "thanks",
+      "phonetic": "θæŋks",
+      "meanings": [
+        {
+          "partOfSpeech": "exclamation",
+          "chineseMeaning": "谢谢"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "感谢；谢意"
+        }
+      ]
+    },
+    {
+      "word": "that",
+      "phonetic": "ðæt; ðət",
+      "meanings": [
+        {
+          "partOfSpeech": "conjunction",
+          "chineseMeaning": "引出陈述内容的从句，常不单独翻译"
+        },
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "那个的（后接名词）"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "那个（人或事物）"
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "phonetic": "ðə; ðiː",
+      "meanings": [
+        {
+          "partOfSpeech": "definite article",
+          "chineseMeaning": "这；那（表示双方知道的或特指的事物）"
+        }
+      ]
+    },
+    {
+      "word": "theatre",
+      "phonetic": "ˈθɪətə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "剧院；戏剧"
+        }
+      ]
+    },
+    {
+      "word": "their",
+      "phonetic": "ðeə",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "他们的；她们的；它们的（后接名词）"
+        }
+      ]
+    },
+    {
+      "word": "them",
+      "phonetic": "ðem; ðəm",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "他们；她们；它们（宾语）"
+        }
+      ]
+    },
+    {
+      "word": "then",
+      "phonetic": "ðen",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "然后；那时"
+        }
+      ]
+    },
+    {
+      "word": "there",
+      "phonetic": "ðeə",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "在那里；there is / are 表示“有”"
+        }
+      ]
+    },
+    {
+      "word": "they",
+      "phonetic": "ðeɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "他们；她们；它们（主语）"
+        }
+      ]
+    },
+    {
+      "word": "thing",
+      "phonetic": "θɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "东西；事情"
+        }
+      ]
+    },
+    {
+      "word": "think",
+      "phonetic": "θɪŋk",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "想；认为"
+        }
+      ]
+    },
+    {
+      "word": "third",
+      "phonetic": "θɜːd",
+      "meanings": [
+        {
+          "partOfSpeech": "ordinal number",
+          "chineseMeaning": "第三"
+        }
+      ]
+    },
+    {
+      "word": "thirsty",
+      "phonetic": "ˈθɜːsti",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "口渴的"
+        }
+      ]
+    },
+    {
+      "word": "thirteen",
+      "phonetic": "ˌθɜːˈtiːn",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "十三"
+        }
+      ]
+    },
+    {
+      "word": "thirty",
+      "phonetic": "ˈθɜːti",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "三十"
+        }
+      ]
+    },
+    {
+      "word": "this",
+      "phonetic": "ðɪs",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "这个的（后接名词）"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "这个（人或事物）"
+        }
+      ]
+    },
+    {
+      "word": "thousand",
+      "phonetic": "ˈθaʊzənd",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "一千"
+        }
+      ]
+    },
+    {
+      "word": "three",
+      "phonetic": "θriː",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "三"
+        }
+      ]
+    },
+    {
+      "word": "through",
+      "phonetic": "θruː",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "穿过；通过"
+        },
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "穿过……内部；通过"
+        }
+      ]
+    },
+    {
+      "word": "Thursday",
+      "phonetic": "ˈθɜːzdeɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "星期四"
+        }
+      ]
+    },
+    {
+      "word": "ticket",
+      "phonetic": "ˈtɪkɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "票；入场券"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "phonetic": "taɪm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "时间；次数"
+        }
+      ]
+    },
+    {
+      "word": "tired",
+      "phonetic": "ˈtaɪəd",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "疲倦的；累的"
+        }
+      ]
+    },
+    {
+      "word": "title",
+      "phonetic": "ˈtaɪtəl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "标题；名称"
+        }
+      ]
+    },
+    {
+      "word": "to",
+      "phonetic": "tuː; tə",
+      "meanings": [
+        {
+          "partOfSpeech": "infinitive marker",
+          "chineseMeaning": "放在动词原形前构成不定式（如 to go）"
+        },
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "到；向；给"
+        }
+      ]
+    },
+    {
+      "word": "today",
+      "phonetic": "təˈdeɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "在今天"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "今天"
+        }
+      ]
+    },
+    {
+      "word": "together",
+      "phonetic": "təˈɡeðə",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "一起"
+        }
+      ]
+    },
+    {
+      "word": "toilet",
+      "phonetic": "ˈtɔɪlət",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "厕所；马桶"
+        }
+      ]
+    },
+    {
+      "word": "tomato",
+      "phonetic": "təˈmɑːtəʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "西红柿"
+        }
+      ]
+    },
+    {
+      "word": "tomorrow",
+      "phonetic": "təˈmɒrəʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "在明天"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "明天"
+        }
+      ]
+    },
+    {
+      "word": "tonight",
+      "phonetic": "təˈnaɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "在今晚"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "今晚"
+        }
+      ]
+    },
+    {
+      "word": "too",
+      "phonetic": "tuː",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "也；太；过于"
+        }
+      ]
+    },
+    {
+      "word": "tooth",
+      "phonetic": "tuːθ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "牙齿"
+        }
+      ]
+    },
+    {
+      "word": "topic",
+      "phonetic": "ˈtɒpɪk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "话题；主题"
+        }
+      ]
+    },
+    {
+      "word": "tourist",
+      "phonetic": "ˈtʊərɪst",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "游客"
+        }
+      ]
+    },
+    {
+      "word": "town",
+      "phonetic": "taʊn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "城镇"
+        }
+      ]
+    },
+    {
+      "word": "traffic",
+      "phonetic": "ˈtræfɪk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "交通；路上的车辆"
+        }
+      ]
+    },
+    {
+      "word": "train",
+      "phonetic": "treɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "火车"
+        }
+      ]
+    },
+    {
+      "word": "travel",
+      "phonetic": "ˈtrævəl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "旅行"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "旅行"
+        }
+      ]
+    },
+    {
+      "word": "tree",
+      "phonetic": "triː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "树"
+        }
+      ]
+    },
+    {
+      "word": "trip",
+      "phonetic": "trɪp",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "旅行；短途出行"
+        }
+      ]
+    },
+    {
+      "word": "trousers",
+      "phonetic": "ˈtraʊzəz",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "裤子（复数）"
+        }
+      ]
+    },
+    {
+      "word": "true",
+      "phonetic": "truː",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "真实的；正确的"
+        }
+      ]
+    },
+    {
+      "word": "try",
+      "phonetic": "traɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "尝试；试图"
+        }
+      ]
+    },
+    {
+      "word": "Tuesday",
+      "phonetic": "ˈtjuːzdeɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "星期二"
+        }
+      ]
+    },
+    {
+      "word": "turn",
+      "phonetic": "tɜːn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "轮到的机会；转弯"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "转动；转弯；变得"
+        }
+      ]
+    },
+    {
+      "word": "TV",
+      "phonetic": "ˌtiː ˈviː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "电视；电视机"
+        }
+      ]
+    },
+    {
+      "word": "twelve",
+      "phonetic": "twelv",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "十二"
+        }
+      ]
+    },
+    {
+      "word": "twenty",
+      "phonetic": "ˈtwenti",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "二十"
+        }
+      ]
+    },
+    {
+      "word": "twice",
+      "phonetic": "twaɪs",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "两次；两倍"
+        }
+      ]
+    },
+    {
+      "word": "two",
+      "phonetic": "tuː",
+      "meanings": [
+        {
+          "partOfSpeech": "number",
+          "chineseMeaning": "二"
+        }
+      ]
+    },
+    {
+      "word": "type",
+      "phonetic": "taɪp",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "类型；种类"
+        }
+      ]
+    },
+    {
+      "word": "umbrella",
+      "phonetic": "ʌmˈbrelə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "伞；雨伞"
+        }
+      ]
+    },
+    {
+      "word": "uncle",
+      "phonetic": "ˈʌŋkəl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "叔叔；伯父；舅舅；姑父；姨父"
+        }
+      ]
+    },
+    {
+      "word": "under",
+      "phonetic": "ˈʌndə",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "在下面"
+        },
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "在……下面；少于"
+        }
+      ]
+    },
+    {
+      "word": "understand",
+      "phonetic": "ˌʌndəˈstænd",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "理解；听懂"
+        }
+      ]
+    },
+    {
+      "word": "university",
+      "phonetic": "ˌjuːnɪˈvɜːsəti",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "大学"
+        }
+      ]
+    },
+    {
+      "word": "until",
+      "phonetic": "ənˈtɪl",
+      "meanings": [
+        {
+          "partOfSpeech": "conjunction",
+          "chineseMeaning": "直到……为止（后接句子）"
+        },
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "直到……为止（后接时间等）"
+        }
+      ]
+    },
+    {
+      "word": "up",
+      "phonetic": "ʌp",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "向上；起来"
+        },
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "沿……向上"
+        }
+      ]
+    },
+    {
+      "word": "upstairs",
+      "phonetic": "ˌʌpˈsteəz",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "在楼上；到楼上"
+        }
+      ]
+    },
+    {
+      "word": "us",
+      "phonetic": "ʌs; əs",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "我们（宾语）"
+        }
+      ]
+    },
+    {
+      "word": "use",
+      "phonetic": "juːz",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "使用"
+        }
+      ]
+    },
+    {
+      "word": "useful",
+      "phonetic": "ˈjuːsfəl",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "有用的"
+        }
+      ]
+    },
+    {
+      "word": "usually",
+      "phonetic": "ˈjuːʒuəli",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "通常"
+        }
+      ]
+    },
+    {
+      "word": "vacation",
+      "phonetic": "vəˈkeɪʃən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "假期（美式用语）"
+        }
+      ]
+    },
+    {
+      "word": "vegetable",
+      "phonetic": "ˈvedʒtəbəl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "蔬菜"
+        }
+      ]
+    },
+    {
+      "word": "very",
+      "phonetic": "ˈveri",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "非常；很"
+        }
+      ]
+    },
+    {
+      "word": "video",
+      "phonetic": "ˈvɪdiəʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "视频；录像"
+        }
+      ]
+    },
+    {
+      "word": "village",
+      "phonetic": "ˈvɪlɪdʒ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "村庄"
+        }
+      ]
+    },
+    {
+      "word": "visit",
+      "phonetic": "ˈvɪzɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "访问；参观"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "拜访；参观"
+        }
+      ]
+    },
+    {
+      "word": "visitor",
+      "phonetic": "ˈvɪzɪtə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "访客；游客"
+        }
+      ]
+    },
+    {
+      "word": "wait",
+      "phonetic": "weɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "等；等待"
+        }
+      ]
+    },
+    {
+      "word": "waiter",
+      "phonetic": "ˈweɪtə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "服务员（通常指男性）"
+        }
+      ]
+    },
+    {
+      "word": "wake",
+      "phonetic": "weɪk",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "醒来；叫醒"
+        }
+      ]
+    },
+    {
+      "word": "walk",
+      "phonetic": "wɔːk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "步行；散步"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "走路；步行"
+        }
+      ]
+    },
+    {
+      "word": "wall",
+      "phonetic": "wɔːl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "墙"
+        }
+      ]
+    },
+    {
+      "word": "want",
+      "phonetic": "wɒnt",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "想要"
+        }
+      ]
+    },
+    {
+      "word": "warm",
+      "phonetic": "wɔːm",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "温暖的"
+        }
+      ]
+    },
+    {
+      "word": "wash",
+      "phonetic": "wɒʃ",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "洗"
+        }
+      ]
+    },
+    {
+      "word": "watch",
+      "phonetic": "wɒtʃ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "手表"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "观看；注视"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "phonetic": "ˈwɔːtə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "水"
+        }
+      ]
+    },
+    {
+      "word": "way",
+      "phonetic": "weɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "方法；路；方向"
+        }
+      ]
+    },
+    {
+      "word": "we",
+      "phonetic": "wiː",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "我们（主语）"
+        }
+      ]
+    },
+    {
+      "word": "wear",
+      "phonetic": "weə",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "穿；戴"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "phonetic": "ˈweðə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "天气"
+        }
+      ]
+    },
+    {
+      "word": "website",
+      "phonetic": "ˈwebsaɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "网站"
+        }
+      ]
+    },
+    {
+      "word": "Wednesday",
+      "phonetic": "ˈwenzdeɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "星期三"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "phonetic": "wiːk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "星期；一周"
+        }
+      ]
+    },
+    {
+      "word": "weekend",
+      "phonetic": "ˌwiːkˈend",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "周末"
+        }
+      ]
+    },
+    {
+      "word": "welcome",
+      "phonetic": "ˈwelkəm",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "受欢迎的"
+        },
+        {
+          "partOfSpeech": "exclamation",
+          "chineseMeaning": "欢迎；不客气（You're welcome）"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "欢迎"
+        }
+      ]
+    },
+    {
+      "word": "well",
+      "phonetic": "wel",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "身体好的；健康的"
+        },
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "好地；顺利地"
+        },
+        {
+          "partOfSpeech": "exclamation",
+          "chineseMeaning": "嗯；好吧（引出话语）"
+        }
+      ]
+    },
+    {
+      "word": "west",
+      "phonetic": "west",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "西方的"
+        },
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "向西；在西方"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "西方；西部"
+        }
+      ]
+    },
+    {
+      "word": "what",
+      "phonetic": "wɒt",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "什么；多么（后接名词）"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "什么（事物）"
+        }
+      ]
+    },
+    {
+      "word": "when",
+      "phonetic": "wen",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "什么时候"
+        },
+        {
+          "partOfSpeech": "conjunction",
+          "chineseMeaning": "当……时"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "什么时候；何时（用于问时间）"
+        }
+      ]
+    },
+    {
+      "word": "where",
+      "phonetic": "weə",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "在哪里；到哪里"
+        },
+        {
+          "partOfSpeech": "conjunction",
+          "chineseMeaning": "在……的地方（引出从句）"
+        }
+      ]
+    },
+    {
+      "word": "which",
+      "phonetic": "wɪtʃ",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "哪一个的（后接名词）"
+        },
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "哪一个；哪些"
+        }
+      ]
+    },
+    {
+      "word": "white",
+      "phonetic": "waɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "白色的"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "白色"
+        }
+      ]
+    },
+    {
+      "word": "who",
+      "phonetic": "huː",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "谁"
+        }
+      ]
+    },
+    {
+      "word": "why",
+      "phonetic": "waɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "为什么"
+        }
+      ]
+    },
+    {
+      "word": "wife",
+      "phonetic": "waɪf",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "妻子"
+        }
+      ]
+    },
+    {
+      "word": "will",
+      "phonetic": "wɪl; wəl",
+      "meanings": [
+        {
+          "partOfSpeech": "modal verb",
+          "chineseMeaning": "将；会（表示将来或意愿）"
+        }
+      ]
+    },
+    {
+      "word": "win",
+      "phonetic": "wɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "赢；获胜"
+        }
+      ]
+    },
+    {
+      "word": "window",
+      "phonetic": "ˈwɪndəʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "窗户；窗口"
+        }
+      ]
+    },
+    {
+      "word": "wine",
+      "phonetic": "waɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "葡萄酒"
+        }
+      ]
+    },
+    {
+      "word": "winter",
+      "phonetic": "ˈwɪntə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "冬天"
+        }
+      ]
+    },
+    {
+      "word": "with",
+      "phonetic": "wɪð; wɪθ",
+      "meanings": [
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "和……一起；用；带有"
+        }
+      ]
+    },
+    {
+      "word": "without",
+      "phonetic": "wɪˈðaʊt",
+      "meanings": [
+        {
+          "partOfSpeech": "preposition",
+          "chineseMeaning": "没有；不带"
+        }
+      ]
+    },
+    {
+      "word": "woman",
+      "phonetic": "ˈwʊmən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "成年女子；女人"
+        }
+      ]
+    },
+    {
+      "word": "wonderful",
+      "phonetic": "ˈwʌndəfəl",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "很棒的；令人愉快的"
+        }
+      ]
+    },
+    {
+      "word": "word",
+      "phonetic": "wɜːd",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "单词；词；话"
+        }
+      ]
+    },
+    {
+      "word": "work",
+      "phonetic": "wɜːk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "工作；劳动"
+        },
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "工作；运转；起作用"
+        }
+      ]
+    },
+    {
+      "word": "worker",
+      "phonetic": "ˈwɜːkə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "工人；工作者"
+        }
+      ]
+    },
+    {
+      "word": "world",
+      "phonetic": "wɜːld",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "世界"
+        }
+      ]
+    },
+    {
+      "word": "would",
+      "phonetic": "wʊd; wəd",
+      "meanings": [
+        {
+          "partOfSpeech": "modal verb",
+          "chineseMeaning": "会；愿意（常用于礼貌请求，如 would like）"
+        }
+      ]
+    },
+    {
+      "word": "write",
+      "phonetic": "raɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "chineseMeaning": "写；书写"
+        }
+      ]
+    },
+    {
+      "word": "writer",
+      "phonetic": "ˈraɪtə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "作家；作者"
+        }
+      ]
+    },
+    {
+      "word": "writing",
+      "phonetic": "ˈraɪtɪŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "写作；书写"
+        }
+      ]
+    },
+    {
+      "word": "wrong",
+      "phonetic": "rɒŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "错误的；不对的"
+        }
+      ]
+    },
+    {
+      "word": "yeah",
+      "phonetic": "jeə",
+      "meanings": [
+        {
+          "partOfSpeech": "exclamation",
+          "chineseMeaning": "是的；对（口语）"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "phonetic": "jɪə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "年"
+        }
+      ]
+    },
+    {
+      "word": "yellow",
+      "phonetic": "ˈjeləʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "黄色的"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "黄色"
+        }
+      ]
+    },
+    {
+      "word": "yes",
+      "phonetic": "jes",
+      "meanings": [
+        {
+          "partOfSpeech": "exclamation",
+          "chineseMeaning": "是；对"
+        }
+      ]
+    },
+    {
+      "word": "yesterday",
+      "phonetic": "ˈjestədeɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "chineseMeaning": "在昨天"
+        },
+        {
+          "partOfSpeech": "noun",
+          "chineseMeaning": "昨天"
+        }
+      ]
+    },
+    {
+      "word": "you",
+      "phonetic": "juː",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "你；你们（主语或宾语）"
+        }
+      ]
+    },
+    {
+      "word": "young",
+      "phonetic": "jʌŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "chineseMeaning": "年轻的"
+        }
+      ]
+    },
+    {
+      "word": "your",
+      "phonetic": "jɔː; jə",
+      "meanings": [
+        {
+          "partOfSpeech": "determiner",
+          "chineseMeaning": "你的；你们的（后接名词）"
+        }
+      ]
+    },
+    {
+      "word": "yourself",
+      "phonetic": "jɔːˈself",
+      "meanings": [
+        {
+          "partOfSpeech": "pronoun",
+          "chineseMeaning": "你自己"
+        }
+      ]
+    }
+  ]
+}

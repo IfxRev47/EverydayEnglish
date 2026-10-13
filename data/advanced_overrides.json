@@ -1,0 +1,732 @@
+{
+  "about": {
+    "meanings": {
+      "adjective": "即将；快要（用于 be about to）"
+    }
+  },
+  "ai": {
+    "meanings": {
+      "noun": "人工智能"
+    },
+    "phonetic": "/ˌeɪ ˈaɪ/",
+    "word": "AI"
+  },
+  "better": {
+    "meanings": {
+      "noun": "更好的事物；更优秀的人"
+    }
+  },
+  "cream": {
+    "meanings": {
+      "adjective": "奶油色的"
+    }
+  },
+  "double": {
+    "meanings": {
+      "adverb": "双倍地"
+    }
+  },
+  "it": {
+    "meanings": {
+      "noun": "信息技术"
+    },
+    "phonetic": "/ˌaɪ ˈtiː/",
+    "word": "IT"
+  },
+  "nor": {
+    "meanings": {
+      "adverb": "也不"
+    }
+  },
+  "plenty": {
+    "meanings": {
+      "pronoun": "大量；充足"
+    }
+  },
+  "used to": {
+    "meanings": {
+      "adjective": "习惯于；适应了（用于 be used to）"
+    },
+    "phonetic": "/ˈjuːst tə/"
+  },
+  "whatever": {
+    "meanings": {
+      "determiner": "无论什么；任何",
+      "adverb": "丝毫；无论如何"
+    }
+  },
+  "wi-fi™": {
+    "meanings": {
+      "noun": "无线局域网连接"
+    },
+    "phonetic": "/ˈwaɪ faɪ/",
+    "word": "Wi-Fi™"
+  },
+  "worldwide": {
+    "meanings": {
+      "adverb": "在全世界"
+    }
+  },
+  "affordable": {
+    "meanings": {
+      "adjective": "负担得起的"
+    },
+    "phonetic": "/əˈfɔːdəbl/"
+  },
+  "agenda": {
+    "meanings": {
+      "noun": "议程；待办事项"
+    }
+  },
+  "bacteria": {
+    "meanings": {
+      "noun": "细菌"
+    }
+  },
+  "conservative": {
+    "meanings": {
+      "noun": "保守的人；保守派成员"
+    }
+  },
+  "core": {
+    "meanings": {
+      "adjective": "核心的；最重要的"
+    }
+  },
+  "dairy": {
+    "meanings": {
+      "adjective": "乳制品的；奶业的"
+    }
+  },
+  "following": {
+    "meanings": {
+      "preposition": "在……之后"
+    }
+  },
+  "full-time": {
+    "meanings": {
+      "adverb": "全职地"
+    },
+    "phonetic": "/ˌfʊl ˈtaɪm/"
+  },
+  "funding": {
+    "meanings": {
+      "noun": "资金；资助"
+    }
+  },
+  "globalization": {
+    "meanings": {
+      "noun": "全球化"
+    }
+  },
+  "latest": {
+    "meanings": {
+      "noun": "最新消息；最新事物"
+    }
+  },
+  "long-term": {
+    "meanings": {
+      "adverb": "长期地"
+    },
+    "phonetic": "/ˌlɒŋ ˈtɜːm/"
+  },
+  "national": {
+    "meanings": {
+      "noun": "某国国民"
+    }
+  },
+  "pandemic": {
+    "meanings": {
+      "noun": "大流行病"
+    }
+  },
+  "plus": {
+    "meanings": {
+      "conjunction": "而且；另外"
+    }
+  },
+  "positive": {
+    "meanings": {
+      "noun": "积极因素；优势"
+    }
+  },
+  "racist": {
+    "meanings": {
+      "adjective": "种族主义的；种族歧视的"
+    }
+  },
+  "rubber": {
+    "meanings": {
+      "adjective": "橡胶制的"
+    }
+  },
+  "screening": {
+    "meanings": {
+      "noun": "筛查；审查；电影放映"
+    }
+  },
+  "trading": {
+    "meanings": {
+      "noun": "交易；贸易"
+    }
+  },
+  "trillion": {
+    "meanings": {
+      "number": "一万亿"
+    }
+  },
+  "well-being": {
+    "meanings": {
+      "noun": "身心健康；幸福"
+    }
+  },
+  "wherever": {
+    "meanings": {
+      "conjunction": "无论哪里；在任何地方"
+    }
+  },
+  "wrong": {
+    "meanings": {
+      "noun": "不公正的行为；坏事"
+    }
+  },
+  "amateur": {
+    "meanings": {
+      "adjective": "业余的；非专业的"
+    }
+  },
+  "benchmark": {
+    "meanings": {
+      "noun": "基准；衡量标准"
+    },
+    "phonetic": "/ˈbentʃmɑːk/"
+  },
+  "broadband": {
+    "meanings": {
+      "noun": "宽带"
+    }
+  },
+  "communist": {
+    "meanings": {
+      "adjective": "共产主义的；共产党的"
+    }
+  },
+  "connectivity": {
+    "meanings": {
+      "noun": "连接能力；连通性"
+    }
+  },
+  "counselling": {
+    "meanings": {
+      "noun": "心理咨询；专业指导"
+    },
+    "phonetic": "/ˈkaʊnsəlɪŋ/"
+  },
+  "counter": {
+    "meanings": {
+      "verb": "反驳；抵消；对抗"
+    }
+  },
+  "cryptocurrency": {
+    "meanings": {
+      "noun": "加密货币"
+    },
+    "phonetic": "/ˈkrɪptəʊˌkʌrənsi/"
+  },
+  "cult": {
+    "meanings": {
+      "adjective": "受特定群体狂热喜爱的"
+    }
+  },
+  "deployment": {
+    "meanings": {
+      "noun": "部署；调配"
+    },
+    "phonetic": "/dɪˈplɔɪmənt/"
+  },
+  "extremist": {
+    "meanings": {
+      "noun": "极端主义者"
+    }
+  },
+  "feminist": {
+    "meanings": {
+      "adjective": "主张男女平等的；女权主义的"
+    }
+  },
+  "follow-up": {
+    "meanings": {
+      "noun": "后续行动；跟进"
+    },
+    "phonetic": "/ˈfɒləʊ ʌp/"
+  },
+  "latter": {
+    "meanings": {
+      "noun": "后者"
+    }
+  },
+  "listing": {
+    "meanings": {
+      "noun": "清单；目录；列表"
+    }
+  },
+  "mainstream": {
+    "meanings": {
+      "adjective": "主流的"
+    }
+  },
+  "migrant": {
+    "meanings": {
+      "adjective": "迁移的；移居的"
+    }
+  },
+  "militant": {
+    "meanings": {
+      "noun": "激进分子"
+    }
+  },
+  "proceeds": {
+    "meanings": {
+      "noun": "收入；收益"
+    }
+  },
+  "processing": {
+    "meanings": {
+      "noun": "处理；加工"
+    }
+  },
+  "regardless": {
+    "meanings": {
+      "adverb": "不顾；不加理会"
+    }
+  },
+  "scam": {
+    "meanings": {
+      "verb": "欺诈；骗取"
+    }
+  },
+  "socialist": {
+    "meanings": {
+      "adjective": "社会主义的"
+    }
+  },
+  "start-up": {
+    "meanings": {
+      "adjective": "创业阶段的；启动时的"
+    },
+    "phonetic": "/ˈstɑːt ʌp/"
+  },
+  "streaming": {
+    "meanings": {
+      "noun": "流媒体播放"
+    }
+  },
+  "trans": {
+    "meanings": {
+      "adjective": "跨性别的"
+    },
+    "phonetic": "/trænz/"
+  },
+  "vegan": {
+    "meanings": {
+      "adjective": "严格素食的；不使用动物产品的"
+    }
+  },
+  "whatsoever": {
+    "meanings": {
+      "adverb": "丝毫；无论如何"
+    }
+  },
+  "terms": {
+    "meanings": {
+      "noun": "条件；条款；关系"
+    },
+    "phonetic": "/tɜːmz/"
+  },
+  "additionally": {
+    "phonetic": "/əˈdɪʃənəli/"
+  },
+  "all-time": {
+    "phonetic": "/ˈɔːl taɪm/"
+  },
+  "annoyed": {
+    "phonetic": "/əˈnɔɪd/"
+  },
+  "associated": {
+    "phonetic": "/əˈsəʊʃieɪtɪd/"
+  },
+  "confusing": {
+    "phonetic": "/kənˈfjuːzɪŋ/"
+  },
+  "consistently": {
+    "phonetic": "/kənˈsɪstəntli/"
+  },
+  "curved": {
+    "phonetic": "/kɜːvd/"
+  },
+  "decision-making": {
+    "phonetic": "/dɪˈsɪʒn meɪkɪŋ/"
+  },
+  "expected": {
+    "phonetic": "/ɪkˈspektɪd/"
+  },
+  "firework": {
+    "phonetic": "/ˈfaɪəwɜːk/"
+  },
+  "flawed": {
+    "phonetic": "/flɔːd/"
+  },
+  "genuinely": {
+    "phonetic": "/ˈdʒenjuɪnli/"
+  },
+  "impressed": {
+    "phonetic": "/ɪmˈprest/"
+  },
+  "ironically": {
+    "phonetic": "/aɪˈrɒnɪkli/"
+  },
+  "large-scale": {
+    "phonetic": "/ˌlɑːdʒ ˈskeɪl/"
+  },
+  "located": {
+    "phonetic": "/ləʊˈkeɪtɪd/"
+  },
+  "mindset": {
+    "phonetic": "/ˈmaɪndset/"
+  },
+  "non-profit": {
+    "phonetic": "/ˌnɒn ˈprɒfɪt/"
+  },
+  "part-time": {
+    "phonetic": "/ˌpɑːt ˈtaɪm/"
+  },
+  "planning": {
+    "phonetic": "/ˈplænɪŋ/"
+  },
+  "podcast": {
+    "phonetic": "/ˈpɒdkɑːst/"
+  },
+  "predominantly": {
+    "phonetic": "/prɪˈdɒmɪnəntli/"
+  },
+  "protester": {
+    "phonetic": "/prəˈtestə/"
+  },
+  "relaxing": {
+    "phonetic": "/rɪˈlæksɪŋ/"
+  },
+  "set-up": {
+    "phonetic": "/ˈset ʌp/"
+  },
+  "short-term": {
+    "phonetic": "/ˌʃɔːt ˈtɜːm/"
+  },
+  "significantly": {
+    "phonetic": "/sɪɡˈnɪfɪkəntli/"
+  },
+  "so-called": {
+    "phonetic": "/ˌsəʊ ˈkɔːld/"
+  },
+  "specialized": {
+    "phonetic": "/ˈspeʃəlaɪzd/"
+  },
+  "willingness": {
+    "phonetic": "/ˈwɪlɪŋnəs/"
+  },
+  "workforce": {
+    "phonetic": "/ˈwɜːkfɔːs/"
+  },
+  "workplace": {
+    "phonetic": "/ˈwɜːkpleɪs/"
+  },
+  "attribute": {
+    "phonetics": {
+      "noun": "/ˈætrɪbjuːt/",
+      "verb": "/əˈtrɪbjuːt/"
+    }
+  },
+  "close": {
+    "phonetics": {
+      "adverb": "/kləʊs/",
+      "noun": "/kləʊz/"
+    },
+    "meanings": {
+      "noun": "结束；结尾",
+      "adverb": "靠近地；紧挨着"
+    }
+  },
+  "conduct": {
+    "phonetics": {
+      "noun": "/ˈkɒndʌkt/",
+      "verb": "/kənˈdʌkt/"
+    }
+  },
+  "conflict": {
+    "phonetics": {
+      "noun": "/ˈkɒnflɪkt/",
+      "verb": "/kənˈflɪkt/"
+    }
+  },
+  "console": {
+    "phonetics": {
+      "noun": "/ˈkɒnsəʊl/"
+    }
+  },
+  "construct": {
+    "phonetics": {
+      "verb": "/kənˈstrʌkt/"
+    }
+  },
+  "content": {
+    "phonetics": {
+      "noun": "/ˈkɒntent/",
+      "adjective": "/kənˈtent/"
+    },
+    "meanings": {
+      "noun": "内容；所含之物",
+      "adjective": "满意的；满足的"
+    }
+  },
+  "contest": {
+    "phonetics": {
+      "noun": "/ˈkɒntest/",
+      "verb": "/kənˈtest/"
+    }
+  },
+  "contract": {
+    "phonetics": {
+      "noun": "/ˈkɒntrækt/",
+      "verb": "/kənˈtrækt/"
+    },
+    "meanings": {
+      "noun": "合同；契约",
+      "verb": "收缩；感染；订立合同"
+    }
+  },
+  "contrast": {
+    "phonetics": {
+      "noun": "/ˈkɒntrɑːst/",
+      "verb": "/kənˈtrɑːst/"
+    }
+  },
+  "convert": {
+    "phonetics": {
+      "verb": "/kənˈvɜːt/"
+    }
+  },
+  "convict": {
+    "phonetics": {
+      "verb": "/kənˈvɪkt/"
+    }
+  },
+  "coordinate": {
+    "phonetics": {
+      "verb": "/kəʊˈɔːdɪneɪt/"
+    }
+  },
+  "decrease": {
+    "phonetics": {
+      "noun": "/ˈdiːkriːs/",
+      "verb": "/dɪˈkriːs/"
+    }
+  },
+  "defect": {
+    "phonetics": {
+      "noun": "/ˈdiːfekt/"
+    }
+  },
+  "delegate": {
+    "phonetics": {
+      "noun": "/ˈdelɪɡət/"
+    }
+  },
+  "desert": {
+    "phonetics": {
+      "verb": "/dɪˈzɜːt/"
+    }
+  },
+  "discharge": {
+    "phonetics": {
+      "verb": "/dɪsˈtʃɑːdʒ/"
+    }
+  },
+  "discount": {
+    "phonetics": {
+      "noun": "/ˈdɪskaʊnt/",
+      "verb": "/dɪsˈkaʊnt/"
+    }
+  },
+  "excuse": {
+    "phonetics": {
+      "noun": "/ɪkˈskjuːs/",
+      "verb": "/ɪkˈskjuːz/"
+    }
+  },
+  "export": {
+    "phonetics": {
+      "noun": "/ˈekspɔːt/",
+      "verb": "/ɪkˈspɔːt/"
+    }
+  },
+  "extract": {
+    "phonetics": {
+      "noun": "/ˈekstrækt/",
+      "verb": "/ɪkˈstrækt/"
+    }
+  },
+  "import": {
+    "phonetics": {
+      "noun": "/ˈɪmpɔːt/",
+      "verb": "/ɪmˈpɔːt/"
+    }
+  },
+  "insult": {
+    "phonetics": {
+      "noun": "/ˈɪnsʌlt/",
+      "verb": "/ɪnˈsʌlt/"
+    }
+  },
+  "lead": {
+    "phonetics": {
+      "noun": "/liːd/"
+    },
+    "meanings": {
+      "noun": "领先地位；带头；线索"
+    }
+  },
+  "minute": {
+    "phonetics": {
+      "adjective": "/maɪˈnjuːt/"
+    },
+    "meanings": {
+      "adjective": "极小的；细微的"
+    }
+  },
+  "object": {
+    "phonetics": {
+      "verb": "/əbˈdʒekt/"
+    },
+    "meanings": {
+      "verb": "反对；提出异议"
+    }
+  },
+  "permit": {
+    "phonetics": {
+      "noun": "/ˈpɜːmɪt/",
+      "verb": "/pəˈmɪt/"
+    }
+  },
+  "produce": {
+    "phonetics": {
+      "noun": "/ˈprɒdjuːs/"
+    },
+    "meanings": {
+      "noun": "农产品"
+    }
+  },
+  "progress": {
+    "phonetics": {
+      "verb": "/prəˈɡres/"
+    },
+    "meanings": {
+      "verb": "进步；进展"
+    }
+  },
+  "project": {
+    "phonetics": {
+      "verb": "/prəˈdʒekt/"
+    },
+    "meanings": {
+      "verb": "预计；投射；展现"
+    }
+  },
+  "protest": {
+    "phonetics": {
+      "noun": "/ˈprəʊtest/",
+      "verb": "/prəˈtest/"
+    }
+  },
+  "rebel": {
+    "phonetics": {
+      "noun": "/ˈrebl/"
+    }
+  },
+  "recount": {
+    "phonetics": {
+      "verb": "/rɪˈkaʊnt/"
+    }
+  },
+  "subject": {
+    "phonetics": {
+      "adjective": "/ˈsʌbdʒɪkt/"
+    },
+    "meanings": {
+      "adjective": "可能受……影响的；取决于……的"
+    }
+  },
+  "suspect": {
+    "phonetics": {
+      "noun": "/ˈsʌspekt/",
+      "verb": "/səˈspekt/"
+    }
+  },
+  "survey": {
+    "phonetics": {
+      "verb": "/səˈveɪ/"
+    }
+  },
+  "transfer": {
+    "phonetics": {
+      "noun": "/ˈtrænsfɜː/",
+      "verb": "/trænsˈfɜː/"
+    }
+  },
+  "transport": {
+    "phonetics": {
+      "verb": "/trænˈspɔːt/"
+    }
+  },
+  "update": {
+    "phonetics": {
+      "noun": "/ˈʌpdeɪt/",
+      "verb": "/ˌʌpˈdeɪt/"
+    }
+  },
+  "wind": {
+    "phonetics": {
+      "verb": "/waɪnd/"
+    },
+    "meanings": {
+      "verb": "缠绕；卷绕；蜿蜒"
+    }
+  },
+  "wound": {
+    "phonetics": {
+      "noun": "/wuːnd/",
+      "verb": "/wuːnd/"
+    }
+  },
+  "tear": {
+    "phonetic": "/tɪə/; /teə/",
+    "meanings": {
+      "noun": "眼泪（/tɪə/）；裂口（/teə/）",
+      "verb": "撕；撕裂"
+    },
+    "phonetics": {
+      "noun": "/tɪə/; /teə/",
+      "verb": "/teə/"
+    },
+    "readings": {
+      "noun": [
+        {
+          "phonetic": "/tɪə/",
+          "chineseMeaning": "眼泪"
+        },
+        {
+          "phonetic": "/teə/",
+          "chineseMeaning": "裂口"
+        }
+      ]
+    }
+  }
+}
